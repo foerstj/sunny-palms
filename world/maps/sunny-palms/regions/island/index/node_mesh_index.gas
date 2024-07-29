@@ -135,4 +135,5 @@
 	0x00100cbf = t_sea01_sand-wet-08x04-f;
 	0x00100cc0 = t_sea01_seashore-a;
 	0x00100cc1 = t_sea01_seashore-barrier-8a;
+	0x00100cc2 = t_sea01_water;
 }

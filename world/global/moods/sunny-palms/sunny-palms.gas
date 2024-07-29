@@ -6,16 +6,16 @@
 
 	[frustum]
 	{
-		frustum_width		= 90.0f;
-		frustum_height		= 60.0f;
+		frustum_width		= 75.0f;
+		frustum_height		= 75.0f;
 	}
 
 	[fog]
 	{
-		fog_near_dist		= 60.0f;
-		fog_far_dist		= 100.0f;
-		fog_lowdetail_near_dist		= 30.0f;
-		fog_lowdetail_far_dist		= 50.0f;
+		fog_near_dist		= 45.0f;
+		fog_far_dist		= 75.0f;
+		fog_lowdetail_near_dist		= 20.0f;
+		fog_lowdetail_far_dist		= 35.0f;
 		fog_color			= 0xFF708090;
 		fog_density			= 0.5f;
 	}
