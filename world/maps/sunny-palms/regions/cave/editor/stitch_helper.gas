@@ -1,0 +1,14 @@
+[stitch_helper_data]
+{
+	source_region_guid = 0x00000002;
+	source_region_name = cave;
+	[t:stitch_editor,n:island]
+	{
+		dest_region = island;
+		[node_ids]
+		{
+			0x00000001 = 0x1CA47B34,8;
+			0x00000002 = 0xD665235D,8;
+		}
+	}
+}

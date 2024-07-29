@@ -21,7 +21,6 @@
 	0x00100621 = t_xxx_flr_08x08-v3;
 	0x00100625 = t_xxx_flr_bigstatue-head-12x16;
 	0x00100626 = t_xxx_flr_bigstatue-head-20x20;
-	0x00100653 = t_xxx_flr_pillar-08x08-c;
 	0x00100749 = t_xxx_ledg_08-thck-b;
 	0x0010074a = t_xxx_ledg_08-thck-t;
 	0x00100772 = t_xxx_ledg_tx-wal-08-l-b;
@@ -56,7 +55,6 @@
 	0x001007c7 = t_xxx_rmp_ctx-04-l;
 	0x001007c8 = t_xxx_rmp_ctx-04-r;
 	0x001007ce = t_xxx_rmp_pth-staircase;
-	0x001007d1 = t_xxx_rmp_pth-traverse-r;
 	0x001007d2 = t_xxx_rmp_pth-traverse-rails-l;
 	0x001007d4 = t_xxx_rmp_thck;
 	0x001007d5 = t_xxx_rmp_thin;
@@ -110,13 +108,8 @@
 	0x00100984 = t_xxx_wal_24-diag-thin-r;
 	0x00100985 = t_xxx_wal_24-thck;
 	0x00100986 = t_xxx_wal_24-thin;
-	0x00100989 = t_xxx_wal_24-tx-rmp-l;
-	0x0010098a = t_xxx_wal_24-tx-rmp-r;
-	0x001009c2 = t_xxx_wal_cave-tx-abc-base-back-a;
 	0x001009c3 = t_xxx_wal_cave-tx-abc-base-front-a;
-	0x001009c4 = t_xxx_wal_cave-tx-abc-sides-back-a;
 	0x001009c5 = t_xxx_wal_cave-tx-abc-sides-front-a;
-	0x001009c6 = t_xxx_wal_cave-tx-abc-top-back-a;
 	0x001009c7 = t_xxx_wal_cave-tx-abc-top-front-a;
 	0x00100bf8 = t_grs01_heal-area-8x8;
 	0x00100c07 = t_grs01_statue-generic-flr-a;
