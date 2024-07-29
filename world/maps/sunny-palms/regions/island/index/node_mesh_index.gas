@@ -19,6 +19,9 @@
 	0x0010061e = t_xxx_flr_08x08-v0;
 	0x00100620 = t_xxx_flr_08x08-v2;
 	0x00100621 = t_xxx_flr_08x08-v3;
+	0x00100625 = t_xxx_flr_bigstatue-head-12x16;
+	0x00100626 = t_xxx_flr_bigstatue-head-20x20;
+	0x00100653 = t_xxx_flr_pillar-08x08-c;
 	0x00100749 = t_xxx_ledg_08-thck-b;
 	0x0010074a = t_xxx_ledg_08-thck-t;
 	0x00100772 = t_xxx_ledg_tx-wal-08-l-b;
@@ -61,6 +64,14 @@
 	0x001007dd = t_xxx_rmp_tx-wal-04-thck-r;
 	0x001007de = t_xxx_rmp_tx-wal-04-thin-l;
 	0x001007df = t_xxx_rmp_tx-wal-04-thin-r;
+	0x00100830 = t_xxx_ruin_flr-04x04-a;
+	0x00100855 = t_xxx_ruin_support-08x04-a;
+	0x00100856 = t_xxx_ruin_support-08x08-a;
+	0x00100857 = t_xxx_ruin_wall-04x04-a;
+	0x00100859 = t_xxx_ruin_wall-08x04-a;
+	0x0010085a = t_xxx_ruin_wall-08x04-b;
+	0x0010085b = t_xxx_ruin_wall-cnr-a;
+	0x0010085d = t_xxx_ruin_well-08x08-a;
 	0x00100944 = t_xxx_wal_04-diag-thick-l;
 	0x00100945 = t_xxx_wal_04-diag-thick-r;
 	0x00100946 = t_xxx_wal_04-diag-thin-l;
