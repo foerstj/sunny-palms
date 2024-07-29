@@ -1,6 +1,6 @@
 [mood_setting*]
 {
-	mood_name				= sunny-palms;
+	mood_name				= sunny-palms-island;
 	transition_time			= 4.0f;
 	interior				= false;
 
@@ -23,8 +23,41 @@
 	[music]
 	{
 		ambient_track		= "";
+        standard_intro_delay = 4.0f;
 		standard_repeat_delay	= 10.0f;
 		standard_track		= "s_m_besiegedtown_04";
+		room_type			= rt_generic;
+	}
+}
+
+[mood_setting*]
+{
+	mood_name				= sunny-palms-cave;
+	transition_time			= 1.0f;
+	interior				= true;
+
+	[frustum]
+	{
+		frustum_width		= 75.0f;
+		frustum_height		= 75.0f;
+	}
+
+	[fog]
+	{
+		fog_near_dist		= 45.0f;
+		fog_far_dist		= 75.0f;
+		fog_lowdetail_near_dist		= 20.0f;
+		fog_lowdetail_far_dist		= 35.0f;
+		fog_color			= 0xFF000000;
+		fog_density			= 0.5f;
+	}
+
+	[music]
+	{
+		ambient_track		= "";
+        standard_intro_delay = 2.0f;
+		standard_repeat_delay	= 10.0f;
+		standard_track		= "s_m_subriver_03";
 		room_type			= rt_generic;
 	}
 }
