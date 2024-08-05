@@ -22,9 +22,9 @@
 
 	[music]
 	{
-		ambient_track		= "";
-        standard_intro_delay = 4.0f;
-		standard_repeat_delay	= 10.0f;
+		ambient_track		= "s_e_ambient_bird1";
+        standard_intro_delay = 6.0f;
+		standard_repeat_delay	= 12.0f;
 		standard_track		= "s_m_besiegedtown_04";
 		room_type			= rt_generic;
 	}
@@ -33,7 +33,7 @@
 [mood_setting*]
 {
 	mood_name				= sunny-palms-cave;
-	transition_time			= 1.0f;
+	transition_time			= 2.0f;
 	interior				= true;
 
 	[frustum]
@@ -55,8 +55,8 @@
 	[music]
 	{
 		ambient_track		= "";
-        standard_intro_delay = 2.0f;
-		standard_repeat_delay	= 10.0f;
+        standard_intro_delay = 3.0f;
+		standard_repeat_delay	= 6.0f;
 		standard_track		= "s_m_subriver_03";
 		room_type			= rt_generic;
 	}
