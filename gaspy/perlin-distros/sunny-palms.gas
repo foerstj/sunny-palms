@@ -8,9 +8,9 @@
     size = 0.8 1.2;
 
     // flowers: red
-    [*] { seed = 0.15, 0, 8; templates = flowers_grs_red; size = 1.6 2.4; }
+    [*] { seed = 0.2, 0.05, 8; templates = flowers_grs_red; size = 1.6 2.4 2; }
     // groundcover
-    [*] { seed = 0.1, 0.05, 4; templates = foliage_grs_01; }
+    [*] { seed = 0.1, 0, 4; templates = foliage_grs_01; size = 0.8 1.2 0.5; }
     // trees: palms
-    [*] { seed = 0.1, -0.05, 16; templates = tree_glb_palm_sway_02; }
+    [*] { seed = 0.1, -0.05, 2; templates = tree_glb_palm_sway_02; size = 0.8 1.2 1; }
 }
