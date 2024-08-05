@@ -9,7 +9,7 @@
 	  x color = 0xFF80A8FF;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
-	  f intensity = 0.250000;
+	  f intensity = 0.330000;
 	  b occlude_geometry = false;
 	  b on_timer = false;
 	  f outer_radius = 0.000000;
