@@ -7,7 +7,14 @@
 	0x0020061d = t_xxx_flr_04x08-v0;
 	0x0020061e = t_xxx_flr_08x08-v0;
 	0x00200653 = t_xxx_flr_pillar-08x08-c;
-	0x0020079d = t_xxx_pth_04x04-e;
+	0x0020079b = t_xxx_pth_04x04-c;
+	0x0020079c = t_xxx_pth_04x04-d;
+	0x002007a1 = t_xxx_pth_08x04-b;
+	0x002007a6 = t_xxx_pth_08x04-g;
+	0x002007a7 = t_xxx_pth_08x04-h;
+	0x002007ab = t_xxx_pth_08x08-b;
+	0x002007b0 = t_xxx_pth_08x08-g;
+	0x002007b1 = t_xxx_pth_08x08-h;
 	0x002007ce = t_xxx_rmp_pth-staircase;
 	0x002007d1 = t_xxx_rmp_pth-traverse-r;
 	0x002007d4 = t_xxx_rmp_thck;
