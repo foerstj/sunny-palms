@@ -32,6 +32,7 @@ if %errorlevel% neq 0 pause
 
 :: Compile resource file
 rmdir /S /Q "%tmp%\Bits"
+robocopy "%bits%\world\contentdb\templates\%map%" "%tmp%\Bits\world\contentdb\templates\%map%" /E
 robocopy "%bits%\world\global\moods\%map%" "%tmp%\Bits\world\global\moods\%map%" /E
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%map_cs%.dsres" -copyright "%copyright%" -title "%map_cs%" -author "%author%"
 if %errorlevel% neq 0 pause

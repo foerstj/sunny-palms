@@ -938,7 +938,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDBB85A8A;
+	  x siege_light = 0x1260484B;
 	}
 	[placement]
 	{
@@ -958,7 +958,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD1FAB8E8;
+	  x siege_light = 0x77DA6776;
 	}
 	[placement]
 	{
@@ -978,7 +978,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x853F4DF3;
+	  x siege_light = 0x7471E0BF;
 	}
 	[placement]
 	{
@@ -998,7 +998,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE6D05F40;
+	  x siege_light = 0xFCE6F4DA;
 	}
 	[placement]
 	{
@@ -1018,7 +1018,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8369BDC1;
+	  x siege_light = 0xDED3937E;
 	}
 	[placement]
 	{
@@ -1038,7 +1038,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x13826F39;
+	  x siege_light = 0x5D8D07A6;
 	}
 	[placement]
 	{
@@ -1058,7 +1058,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x35D9E4E0;
+	  x siege_light = 0x66B5ACE5;
 	}
 	[placement]
 	{
@@ -1078,7 +1078,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x66D97D84;
+	  x siege_light = 0x5BDC1D24;
 	}
 	[placement]
 	{
@@ -1802,7 +1802,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD69927AF;
+	  x siege_light = 0xB40770E5;
 	}
 	[placement]
 	{
@@ -1822,7 +1822,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF1113615;
+	  x siege_light = 0x675D9165;
 	}
 	[placement]
 	{
@@ -1842,7 +1842,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x08BA4862;
+	  x siege_light = 0x3C798312;
 	}
 	[placement]
 	{
@@ -1862,7 +1862,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x59D411FA;
+	  x siege_light = 0x7363EC74;
 	}
 	[placement]
 	{
@@ -1882,7 +1882,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7653CA89;
+	  x siege_light = 0x80E3C72D;
 	}
 	[placement]
 	{
@@ -1902,7 +1902,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x1E95A07E;
+	  x siege_light = 0x005A508B;
 	}
 	[placement]
 	{
@@ -1922,7 +1922,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB8A95819;
+	  x siege_light = 0x55DAD2DF;
 	}
 	[placement]
 	{
@@ -1942,7 +1942,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x1B0A4C01;
+	  x siege_light = 0x62E2C59C;
 	}
 	[placement]
 	{
@@ -1962,7 +1962,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8AD28467;
+	  x siege_light = 0x4BC0D72C;
 	}
 	[placement]
 	{
@@ -1982,7 +1982,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x13CED1B7;
+	  x siege_light = 0xAF6407A1;
 	}
 	[placement]
 	{
@@ -2002,7 +2002,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA22ADEEC;
+	  x siege_light = 0x6DEFFDD1;
 	}
 	[placement]
 	{
@@ -2598,7 +2598,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x360C930E;
+	  x siege_light = 0x74BBF5D3;
 	}
 	[placement]
 	{
@@ -2618,7 +2618,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFE51646A;
+	  x siege_light = 0x4014E424;
 	}
 	[placement]
 	{
@@ -2638,7 +2638,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x22FD5DF9;
+	  x siege_light = 0x010D5254;
 	}
 	[placement]
 	{
@@ -2658,7 +2658,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD9C38F1F;
+	  x siege_light = 0x073B473C;
 	}
 	[placement]
 	{
@@ -2678,7 +2678,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB2F0C606;
+	  x siege_light = 0x8AE8DE98;
 	}
 	[placement]
 	{
@@ -2698,7 +2698,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x81ACA891;
+	  x siege_light = 0xD9AA08D6;
 	}
 	[placement]
 	{
@@ -2718,7 +2718,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2917793D;
+	  x siege_light = 0x86F45D17;
 	}
 	[placement]
 	{
@@ -3074,7 +3074,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4BB39765;
+	  x siege_light = 0x370D838E;
 	}
 	[placement]
 	{
@@ -3398,7 +3398,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDDF868D5;
+	  x siege_light = 0x6709A2B2;
 	}
 	[placement]
 	{
@@ -3690,7 +3690,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA50B64A0;
+	  x siege_light = 0x01B23700;
 	}
 	[placement]
 	{
@@ -3710,7 +3710,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x35DB1B88;
+	  x siege_light = 0xB002A23A;
 	}
 	[placement]
 	{
@@ -5458,7 +5458,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5DF30155;
+	  x siege_light = 0xB43E1BEC;
 	}
 	[placement]
 	{
@@ -5478,7 +5478,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x60CD1AD9;
+	  x siege_light = 0xA8FA3BE5;
 	}
 	[placement]
 	{
@@ -5498,7 +5498,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xAB671CE5;
+	  x siege_light = 0x6DBCDFA1;
 	}
 	[placement]
 	{
@@ -5518,7 +5518,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x99271E3F;
+	  x siege_light = 0x050C8FF5;
 	}
 	[placement]
 	{
@@ -6338,7 +6338,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xCD7A5B89;
+	  x siege_light = 0x7EBB0F1A;
 	}
 	[placement]
 	{
@@ -6358,7 +6358,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3532C544;
+	  x siege_light = 0x31A2C38F;
 	}
 	[placement]
 	{
@@ -6570,7 +6570,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x22213F86;
+	  x siege_light = 0xC499ECC6;
 	}
 	[placement]
 	{
@@ -6590,7 +6590,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x07CD5D5A;
+	  x siege_light = 0xD2F10EF7;
 	}
 	[placement]
 	{
@@ -6994,7 +6994,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA7343EAF;
+	  x siege_light = 0xBA38D5F1;
 	}
 	[placement]
 	{
@@ -7014,7 +7014,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB604F4B0;
+	  x siege_light = 0x089AF3EC;
 	}
 	[placement]
 	{
@@ -7034,7 +7034,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB178A020;
+	  x siege_light = 0xFF8BB1D7;
 	}
 	[placement]
 	{
@@ -7054,7 +7054,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF8B46F9C;
+	  x siege_light = 0x439AC747;
 	}
 	[placement]
 	{
@@ -7074,7 +7074,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x01CF215B;
+	  x siege_light = 0x62DB9F37;
 	}
 	[placement]
 	{
@@ -7094,7 +7094,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x1DA35ABE;
+	  x siege_light = 0x00E56336;
 	}
 	[placement]
 	{
@@ -7114,7 +7114,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x38EC4E68;
+	  x siege_light = 0x0B490A78;
 	}
 	[placement]
 	{
@@ -7134,7 +7134,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5C1E6630;
+	  x siege_light = 0x7BF02FB3;
 	}
 	[placement]
 	{
@@ -7378,7 +7378,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5C772695;
+	  x siege_light = 0xEB3DF2CA;
 	}
 	[placement]
 	{
@@ -7398,7 +7398,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x18FC5FA5;
+	  x siege_light = 0x6E6530DF;
 	}
 	[placement]
 	{
@@ -7418,7 +7418,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5FDAACAB;
+	  x siege_light = 0xA52900C4;
 	}
 	[placement]
 	{
@@ -7438,7 +7438,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x0CB67E57;
+	  x siege_light = 0x21BD7C9F;
 	}
 	[placement]
 	{
@@ -7458,7 +7458,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x57687B25;
+	  x siege_light = 0x1DC76E39;
 	}
 	[placement]
 	{
@@ -7926,7 +7926,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6759BDC9;
+	  x siege_light = 0x54480669;
 	}
 	[placement]
 	{
@@ -7946,7 +7946,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC5026536;
+	  x siege_light = 0xFC23451F;
 	}
 	[placement]
 	{
@@ -7966,7 +7966,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8474A157;
+	  x siege_light = 0xED1F1CC7;
 	}
 	[placement]
 	{
@@ -7986,7 +7986,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x93D7A3A9;
+	  x siege_light = 0xCE207A94;
 	}
 	[placement]
 	{
@@ -8006,7 +8006,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDD76CA5C;
+	  x siege_light = 0x1FE2EB6E;
 	}
 	[placement]
 	{
@@ -8026,7 +8026,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB6B9C97B;
+	  x siege_light = 0x84159769;
 	}
 	[placement]
 	{
@@ -8350,7 +8350,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x40C4E06D;
+	  x siege_light = 0x0FBB3C96;
 	}
 	[placement]
 	{
@@ -8370,7 +8370,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF286735C;
+	  x siege_light = 0x83B23A20;
 	}
 	[placement]
 	{
@@ -8390,7 +8390,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB01D6E49;
+	  x siege_light = 0x8B2B6D32;
 	}
 	[placement]
 	{
@@ -8634,7 +8634,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xEF3B8D17;
+	  x siege_light = 0x7CE13213;
 	}
 	[placement]
 	{
@@ -8654,7 +8654,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4A55E8AA;
+	  x siege_light = 0xF3C28192;
 	}
 	[placement]
 	{
@@ -8674,7 +8674,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x880E2732;
+	  x siege_light = 0x22075491;
 	}
 	[placement]
 	{
@@ -9094,7 +9094,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4802D3F8;
+	  x siege_light = 0xCBF96870;
 	}
 	[placement]
 	{
@@ -9114,7 +9114,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA8F94053;
+	  x siege_light = 0xDC375207;
 	}
 	[placement]
 	{
@@ -9134,7 +9134,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xBF5B9395;
+	  x siege_light = 0x47D20688;
 	}
 	[placement]
 	{
@@ -9794,7 +9794,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8F2320D0;
+	  x siege_light = 0xA5B85C20;
 	}
 	[placement]
 	{
@@ -9814,7 +9814,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4D55CF44;
+	  x siege_light = 0x746FB163;
 	}
 	[placement]
 	{
@@ -9834,7 +9834,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8C7E0390;
+	  x siege_light = 0xD435CD3E;
 	}
 	[placement]
 	{
@@ -9854,7 +9854,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x016B6987;
+	  x siege_light = 0xDBD3F03A;
 	}
 	[placement]
 	{
@@ -9874,7 +9874,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x697809BC;
+	  x siege_light = 0x6D255FD8;
 	}
 	[placement]
 	{
@@ -10390,7 +10390,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x14B3DF94;
+	  x siege_light = 0xF4166549;
 	}
 	[placement]
 	{
@@ -10794,7 +10794,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x75EEA6AF;
+	  x siege_light = 0x279C8B3F;
 	}
 	[placement]
 	{
@@ -10814,7 +10814,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x226986D3;
+	  x siege_light = 0x53FC8F14;
 	}
 	[placement]
 	{
@@ -10834,7 +10834,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFEDC36C2;
+	  x siege_light = 0x898C6C81;
 	}
 	[placement]
 	{
@@ -10854,7 +10854,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD74908BD;
+	  x siege_light = 0x5B51109B;
 	}
 	[placement]
 	{
@@ -10874,7 +10874,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB797D312;
+	  x siege_light = 0xCB11305E;
 	}
 	[placement]
 	{
@@ -10894,7 +10894,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xACD94F91;
+	  x siege_light = 0xD23030C1;
 	}
 	[placement]
 	{
@@ -10914,7 +10914,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x12471CB9;
+	  x siege_light = 0xAB1B2A6F;
 	}
 	[placement]
 	{
@@ -10934,7 +10934,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4D369109;
+	  x siege_light = 0xFC903C3F;
 	}
 	[placement]
 	{
@@ -10954,7 +10954,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5A9D2CAE;
+	  x siege_light = 0x8FDE574E;
 	}
 	[placement]
 	{
@@ -11582,7 +11582,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4358FDC2;
+	  x siege_light = 0x93A72A85;
 	}
 	[placement]
 	{
@@ -11602,7 +11602,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xCCC42FBA;
+	  x siege_light = 0x52940CE8;
 	}
 	[placement]
 	{
@@ -11622,7 +11622,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x72838D7C;
+	  x siege_light = 0x530ACC3F;
 	}
 	[placement]
 	{
@@ -11642,7 +11642,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5DA20012;
+	  x siege_light = 0xED7511F3;
 	}
 	[placement]
 	{
@@ -11662,7 +11662,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3BFE096B;
+	  x siege_light = 0xA24B3E31;
 	}
 	[placement]
 	{
@@ -11682,7 +11682,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC0BA704F;
+	  x siege_light = 0x58907BC1;
 	}
 	[placement]
 	{
@@ -11702,7 +11702,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC3F27411;
+	  x siege_light = 0x52398DEA;
 	}
 	[placement]
 	{
@@ -11722,7 +11722,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x50F05ABE;
+	  x siege_light = 0x7AAC42A9;
 	}
 	[placement]
 	{
@@ -12142,7 +12142,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x93AEB96B;
+	  x siege_light = 0x2B3FF0FF;
 	}
 	[placement]
 	{
@@ -12162,7 +12162,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x956265A9;
+	  x siege_light = 0x91006B16;
 	}
 	[placement]
 	{
@@ -12182,7 +12182,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5D8BE9DD;
+	  x siege_light = 0x01C13750;
 	}
 	[placement]
 	{
@@ -12202,7 +12202,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA9C41467;
+	  x siege_light = 0x54A1D32A;
 	}
 	[placement]
 	{
@@ -12222,7 +12222,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xABDE94BD;
+	  x siege_light = 0x9EF0C1D4;
 	}
 	[placement]
 	{
@@ -12434,7 +12434,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC8EF4942;
+	  x siege_light = 0xA662EA34;
 	}
 	[placement]
 	{
@@ -12454,7 +12454,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xBB2B9847;
+	  x siege_light = 0x46B99562;
 	}
 	[placement]
 	{
@@ -13146,7 +13146,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x165DF5CB;
+	  x siege_light = 0x0C713741;
 	}
 	[placement]
 	{
@@ -13166,7 +13166,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD91E4A6D;
+	  x siege_light = 0x3E486E1D;
 	}
 	[placement]
 	{
@@ -13186,7 +13186,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7512879E;
+	  x siege_light = 0x3F53F917;
 	}
 	[placement]
 	{
@@ -13206,7 +13206,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7C95EFDB;
+	  x siege_light = 0xAE9E5C05;
 	}
 	[placement]
 	{
@@ -13226,7 +13226,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF3FC29DA;
+	  x siege_light = 0x2517ACF3;
 	}
 	[placement]
 	{
@@ -13246,7 +13246,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2C0A6E99;
+	  x siege_light = 0xF56E9520;
 	}
 	[placement]
 	{
@@ -13266,7 +13266,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB9991A7E;
+	  x siege_light = 0x8B862E81;
 	}
 	[placement]
 	{
@@ -13286,7 +13286,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4717FC35;
+	  x siege_light = 0xB02D273C;
 	}
 	[placement]
 	{
@@ -13306,7 +13306,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5A86B6B5;
+	  x siege_light = 0x6C37E02B;
 	}
 	[placement]
 	{
@@ -13326,7 +13326,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDE1DED5A;
+	  x siege_light = 0x66A46CA7;
 	}
 	[placement]
 	{
@@ -13346,7 +13346,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFEF73ABF;
+	  x siege_light = 0x7D757FEF;
 	}
 	[placement]
 	{
@@ -13366,7 +13366,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x20A72451;
+	  x siege_light = 0xDE08AEAE;
 	}
 	[placement]
 	{
@@ -13386,7 +13386,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB6A2248D;
+	  x siege_light = 0x32A758FA;
 	}
 	[placement]
 	{
@@ -13566,7 +13566,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4C0296AD;
+	  x siege_light = 0x098EC3E3;
 	}
 	[placement]
 	{
@@ -13586,7 +13586,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8E8DB06D;
+	  x siege_light = 0x794A47A9;
 	}
 	[placement]
 	{
@@ -13606,7 +13606,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x831D68C7;
+	  x siege_light = 0x66E7ABB4;
 	}
 	[placement]
 	{
@@ -14042,7 +14042,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x35398C05;
+	  x siege_light = 0x6BFA5087;
 	}
 	[placement]
 	{
@@ -14862,7 +14862,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDEF04AE7;
+	  x siege_light = 0x4CB5AD9D;
 	}
 	[placement]
 	{
@@ -14882,7 +14882,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xCCD49029;
+	  x siege_light = 0xE4056930;
 	}
 	[placement]
 	{
@@ -14902,7 +14902,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x692FFEAE;
+	  x siege_light = 0xFA12C545;
 	}
 	[placement]
 	{
@@ -14922,7 +14922,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xCD412863;
+	  x siege_light = 0x018279D1;
 	}
 	[placement]
 	{
@@ -14942,7 +14942,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x02F4A59D;
+	  x siege_light = 0xF19D6C10;
 	}
 	[placement]
 	{
@@ -14962,7 +14962,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x14036520;
+	  x siege_light = 0x9EC540E2;
 	}
 	[placement]
 	{
@@ -14982,7 +14982,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4173CEEE;
+	  x siege_light = 0xAC0164F7;
 	}
 	[placement]
 	{
@@ -15002,7 +15002,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE4D16040;
+	  x siege_light = 0xCCF9F0E2;
 	}
 	[placement]
 	{
@@ -15022,7 +15022,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x60D3041A;
+	  x siege_light = 0x7E735A0D;
 	}
 	[placement]
 	{
@@ -15410,7 +15410,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x193B254F;
+	  x siege_light = 0x73941FB7;
 	}
 	[placement]
 	{
@@ -15430,7 +15430,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x983BC05E;
+	  x siege_light = 0xB85E018C;
 	}
 	[placement]
 	{
@@ -15450,7 +15450,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x41686D5E;
+	  x siege_light = 0x0660334E;
 	}
 	[placement]
 	{
@@ -15470,7 +15470,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC0A150EB;
+	  x siege_light = 0xC7DFB638;
 	}
 	[placement]
 	{
@@ -15906,7 +15906,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x064359A1;
+	  x siege_light = 0x26F5351F;
 	}
 	[placement]
 	{
@@ -15926,7 +15926,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x27C54629;
+	  x siege_light = 0x3AA26D4B;
 	}
 	[placement]
 	{
@@ -15946,7 +15946,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xEDF339FC;
+	  x siege_light = 0xE6029DF1;
 	}
 	[placement]
 	{
@@ -15966,7 +15966,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5A471B7B;
+	  x siege_light = 0x0217CDE7;
 	}
 	[placement]
 	{
@@ -15986,7 +15986,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9D6D86E4;
+	  x siege_light = 0x2E023808;
 	}
 	[placement]
 	{
@@ -16006,7 +16006,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF447AEDE;
+	  x siege_light = 0xB699B897;
 	}
 	[placement]
 	{
@@ -16554,7 +16554,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x66952051;
+	  x siege_light = 0x5D4567E5;
 	}
 	[placement]
 	{
@@ -16574,7 +16574,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x284546E9;
+	  x siege_light = 0x3D8BB551;
 	}
 	[placement]
 	{
@@ -16594,7 +16594,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xCA95AC41;
+	  x siege_light = 0x23511D37;
 	}
 	[placement]
 	{
@@ -16614,7 +16614,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7A4CD7C4;
+	  x siege_light = 0x674B54F7;
 	}
 	[placement]
 	{
@@ -16634,7 +16634,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9E4E49D3;
+	  x siege_light = 0xD46F3681;
 	}
 	[placement]
 	{
@@ -16654,7 +16654,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF8E0F2AA;
+	  x siege_light = 0x9C13FA1C;
 	}
 	[placement]
 	{
@@ -16674,7 +16674,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x86A9F94F;
+	  x siege_light = 0x2F9B14DD;
 	}
 	[placement]
 	{
@@ -16694,7 +16694,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8981139A;
+	  x siege_light = 0x4E76EF92;
 	}
 	[placement]
 	{
@@ -16714,7 +16714,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x55E071E3;
+	  x siege_light = 0x5402FA24;
 	}
 	[placement]
 	{
@@ -16734,7 +16734,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x249F56F0;
+	  x siege_light = 0xD3C6E7EF;
 	}
 	[placement]
 	{
@@ -16754,7 +16754,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDE3AF9E0;
+	  x siege_light = 0xC50F7751;
 	}
 	[placement]
 	{
@@ -17478,7 +17478,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x627E201B;
+	  x siege_light = 0x444409EB;
 	}
 	[placement]
 	{
@@ -17498,7 +17498,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x96D8137D;
+	  x siege_light = 0x8ACCEE35;
 	}
 	[placement]
 	{
@@ -17518,7 +17518,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9670E17A;
+	  x siege_light = 0x173CDD2E;
 	}
 	[placement]
 	{
@@ -17538,7 +17538,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x075EBE72;
+	  x siege_light = 0x434700B1;
 	}
 	[placement]
 	{
@@ -17558,7 +17558,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3435FEEF;
+	  x siege_light = 0xE4AA2581;
 	}
 	[placement]
 	{
@@ -17578,7 +17578,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3365A770;
+	  x siege_light = 0x7D4868F9;
 	}
 	[placement]
 	{
@@ -17598,7 +17598,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5A79F3F5;
+	  x siege_light = 0x89A66D70;
 	}
 	[placement]
 	{
@@ -17618,7 +17618,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x38F1D29E;
+	  x siege_light = 0x0D7D0176;
 	}
 	[placement]
 	{
@@ -17638,7 +17638,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x205B29CD;
+	  x siege_light = 0x7D8FA2FD;
 	}
 	[placement]
 	{
@@ -17658,7 +17658,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xABBD77D5;
+	  x siege_light = 0x2090F492;
 	}
 	[placement]
 	{
@@ -18110,7 +18110,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB01D3BE2;
+	  x siege_light = 0x0FE12C4B;
 	}
 	[placement]
 	{
@@ -18130,7 +18130,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8C172CC9;
+	  x siege_light = 0x637E68F5;
 	}
 	[placement]
 	{
@@ -18150,7 +18150,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4EBBA765;
+	  x siege_light = 0x498FB32C;
 	}
 	[placement]
 	{
@@ -18170,7 +18170,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xBB229388;
+	  x siege_light = 0xC63A4B7E;
 	}
 	[placement]
 	{
@@ -18446,7 +18446,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7449EF59;
+	  x siege_light = 0xDF5E53F3;
 	}
 	[placement]
 	{
@@ -18466,7 +18466,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2AA1221F;
+	  x siege_light = 0xBFF9CF74;
 	}
 	[placement]
 	{
@@ -18486,7 +18486,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x14A7B7AF;
+	  x siege_light = 0x6446BD53;
 	}
 	[placement]
 	{
@@ -18506,7 +18506,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA318C38A;
+	  x siege_light = 0x4C0E616B;
 	}
 	[placement]
 	{
@@ -18526,7 +18526,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x1BCE669B;
+	  x siege_light = 0xE5974B5A;
 	}
 	[placement]
 	{
@@ -18882,7 +18882,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6E22EAD7;
+	  x siege_light = 0x5EF82533;
 	}
 	[placement]
 	{
@@ -18902,7 +18902,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD0660839;
+	  x siege_light = 0x7FB083A3;
 	}
 	[placement]
 	{
@@ -18922,7 +18922,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2137B437;
+	  x siege_light = 0x7F5F76A0;
 	}
 	[placement]
 	{
@@ -18942,7 +18942,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9C6D8918;
+	  x siege_light = 0x1A8D93F6;
 	}
 	[placement]
 	{
@@ -18962,7 +18962,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDC52B4FE;
+	  x siege_light = 0x3B300B60;
 	}
 	[placement]
 	{
@@ -18982,7 +18982,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC6237914;
+	  x siege_light = 0xBDDA330D;
 	}
 	[placement]
 	{
@@ -19418,7 +19418,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9F15FDFC;
+	  x siege_light = 0x59740139;
 	}
 	[placement]
 	{
@@ -19438,7 +19438,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD451FC3F;
+	  x siege_light = 0xBC53022E;
 	}
 	[placement]
 	{
@@ -19458,7 +19458,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x23B441D7;
+	  x siege_light = 0x2EBB903E;
 	}
 	[placement]
 	{
@@ -19478,7 +19478,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2D5E7DDD;
+	  x siege_light = 0x4BD24CEF;
 	}
 	[placement]
 	{
@@ -19994,7 +19994,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xBB28FB67;
+	  x siege_light = 0x21963DE1;
 	}
 	[placement]
 	{
@@ -20014,7 +20014,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2B8F244B;
+	  x siege_light = 0xB3755E17;
 	}
 	[placement]
 	{
@@ -20034,7 +20034,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4EC16822;
+	  x siege_light = 0xA137FD2E;
 	}
 	[placement]
 	{
@@ -20054,7 +20054,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x13770DFD;
+	  x siege_light = 0x365BEB52;
 	}
 	[placement]
 	{
@@ -20074,7 +20074,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x13B2F46E;
+	  x siege_light = 0xF132DD0A;
 	}
 	[placement]
 	{
@@ -20094,7 +20094,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x51CC62D1;
+	  x siege_light = 0x2E997936;
 	}
 	[placement]
 	{
@@ -20114,7 +20114,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x016D7174;
+	  x siege_light = 0x04B1EFD8;
 	}
 	[placement]
 	{
@@ -20134,7 +20134,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x144B09D6;
+	  x siege_light = 0x75D8A8C4;
 	}
 	[placement]
 	{
@@ -20154,7 +20154,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x14FA5CF9;
+	  x siege_light = 0xCF3C7AD1;
 	}
 	[placement]
 	{
@@ -20174,7 +20174,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB50BF1CD;
+	  x siege_light = 0x52909AA6;
 	}
 	[placement]
 	{
@@ -20354,7 +20354,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFBB90794;
+	  x siege_light = 0x5F12279F;
 	}
 	[placement]
 	{
@@ -20374,7 +20374,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9B02E236;
+	  x siege_light = 0xD4A0A5C0;
 	}
 	[placement]
 	{
@@ -21210,7 +21210,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA9FFD882;
+	  x siege_light = 0xE3C540E2;
 	}
 	[placement]
 	{
@@ -21230,7 +21230,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xCA42436A;
+	  x siege_light = 0xB77C26D0;
 	}
 	[placement]
 	{
@@ -21250,7 +21250,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x863FA76E;
+	  x siege_light = 0x58E17AA4;
 	}
 	[placement]
 	{
@@ -21270,7 +21270,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x56BACD0F;
+	  x siege_light = 0xC5292C69;
 	}
 	[placement]
 	{
@@ -21290,7 +21290,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5C946A8E;
+	  x siege_light = 0x9EC5B1E9;
 	}
 	[placement]
 	{
@@ -21758,7 +21758,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC914B30A;
+	  x siege_light = 0x0BD765A6;
 	}
 	[placement]
 	{
@@ -22354,7 +22354,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF12079F3;
+	  x siege_light = 0x1B70F848;
 	}
 	[placement]
 	{
@@ -22374,7 +22374,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xEA3574A3;
+	  x siege_light = 0x94156BC1;
 	}
 	[placement]
 	{
@@ -22394,7 +22394,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD656164E;
+	  x siege_light = 0xEB1BF6A4;
 	}
 	[placement]
 	{
@@ -22414,7 +22414,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x02205E4A;
+	  x siege_light = 0xEE9103C5;
 	}
 	[placement]
 	{
@@ -22434,7 +22434,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7C02CD51;
+	  x siege_light = 0x065E4A2E;
 	}
 	[placement]
 	{
@@ -22454,7 +22454,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4528A85E;
+	  x siege_light = 0x461CE061;
 	}
 	[placement]
 	{
@@ -22746,7 +22746,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6A93B6F1;
+	  x siege_light = 0x0D7E1B39;
 	}
 	[placement]
 	{
@@ -22766,7 +22766,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x19F33C91;
+	  x siege_light = 0xEC94AAA1;
 	}
 	[placement]
 	{
@@ -23058,7 +23058,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x903A3E65;
+	  x siege_light = 0x88B872D2;
 	}
 	[placement]
 	{
@@ -23078,7 +23078,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD92C7B32;
+	  x siege_light = 0xC803B931;
 	}
 	[placement]
 	{
@@ -23098,7 +23098,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC2D6176B;
+	  x siege_light = 0x4EE9A8CB;
 	}
 	[placement]
 	{
@@ -23118,7 +23118,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x479CA0F8;
+	  x siege_light = 0x0C304FE9;
 	}
 	[placement]
 	{
@@ -23138,7 +23138,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6E9105E3;
+	  x siege_light = 0x9B9829C3;
 	}
 	[placement]
 	{
@@ -23398,7 +23398,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5091E246;
+	  x siege_light = 0x1343D6D6;
 	}
 	[placement]
 	{
@@ -23642,7 +23642,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB2A81B3D;
+	  x siege_light = 0xA15137BE;
 	}
 	[placement]
 	{
@@ -23662,7 +23662,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB04D0301;
+	  x siege_light = 0xC4836309;
 	}
 	[placement]
 	{
@@ -23682,7 +23682,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB7FA881D;
+	  x siege_light = 0xD88DF14B;
 	}
 	[placement]
 	{
@@ -23702,7 +23702,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x745BB126;
+	  x siege_light = 0x4BF3C410;
 	}
 	[placement]
 	{
@@ -23722,7 +23722,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x16AE8DAC;
+	  x siege_light = 0xF6E7C89A;
 	}
 	[placement]
 	{
@@ -24094,7 +24094,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2457F347;
+	  x siege_light = 0xCD62982A;
 	}
 	[placement]
 	{
@@ -24114,7 +24114,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC9A3B526;
+	  x siege_light = 0xE6B861DE;
 	}
 	[placement]
 	{
@@ -24134,7 +24134,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4F816980;
+	  x siege_light = 0x0E2AF7AC;
 	}
 	[placement]
 	{
@@ -24154,7 +24154,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x44FCC7F4;
+	  x siege_light = 0xEE2F0BC2;
 	}
 	[placement]
 	{
@@ -24622,7 +24622,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x0BBACFE8;
+	  x siege_light = 0x5F5614BC;
 	}
 	[placement]
 	{
@@ -24642,7 +24642,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5DC00B39;
+	  x siege_light = 0x44F75390;
 	}
 	[placement]
 	{
@@ -24662,7 +24662,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3803A428;
+	  x siege_light = 0xE9A31DA4;
 	}
 	[placement]
 	{
@@ -24682,7 +24682,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6121E124;
+	  x siege_light = 0x27D21C2C;
 	}
 	[placement]
 	{
@@ -24702,7 +24702,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2275C69A;
+	  x siege_light = 0x8F783D59;
 	}
 	[placement]
 	{
@@ -25042,7 +25042,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDCD38615;
+	  x siege_light = 0x0712EB04;
 	}
 	[placement]
 	{
@@ -25062,7 +25062,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x358453CE;
+	  x siege_light = 0xD4BAFAF6;
 	}
 	[placement]
 	{
@@ -25082,7 +25082,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x0526D576;
+	  x siege_light = 0xCA0CFB91;
 	}
 	[placement]
 	{
@@ -25102,7 +25102,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFFEA29B4;
+	  x siege_light = 0x979791A5;
 	}
 	[placement]
 	{
@@ -25122,7 +25122,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x80E1932F;
+	  x siege_light = 0x03449CAA;
 	}
 	[placement]
 	{
@@ -25830,7 +25830,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2E7A3B0B;
+	  x siege_light = 0x98E94AA9;
 	}
 	[placement]
 	{
@@ -25850,7 +25850,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x807A2574;
+	  x siege_light = 0x5E06B0FD;
 	}
 	[placement]
 	{
@@ -25870,7 +25870,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x89DFC3A1;
+	  x siege_light = 0x1D6828FA;
 	}
 	[placement]
 	{
@@ -25890,7 +25890,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8DC44B46;
+	  x siege_light = 0x74FC80C4;
 	}
 	[placement]
 	{
@@ -25910,7 +25910,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x359191E3;
+	  x siege_light = 0x68BC5C0B;
 	}
 	[placement]
 	{
@@ -25930,7 +25930,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA6A1D59F;
+	  x siege_light = 0x9E146B9C;
 	}
 	[placement]
 	{
@@ -25950,7 +25950,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x609E442D;
+	  x siege_light = 0x7D9BAD91;
 	}
 	[placement]
 	{
@@ -25970,7 +25970,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x0543C133;
+	  x siege_light = 0xDF4873E2;
 	}
 	[placement]
 	{
@@ -25990,7 +25990,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x81B33A63;
+	  x siege_light = 0xC88DBC0D;
 	}
 	[placement]
 	{
@@ -26346,7 +26346,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xADA630C3;
+	  x siege_light = 0x7358586E;
 	}
 	[placement]
 	{
@@ -26366,7 +26366,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x78F39CCF;
+	  x siege_light = 0x4AA55024;
 	}
 	[placement]
 	{
@@ -26386,7 +26386,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x1CEC9EAF;
+	  x siege_light = 0xF1EE4109;
 	}
 	[placement]
 	{
@@ -26406,7 +26406,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x0D43FB43;
+	  x siege_light = 0x3F976F90;
 	}
 	[placement]
 	{
@@ -27130,7 +27130,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9FB9495D;
+	  x siege_light = 0x6B01F0EE;
 	}
 	[placement]
 	{
@@ -27150,7 +27150,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9BB7CB46;
+	  x siege_light = 0xAD121CFD;
 	}
 	[placement]
 	{
@@ -27170,7 +27170,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB4B7A92A;
+	  x siege_light = 0xDDB851DE;
 	}
 	[placement]
 	{
@@ -27190,7 +27190,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE8B8795B;
+	  x siege_light = 0xA884145F;
 	}
 	[placement]
 	{
@@ -27210,7 +27210,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5F45019B;
+	  x siege_light = 0x9A8DDF70;
 	}
 	[placement]
 	{
@@ -27230,7 +27230,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xEDE99887;
+	  x siege_light = 0x227C7129;
 	}
 	[placement]
 	{
@@ -27250,7 +27250,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4D417BDF;
+	  x siege_light = 0x2CA67BC8;
 	}
 	[placement]
 	{
@@ -27622,7 +27622,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x26CC238A;
+	  x siege_light = 0x81A8A8C4;
 	}
 	[placement]
 	{
@@ -27642,7 +27642,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD354888A;
+	  x siege_light = 0x65370859;
 	}
 	[placement]
 	{
@@ -27662,7 +27662,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF2D12D69;
+	  x siege_light = 0x69E3ECBD;
 	}
 	[placement]
 	{
@@ -27682,7 +27682,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA2F06A73;
+	  x siege_light = 0x8300F55D;
 	}
 	[placement]
 	{
@@ -27702,7 +27702,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x24C7244C;
+	  x siege_light = 0xEC083723;
 	}
 	[placement]
 	{
@@ -27722,7 +27722,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD837350E;
+	  x siege_light = 0x5211566A;
 	}
 	[placement]
 	{
@@ -27742,7 +27742,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x899E7A6B;
+	  x siege_light = 0xD5D2029B;
 	}
 	[placement]
 	{
@@ -28082,7 +28082,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6B0E0FB1;
+	  x siege_light = 0xC3C80FC3;
 	}
 	[placement]
 	{
@@ -28102,7 +28102,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xBEF06227;
+	  x siege_light = 0xFE06BCF6;
 	}
 	[placement]
 	{
@@ -28122,7 +28122,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x436203B0;
+	  x siege_light = 0x0FDBD55E;
 	}
 	[placement]
 	{
@@ -28142,7 +28142,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4DD54416;
+	  x siege_light = 0x2A5D669A;
 	}
 	[placement]
 	{
@@ -28162,7 +28162,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD7C452EE;
+	  x siege_light = 0x58950884;
 	}
 	[placement]
 	{
@@ -28182,7 +28182,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x29E8CC0A;
+	  x siege_light = 0x2C6762B0;
 	}
 	[placement]
 	{
@@ -28202,7 +28202,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF331E6C9;
+	  x siege_light = 0x2BF5F670;
 	}
 	[placement]
 	{
@@ -28878,7 +28878,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x944AFCB2;
+	  x siege_light = 0x90638D87;
 	}
 	[placement]
 	{
@@ -28898,7 +28898,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA0629118;
+	  x siege_light = 0x58A6128D;
 	}
 	[placement]
 	{
@@ -28918,7 +28918,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7AC1B8B0;
+	  x siege_light = 0x3BD09628;
 	}
 	[placement]
 	{
@@ -28938,7 +28938,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x1311DB99;
+	  x siege_light = 0x9FE1D2FC;
 	}
 	[placement]
 	{
@@ -28958,7 +28958,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA3B0B4F8;
+	  x siege_light = 0xB4250969;
 	}
 	[placement]
 	{
@@ -28978,7 +28978,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x78423B01;
+	  x siege_light = 0x934B0350;
 	}
 	[placement]
 	{
@@ -28998,7 +28998,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x62001979;
+	  x siege_light = 0xB951FADF;
 	}
 	[placement]
 	{
@@ -29018,7 +29018,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDDD7564E;
+	  x siege_light = 0x908C0669;
 	}
 	[placement]
 	{
@@ -29038,7 +29038,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD5AACBD5;
+	  x siege_light = 0x5392F29B;
 	}
 	[placement]
 	{
@@ -29058,7 +29058,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB5874310;
+	  x siege_light = 0x725BD093;
 	}
 	[placement]
 	{
@@ -29078,7 +29078,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8B37583F;
+	  x siege_light = 0xAC326E00;
 	}
 	[placement]
 	{
@@ -29098,7 +29098,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x91D969DD;
+	  x siege_light = 0x2C8618FB;
 	}
 	[placement]
 	{
@@ -29550,7 +29550,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x1A2C316E;
+	  x siege_light = 0x19D165B3;
 	}
 	[placement]
 	{
@@ -29570,7 +29570,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x993ADCE3;
+	  x siege_light = 0xB2746D17;
 	}
 	[placement]
 	{
@@ -29590,7 +29590,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x0FB5E32B;
+	  x siege_light = 0xD4566383;
 	}
 	[placement]
 	{
@@ -29610,7 +29610,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x1609EE5A;
+	  x siege_light = 0x7FC428E8;
 	}
 	[placement]
 	{
@@ -30398,7 +30398,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x40B0ABAE;
+	  x siege_light = 0x2A91D63A;
 	}
 	[placement]
 	{
@@ -30418,7 +30418,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x58A77614;
+	  x siege_light = 0x76772F19;
 	}
 	[placement]
 	{
@@ -30438,7 +30438,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA1FD0D89;
+	  x siege_light = 0xD1EC1396;
 	}
 	[placement]
 	{
@@ -30458,7 +30458,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFDF954D9;
+	  x siege_light = 0x5B8B6719;
 	}
 	[placement]
 	{
@@ -30478,7 +30478,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9AA98D7C;
+	  x siege_light = 0xD8EA370F;
 	}
 	[placement]
 	{
@@ -30498,7 +30498,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xCB6F873D;
+	  x siege_light = 0xA2659F37;
 	}
 	[placement]
 	{
@@ -30518,7 +30518,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6FCAFF1D;
+	  x siege_light = 0x76F3D358;
 	}
 	[placement]
 	{
@@ -30538,7 +30538,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6E17372E;
+	  x siege_light = 0x1DEF381A;
 	}
 	[placement]
 	{
@@ -30558,7 +30558,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x49C262BE;
+	  x siege_light = 0x5A2FA226;
 	}
 	[placement]
 	{
@@ -30578,7 +30578,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC718D22A;
+	  x siege_light = 0xD60588DA;
 	}
 	[placement]
 	{
@@ -30886,7 +30886,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7A258A05;
+	  x siege_light = 0x2E095993;
 	}
 	[placement]
 	{
@@ -30906,7 +30906,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x67491F04;
+	  x siege_light = 0x43B2A543;
 	}
 	[placement]
 	{
@@ -30926,7 +30926,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x48750D4A;
+	  x siege_light = 0x0F2D8420;
 	}
 	[placement]
 	{
@@ -31090,7 +31090,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDB32CE7D;
+	  x siege_light = 0xD6D4E412;
 	}
 	[placement]
 	{
@@ -31110,7 +31110,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC614937C;
+	  x siege_light = 0x15822BF8;
 	}
 	[placement]
 	{
@@ -31130,7 +31130,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x00F6981B;
+	  x siege_light = 0x7AA2BE0E;
 	}
 	[placement]
 	{
@@ -31150,7 +31150,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x139EEC8D;
+	  x siege_light = 0xF9449F68;
 	}
 	[placement]
 	{
@@ -32018,7 +32018,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6E614DBB;
+	  x siege_light = 0x665930A6;
 	}
 	[placement]
 	{
@@ -32038,7 +32038,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8C01B3DD;
+	  x siege_light = 0x184043C4;
 	}
 	[placement]
 	{
@@ -32058,7 +32058,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x703A1DCE;
+	  x siege_light = 0x6647E827;
 	}
 	[placement]
 	{
@@ -32078,7 +32078,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x675C11EE;
+	  x siege_light = 0x835319A5;
 	}
 	[placement]
 	{
@@ -32098,7 +32098,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC603F214;
+	  x siege_light = 0xE3E27185;
 	}
 	[placement]
 	{
@@ -32118,7 +32118,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6DE08CB6;
+	  x siege_light = 0xCF68EDDF;
 	}
 	[placement]
 	{
@@ -32138,7 +32138,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF3BED888;
+	  x siege_light = 0x9DD032C2;
 	}
 	[placement]
 	{
@@ -32158,7 +32158,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3802C37E;
+	  x siege_light = 0x005EA9D8;
 	}
 	[placement]
 	{
@@ -32178,7 +32178,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFAF9FB16;
+	  x siege_light = 0xF0343F0C;
 	}
 	[placement]
 	{
@@ -32198,7 +32198,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x762225D0;
+	  x siege_light = 0xBCDF4440;
 	}
 	[placement]
 	{
@@ -32218,7 +32218,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE26DBCA4;
+	  x siege_light = 0x636C983C;
 	}
 	[placement]
 	{
@@ -32238,7 +32238,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xEAE4C091;
+	  x siege_light = 0xB49B1E33;
 	}
 	[placement]
 	{
@@ -32258,7 +32258,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x07FB04DF;
+	  x siege_light = 0x274234C7;
 	}
 	[placement]
 	{
@@ -32278,7 +32278,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x548A8644;
+	  x siege_light = 0xD74B9C25;
 	}
 	[placement]
 	{
@@ -32298,7 +32298,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4685D470;
+	  x siege_light = 0x8AF3EB0B;
 	}
 	[placement]
 	{
@@ -32318,7 +32318,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF1E0ED38;
+	  x siege_light = 0x976689C2;
 	}
 	[placement]
 	{
@@ -32338,7 +32338,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3534B980;
+	  x siege_light = 0x1BA12A3F;
 	}
 	[placement]
 	{
@@ -32358,7 +32358,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD93FC142;
+	  x siege_light = 0x3F8DEA55;
 	}
 	[placement]
 	{
@@ -32714,7 +32714,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x246BB1CE;
+	  x siege_light = 0xAACD1F31;
 	}
 	[placement]
 	{
@@ -32734,7 +32734,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x153172A0;
+	  x siege_light = 0x3A8237B8;
 	}
 	[placement]
 	{
@@ -32754,7 +32754,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x736252BC;
+	  x siege_light = 0x0ECB7C24;
 	}
 	[placement]
 	{
@@ -32774,7 +32774,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x1079D381;
+	  x siege_light = 0xFEBB8CC4;
 	}
 	[placement]
 	{
@@ -33258,7 +33258,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2F565A1A;
+	  x siege_light = 0x91E4B58E;
 	}
 	[placement]
 	{
@@ -33278,7 +33278,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x42829C27;
+	  x siege_light = 0x6B1D5BB2;
 	}
 	[placement]
 	{
@@ -34338,7 +34338,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB15C5E72;
+	  x siege_light = 0x2E54FF80;
 	}
 	[placement]
 	{
@@ -34358,7 +34358,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x0A258444;
+	  x siege_light = 0x2FBB006B;
 	}
 	[placement]
 	{
@@ -34378,7 +34378,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF40823B4;
+	  x siege_light = 0x5C21CE5E;
 	}
 	[placement]
 	{
@@ -34398,7 +34398,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xBBF2493A;
+	  x siege_light = 0x19720CA6;
 	}
 	[placement]
 	{
@@ -34418,7 +34418,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9F08DBA7;
+	  x siege_light = 0x0B33FB9C;
 	}
 	[placement]
 	{
@@ -34438,7 +34438,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x140F6A27;
+	  x siege_light = 0xB7996A5F;
 	}
 	[placement]
 	{
@@ -34458,7 +34458,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5CCF0E2F;
+	  x siege_light = 0xC5764518;
 	}
 	[placement]
 	{
@@ -35278,7 +35278,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x215F323F;
+	  x siege_light = 0xC6B2C5E3;
 	}
 	[placement]
 	{
@@ -35298,7 +35298,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x84E6FC71;
+	  x siege_light = 0xB27F2458;
 	}
 	[placement]
 	{
@@ -35318,7 +35318,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF8D779DD;
+	  x siege_light = 0x837EF29E;
 	}
 	[placement]
 	{
@@ -35338,7 +35338,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x71580EA4;
+	  x siege_light = 0x2D738F3D;
 	}
 	[placement]
 	{
@@ -35358,7 +35358,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x58DAA24D;
+	  x siege_light = 0xC45AEF36;
 	}
 	[placement]
 	{
@@ -35378,7 +35378,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x77DB9CB0;
+	  x siege_light = 0x7932AA91;
 	}
 	[placement]
 	{
@@ -35398,7 +35398,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x95BC77F9;
+	  x siege_light = 0x3F164621;
 	}
 	[placement]
 	{
@@ -35418,7 +35418,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFAF01C7A;
+	  x siege_light = 0x80F3DAFF;
 	}
 	[placement]
 	{
@@ -36206,7 +36206,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA6B5CC48;
+	  x siege_light = 0x39BC16FA;
 	}
 	[placement]
 	{
@@ -36530,7 +36530,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2E65B594;
+	  x siege_light = 0x06F53483;
 	}
 	[placement]
 	{
@@ -36550,7 +36550,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3D9520F5;
+	  x siege_light = 0xFCD45235;
 	}
 	[placement]
 	{
@@ -36570,7 +36570,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xCDC8EF0D;
+	  x siege_light = 0x34451BA7;
 	}
 	[placement]
 	{
@@ -37006,7 +37006,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6AF52ED3;
+	  x siege_light = 0xAF443A0E;
 	}
 	[placement]
 	{
@@ -37474,7 +37474,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3464A85A;
+	  x siege_light = 0x78B11EC3;
 	}
 	[placement]
 	{
@@ -37494,7 +37494,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE828F8BF;
+	  x siege_light = 0x6D8785C6;
 	}
 	[placement]
 	{
@@ -37514,7 +37514,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x01F60443;
+	  x siege_light = 0xFD49FEC0;
 	}
 	[placement]
 	{
@@ -37534,7 +37534,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x67FC6382;
+	  x siege_light = 0xAD6C8313;
 	}
 	[placement]
 	{
@@ -37554,7 +37554,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xDA002B53;
+	  x siege_light = 0xD48BB7D4;
 	}
 	[placement]
 	{
@@ -37670,7 +37670,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB2885634;
+	  x siege_light = 0x24032A50;
 	}
 	[placement]
 	{
@@ -37690,7 +37690,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x416B88D0;
+	  x siege_light = 0x90973721;
 	}
 	[placement]
 	{
@@ -38302,7 +38302,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x160BF98C;
+	  x siege_light = 0x8CFC5D3B;
 	}
 	[placement]
 	{
@@ -38322,7 +38322,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8FE3C51A;
+	  x siege_light = 0x2B3D07E7;
 	}
 	[placement]
 	{
@@ -38342,7 +38342,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xEEFE9BC7;
+	  x siege_light = 0xDD3F49E2;
 	}
 	[placement]
 	{
@@ -38362,7 +38362,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4D6CB73B;
+	  x siege_light = 0xF95489D7;
 	}
 	[placement]
 	{
@@ -38382,7 +38382,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9C1A205B;
+	  x siege_light = 0xBDC304F4;
 	}
 	[placement]
 	{
@@ -38402,7 +38402,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB25E25F6;
+	  x siege_light = 0xDDA33A82;
 	}
 	[placement]
 	{
@@ -38422,7 +38422,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF6248792;
+	  x siege_light = 0x67596F54;
 	}
 	[placement]
 	{
@@ -38762,7 +38762,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x985887B7;
+	  x siege_light = 0x496F1C53;
 	}
 	[placement]
 	{
@@ -38782,7 +38782,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x38A7D630;
+	  x siege_light = 0x32CA4D75;
 	}
 	[placement]
 	{
@@ -38802,7 +38802,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC9F69A6C;
+	  x siege_light = 0x5D7A50F7;
 	}
 	[placement]
 	{
@@ -38822,7 +38822,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x73CD58C8;
+	  x siege_light = 0xFBE9D4CB;
 	}
 	[placement]
 	{
@@ -38842,7 +38842,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9642B00C;
+	  x siege_light = 0xABA1DB80;
 	}
 	[placement]
 	{
@@ -39246,7 +39246,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x25CC77C7;
+	  x siege_light = 0x4A05B5CF;
 	}
 	[placement]
 	{
@@ -40034,7 +40034,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x906F0779;
+	  x siege_light = 0xDF39E91C;
 	}
 	[placement]
 	{
@@ -40054,7 +40054,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4841CA98;
+	  x siege_light = 0xF580269A;
 	}
 	[placement]
 	{
@@ -40074,7 +40074,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA3CFCB05;
+	  x siege_light = 0x56200E44;
 	}
 	[placement]
 	{
@@ -40094,7 +40094,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9C4DE99B;
+	  x siege_light = 0xD0C709D5;
 	}
 	[placement]
 	{
@@ -40114,7 +40114,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFD2A1AB2;
+	  x siege_light = 0x1362F1EB;
 	}
 	[placement]
 	{
@@ -40134,7 +40134,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x426D1FEF;
+	  x siege_light = 0x02CBEADA;
 	}
 	[placement]
 	{
@@ -40154,7 +40154,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xBA523864;
+	  x siege_light = 0x23FB908E;
 	}
 	[placement]
 	{
@@ -40702,7 +40702,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE6A0CC9A;
+	  x siege_light = 0xABA8E8CC;
 	}
 	[placement]
 	{
@@ -40722,7 +40722,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE518A7DA;
+	  x siege_light = 0x895A05D0;
 	}
 	[placement]
 	{
@@ -40742,7 +40742,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9178BD3F;
+	  x siege_light = 0x9D7AFE96;
 	}
 	[placement]
 	{
@@ -40762,7 +40762,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x98FDFD62;
+	  x siege_light = 0xF8D5C58F;
 	}
 	[placement]
 	{
@@ -40782,7 +40782,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x927D8C0B;
+	  x siege_light = 0xE26C8AE6;
 	}
 	[placement]
 	{
@@ -40802,7 +40802,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD3A17B63;
+	  x siege_light = 0x9B13ECAE;
 	}
 	[placement]
 	{
@@ -40822,7 +40822,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x671B93D9;
+	  x siege_light = 0xA5B9A749;
 	}
 	[placement]
 	{
@@ -40842,7 +40842,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7E037367;
+	  x siege_light = 0x93B67F6D;
 	}
 	[placement]
 	{
@@ -40862,7 +40862,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8D5F3650;
+	  x siege_light = 0x984CD4E1;
 	}
 	[placement]
 	{
@@ -40882,7 +40882,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF83036DA;
+	  x siege_light = 0xA9BA9404;
 	}
 	[placement]
 	{
@@ -40902,7 +40902,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB95A4CE4;
+	  x siege_light = 0xB77592F6;
 	}
 	[placement]
 	{
@@ -41546,7 +41546,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x133219D0;
+	  x siege_light = 0xB72F96F4;
 	}
 	[placement]
 	{
@@ -41566,7 +41566,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x0E1E7E93;
+	  x siege_light = 0x6104BA2D;
 	}
 	[placement]
 	{
@@ -41586,7 +41586,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x63CAA8E1;
+	  x siege_light = 0xD874C572;
 	}
 	[placement]
 	{
@@ -41606,7 +41606,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x832D39FF;
+	  x siege_light = 0x829E1445;
 	}
 	[placement]
 	{
@@ -42010,7 +42010,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x86BB9AC6;
+	  x siege_light = 0x34919FCB;
 	}
 	[placement]
 	{
@@ -42030,7 +42030,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF2F80857;
+	  x siege_light = 0xEC463C28;
 	}
 	[placement]
 	{
@@ -42050,7 +42050,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x30A70886;
+	  x siege_light = 0x170CF1F2;
 	}
 	[placement]
 	{
@@ -42070,7 +42070,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x66E33850;
+	  x siege_light = 0xFAD6A515;
 	}
 	[placement]
 	{
@@ -42090,7 +42090,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6993FBC9;
+	  x siege_light = 0x0D72B41C;
 	}
 	[placement]
 	{
@@ -42110,7 +42110,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x67994F06;
+	  x siege_light = 0x986E9E56;
 	}
 	[placement]
 	{
@@ -42626,7 +42626,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE47CC178;
+	  x siege_light = 0xD150A6EF;
 	}
 	[placement]
 	{
@@ -42646,7 +42646,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x106184A0;
+	  x siege_light = 0xB598FE74;
 	}
 	[placement]
 	{
@@ -42666,7 +42666,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x69A9E002;
+	  x siege_light = 0xFBB11B08;
 	}
 	[placement]
 	{
@@ -42814,7 +42814,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3BD517D5;
+	  x siege_light = 0x6AB50A87;
 	}
 	[placement]
 	{
@@ -43282,7 +43282,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x294275A8;
+	  x siege_light = 0xBE4BE556;
 	}
 	[placement]
 	{
@@ -43302,7 +43302,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x258FF08F;
+	  x siege_light = 0x3BF2181A;
 	}
 	[placement]
 	{
@@ -43322,7 +43322,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x66E0A448;
+	  x siege_light = 0xE3D43A67;
 	}
 	[placement]
 	{
@@ -43342,7 +43342,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC9CF9D76;
+	  x siege_light = 0xC5C437B9;
 	}
 	[placement]
 	{
@@ -43362,7 +43362,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD2CBC1D8;
+	  x siege_light = 0x48C2C62B;
 	}
 	[placement]
 	{
@@ -43382,7 +43382,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2493E3D4;
+	  x siege_light = 0xB459F87D;
 	}
 	[placement]
 	{
@@ -43786,7 +43786,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7EDAA6CF;
+	  x siege_light = 0x0B8DC011;
 	}
 	[placement]
 	{
@@ -43806,7 +43806,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC905E534;
+	  x siege_light = 0xAE68A2FC;
 	}
 	[placement]
 	{
@@ -44114,7 +44114,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x48284ABE;
+	  x siege_light = 0xF2E03ED9;
 	}
 	[placement]
 	{
@@ -44134,7 +44134,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x98E3156A;
+	  x siege_light = 0x9FA73430;
 	}
 	[placement]
 	{
@@ -44154,7 +44154,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x812E5401;
+	  x siege_light = 0x4B233AFB;
 	}
 	[placement]
 	{
@@ -44174,7 +44174,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xBDB22E60;
+	  x siege_light = 0x40CB66E2;
 	}
 	[placement]
 	{
@@ -44578,7 +44578,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7D68AF46;
+	  x siege_light = 0x4E85C1F2;
 	}
 	[placement]
 	{
@@ -44598,7 +44598,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB56013E0;
+	  x siege_light = 0xECF24DC4;
 	}
 	[placement]
 	{
@@ -44618,7 +44618,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x71B15D16;
+	  x siege_light = 0xFCAB4221;
 	}
 	[placement]
 	{
@@ -45070,7 +45070,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x65192954;
+	  x siege_light = 0x510846D0;
 	}
 	[placement]
 	{
@@ -45362,7 +45362,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x31EE8334;
+	  x siege_light = 0x5A151FE0;
 	}
 	[placement]
 	{
@@ -45382,7 +45382,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF5356241;
+	  x siege_light = 0xF7E68EAB;
 	}
 	[placement]
 	{
@@ -45402,7 +45402,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x73B0112E;
+	  x siege_light = 0x20DBC3D0;
 	}
 	[placement]
 	{
@@ -45726,7 +45726,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5C7E66BD;
+	  x siege_light = 0xDE7B4EBC;
 	}
 	[placement]
 	{
@@ -45746,7 +45746,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC860A38A;
+	  x siege_light = 0xB56F1111;
 	}
 	[placement]
 	{
@@ -45766,7 +45766,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x164BAA80;
+	  x siege_light = 0x19648069;
 	}
 	[placement]
 	{
@@ -45786,7 +45786,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD97EB543;
+	  x siege_light = 0x590F14F0;
 	}
 	[placement]
 	{
@@ -45806,7 +45806,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x39ACE7CF;
+	  x siege_light = 0xA33CBD3A;
 	}
 	[placement]
 	{
@@ -46514,7 +46514,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x83169BB5;
+	  x siege_light = 0x0F0FEA94;
 	}
 	[placement]
 	{
@@ -46534,7 +46534,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x6824DA64;
+	  x siege_light = 0x7F8E72F8;
 	}
 	[placement]
 	{
@@ -46554,7 +46554,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE39B8668;
+	  x siege_light = 0x2DF41B61;
 	}
 	[placement]
 	{
@@ -46574,7 +46574,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x03C8A802;
+	  x siege_light = 0x4EA5D08A;
 	}
 	[placement]
 	{
@@ -46594,7 +46594,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC1A06829;
+	  x siege_light = 0xE9DCC66C;
 	}
 	[placement]
 	{
@@ -46614,7 +46614,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x614A6B6D;
+	  x siege_light = 0xEAFD0E2B;
 	}
 	[placement]
 	{
@@ -46634,7 +46634,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xB3ABB33C;
+	  x siege_light = 0x76F59FE5;
 	}
 	[placement]
 	{
@@ -46654,7 +46654,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFB34EE56;
+	  x siege_light = 0xF86D4B8F;
 	}
 	[placement]
 	{
@@ -46674,7 +46674,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD5FB3ED3;
+	  x siege_light = 0xBF886D59;
 	}
 	[placement]
 	{
@@ -46694,7 +46694,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xAEDA829B;
+	  x siege_light = 0xB10B5836;
 	}
 	[placement]
 	{
@@ -46714,7 +46714,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC3F74F0B;
+	  x siege_light = 0x6953B6DA;
 	}
 	[placement]
 	{
@@ -46734,7 +46734,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5EC42E55;
+	  x siege_light = 0xB49FDA6A;
 	}
 	[placement]
 	{
@@ -47330,7 +47330,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x01C33435;
+	  x siege_light = 0xB9C1892E;
 	}
 	[placement]
 	{
@@ -47350,7 +47350,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xCBD89281;
+	  x siege_light = 0x01AA29B3;
 	}
 	[placement]
 	{
@@ -48122,7 +48122,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x63B5972F;
+	  x siege_light = 0x903A0475;
 	}
 	[placement]
 	{
@@ -48302,7 +48302,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xF754786B;
+	  x siege_light = 0x61481A27;
 	}
 	[placement]
 	{
@@ -48322,7 +48322,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC30D5C0D;
+	  x siege_light = 0x505AB9FB;
 	}
 	[placement]
 	{
@@ -48342,7 +48342,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x97D4DF95;
+	  x siege_light = 0x7A865200;
 	}
 	[placement]
 	{
@@ -48394,7 +48394,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x14F08D37;
+	  x siege_light = 0xECF4A3D1;
 	}
 	[placement]
 	{
@@ -48414,7 +48414,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x920585AC;
+	  x siege_light = 0x52D32EB5;
 	}
 	[placement]
 	{
@@ -48706,7 +48706,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x47F00169;
+	  x siege_light = 0xA6E53263;
 	}
 	[placement]
 	{
@@ -48902,7 +48902,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5F92BDC8;
+	  x siege_light = 0xBC9ECDC6;
 	}
 	[placement]
 	{
@@ -48922,7 +48922,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x9C6CC603;
+	  x siege_light = 0x8F1BFF7D;
 	}
 	[placement]
 	{
@@ -49150,7 +49150,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x581A7647;
+	  x siege_light = 0x520C9740;
 	}
 	[placement]
 	{
@@ -49170,7 +49170,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x69AFCCF6;
+	  x siege_light = 0x7B99E764;
 	}
 	[placement]
 	{
@@ -49494,7 +49494,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x708E88C0;
+	  x siege_light = 0xEB402B59;
 	}
 	[placement]
 	{
@@ -49514,7 +49514,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x30E1860B;
+	  x siege_light = 0x4E23DE83;
 	}
 	[placement]
 	{
@@ -49534,7 +49534,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x80E6E2ED;
+	  x siege_light = 0x67C33D69;
 	}
 	[placement]
 	{
@@ -49554,7 +49554,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xABD682AA;
+	  x siege_light = 0xBE389C32;
 	}
 	[placement]
 	{
@@ -50006,7 +50006,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xFE1F1789;
+	  x siege_light = 0xA787A81D;
 	}
 	[placement]
 	{
@@ -50026,7 +50026,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xE7EED047;
+	  x siege_light = 0x5AC8F7C9;
 	}
 	[placement]
 	{
@@ -50046,7 +50046,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x57534D2E;
+	  x siege_light = 0xE02205B2;
 	}
 	[placement]
 	{
@@ -50066,7 +50066,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x29B7DA8E;
+	  x siege_light = 0xD193A101;
 	}
 	[placement]
 	{
@@ -50550,7 +50550,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x094AAE5B;
+	  x siege_light = 0x2E4E3B1C;
 	}
 	[placement]
 	{
@@ -50570,7 +50570,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x5EB6E254;
+	  x siege_light = 0x75439E32;
 	}
 	[placement]
 	{
@@ -50590,7 +50590,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x160CC04A;
+	  x siege_light = 0xD06DF7FB;
 	}
 	[placement]
 	{
@@ -50610,7 +50610,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD02795C6;
+	  x siege_light = 0x725D446F;
 	}
 	[placement]
 	{
@@ -50630,7 +50630,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x813988BE;
+	  x siege_light = 0x1D9DA3A8;
 	}
 	[placement]
 	{
@@ -50650,7 +50650,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC21BADBD;
+	  x siege_light = 0x162AE14C;
 	}
 	[placement]
 	{
@@ -51038,7 +51038,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x73F71429;
+	  x siege_light = 0x694759A1;
 	}
 	[placement]
 	{
@@ -51682,7 +51682,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x60437750;
+	  x siege_light = 0x7E7BD8DB;
 	}
 	[placement]
 	{
@@ -51702,7 +51702,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7F1C5D63;
+	  x siege_light = 0xDB6843C1;
 	}
 	[placement]
 	{
@@ -51722,7 +51722,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7D395A3A;
+	  x siege_light = 0x6A7DE671;
 	}
 	[placement]
 	{
@@ -51742,7 +51742,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xBC3347E8;
+	  x siege_light = 0x00C7621C;
 	}
 	[placement]
 	{
@@ -52050,7 +52050,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x7DB4FB9D;
+	  x siege_light = 0x8DE7983D;
 	}
 	[placement]
 	{
@@ -52070,7 +52070,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x488039D0;
+	  x siege_light = 0x290B2771;
 	}
 	[placement]
 	{
@@ -52090,7 +52090,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xD1BC131A;
+	  x siege_light = 0x9E1161DA;
 	}
 	[placement]
 	{
@@ -52494,7 +52494,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x282B8379;
+	  x siege_light = 0xA9BAD507;
 	}
 	[placement]
 	{
@@ -52514,7 +52514,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xC5D8CDA1;
+	  x siege_light = 0x45A3307B;
 	}
 	[placement]
 	{
@@ -52534,7 +52534,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x8ADBC40C;
+	  x siege_light = 0x0BD4283A;
 	}
 	[placement]
 	{
@@ -52554,7 +52554,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x47F937EB;
+	  x siege_light = 0x4CFA3A1E;
 	}
 	[placement]
 	{
@@ -52574,7 +52574,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x4B10B59C;
+	  x siege_light = 0x2BC2A958;
 	}
 	[placement]
 	{
@@ -52978,7 +52978,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x498878C2;
+	  x siege_light = 0x1A1DCB75;
 	}
 	[placement]
 	{
@@ -52998,7 +52998,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xEC222144;
+	  x siege_light = 0xF3243EBF;
 	}
 	[placement]
 	{
@@ -53018,7 +53018,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x2EE8737F;
+	  x siege_light = 0xC37CAC01;
 	}
 	[placement]
 	{
@@ -53038,7 +53038,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0xA74D459A;
+	  x siege_light = 0xE24E443F;
 	}
 	[placement]
 	{
@@ -53058,7 +53058,7 @@
 	}
 	[light_flicker_lightweight]
 	{
-	  x siege_light = 0x3437D3ED;
+	  x siege_light = 0x934D6CAB;
 	}
 	[placement]
 	{
