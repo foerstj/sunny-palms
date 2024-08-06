@@ -8,8 +8,8 @@
     size = 1 2 0.5;
 
     // pink crystals
-    [*] { seed = 0.50, 0.6, 1; templates = crystals_cav_14; }  // xs
-    [*] { seed = 0.20, 0.4, 2; templates = crystals_cav_02; }  // sm
-    [*] { seed = 0.10, 0.2, 4; templates = crystals_cav_10; }  // md
-    [*] { seed = 0.05, 0.0, 8; templates = crystals_cav_06; }  // lg
+    [*] { seed = 0.50, 0.6, 1; templates = sp_crystals_xs_purple; }  // xs
+    [*] { seed = 0.20, 0.4, 2; templates = sp_crystals_sm_purple; }  // sm
+    [*] { seed = 0.10, 0.2, 4; templates = sp_crystals_md_purple_x1; }  // md
+    [*] { seed = 0.05, 0.0, 8; templates = sp_crystals_lg_purple_x1; }  // lg
 }
