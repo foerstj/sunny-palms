@@ -1503,7 +1503,7 @@
 	  x guid = 0x256C60C2;
 	  x mesh_guid = 0x0020061E;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -1736,7 +1736,7 @@
 	  x guid = 0x2AD0CD1F;
 	  x mesh_guid = 0x00200619;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -3864,7 +3864,7 @@
 	  x guid = 0x615C9F9C;
 	  x mesh_guid = 0x0020061E;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -3987,7 +3987,7 @@
 	  x guid = 0x662CDDFD;
 	  x mesh_guid = 0x0020061E;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -4036,7 +4036,7 @@
 	  x guid = 0x66647D39;
 	  x mesh_guid = 0x0020061E;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -4911,7 +4911,7 @@
 	  x guid = 0x73417CC8;
 	  x mesh_guid = 0x0020061D;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -5323,7 +5323,7 @@
 	  x guid = 0x7D9848A8;
 	  x mesh_guid = 0x00200619;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -6704,7 +6704,7 @@
 	  x guid = 0xAA02E75D;
 	  x mesh_guid = 0x0020061E;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -6851,7 +6851,7 @@
 	  x guid = 0xABDDEFE5;
 	  x mesh_guid = 0x00200619;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -6919,7 +6919,7 @@
 	  x guid = 0xAD7D05A0;
 	  x mesh_guid = 0x0020061D;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -7140,7 +7140,7 @@
 	  x guid = 0xB0584F5E;
 	  x mesh_guid = 0x0020061D;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -7877,7 +7877,7 @@
 	  x guid = 0xC663F56B;
 	  x mesh_guid = 0x0020061D;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -8593,7 +8593,7 @@
 	  x guid = 0xD178C8E8;
 	  x mesh_guid = 0x00200619;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -8722,7 +8722,7 @@
 	  x guid = 0xD3EFAA7E;
 	  x mesh_guid = 0x0020061E;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -10009,7 +10009,7 @@
 	  x guid = 0xEF61708B;
 	  x mesh_guid = 0x0020061E;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
@@ -10059,7 +10059,7 @@
 	  x guid = 0xF002A7D0;
 	  x mesh_guid = 0x0020061D;
 	  x nodelevel = 0x00000001;
-	  x nodeobject = 0xFFFFFFFF;
+	  x nodeobject = 0x00000009;
 	  x nodesection = 0x00000001;
 	  b occludes_camera = true;
 	  b occludes_light = true;
