@@ -13,4 +13,7 @@
     [*] { seed = 0.1, 0, 4; templates = foliage_grs_01; size = 0.8 1.2 0.5; }
     // trees: palms
     [*] { seed = 0.1, -0.05, 2; templates = tree_glb_palm_sway_02; size = 0.8 1.2 1; }
+
+    // butterflies
+    [*] { seed = 0.01, 0, 1; templates = butterfly_mp; size = 1; }
 }

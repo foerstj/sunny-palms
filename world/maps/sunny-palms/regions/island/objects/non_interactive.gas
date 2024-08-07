@@ -1,3 +1,15 @@
+[t:butterfly_mp,n:0x001001f6]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.175379,0,0.984501;
+	  p position = -3.74652,0,-0.757774,0xbd36e292;
+	}
+}
 [t:flowers_grs_red,n:0x0010b203]
 {
 	[aspect]
@@ -1182,6 +1194,18 @@
 	  p position = -1.54848,0,0.509617,0xe281e2f5;
 	}
 }
+[t:butterfly_mp,n:0x00100206]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.841433,0,-0.540362;
+	  p position = -1.07988,0,3.45654,0x2de479e4;
+	}
+}
 [t:flowers_grs_red,n:0x0010b184]
 {
 	[aspect]
@@ -1404,6 +1428,18 @@
 	{
 	  q orientation = 0,0.654369,0,-0.756176;
 	  p position = -1.65145,0,-0.87194,0x2de479e4;
+	}
+}
+[t:butterfly_mp,n:0x001001da]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.996791,0,-0.080046;
+	  p position = 2.09488,0,1.44274,0x02857cc4;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1e0]
@@ -4174,6 +4210,18 @@
 	  p position = -1.76906,0,0.561173,0x37ff5b4e;
 	}
 }
+[t:butterfly_mp,n:0x001001f8]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.305211,0,-0.952285;
+	  p position = -3.23711,0,0.112637,0xed1166e5;
+	}
+}
 [t:flowers_grs_red,n:0x0010c389]
 {
 	[aspect]
@@ -4702,6 +4750,18 @@
 	  p position = 0.690265,0,-0.654258,0xa2a519d9;
 	}
 }
+[t:butterfly_mp,n:0x001001f0]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.171347,0,-0.985211;
+	  p position = 1.13448,0,-3.53014,0xe23d0c60;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1fa]
 {
 	[aspect]
@@ -5038,6 +5098,18 @@
 	  p position = 3.33151,0,3.42449,0xe23d0c60;
 	}
 }
+[t:butterfly_mp,n:0x00100262]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.479558,0,-0.87751;
+	  p position = 0.165796,0,1.88282,0xfff6bc85;
+	}
+}
 [t:flowers_grs_red,n:0x0010b278]
 {
 	[aspect]
@@ -5342,6 +5414,18 @@
 	  p position = -0.106795,0,1.16067,0x8a117b96;
 	}
 }
+[t:butterfly_mp,n:0x0010029c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.05196,0,-0.998649;
+	  p position = 2.20917,0,1.85716,0x4aed23c7;
+	}
+}
 [t:flowers_grs_red,n:0x0010b3b1]
 {
 	[aspect]
@@ -5564,6 +5648,18 @@
 	{
 	  q orientation = 0,0.953515,0,0.301346;
 	  p position = -2.13359,0,0.7448,0xb87c874f;
+	}
+}
+[t:butterfly_mp,n:0x0010018a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.244008,0,-0.969773;
+	  p position = 1.54777,0,-3.76837,0xa0bf3645;
 	}
 }
 [t:flowers_grs_red,n:0x0010b700]
@@ -7006,6 +7102,18 @@
 	  p position = 1.58094,0,-0.0150119,0xe0c2d537;
 	}
 }
+[t:butterfly_mp,n:0x001002b5]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.947887,0,0.318606;
+	  p position = 2.85731,0,-1.46447,0x91cdf179;
+	}
+}
 [t:flowers_grs_red,n:0x0010b897]
 {
 	[aspect]
@@ -7164,6 +7272,18 @@
 	{
 	  q orientation = 0,0.65451,0,0.756054;
 	  p position = 3.92018,0,1.23486,0x91cdf179;
+	}
+}
+[t:butterfly_mp,n:0x001001e8]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.610146,0,0.792289;
+	  p position = 2.09357,0,0.897221,0x95059432;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1f1]
@@ -7806,6 +7926,30 @@
 	  p position = -0.300084,0,1.14333,0x02f2ea62;
 	}
 }
+[t:butterfly_mp,n:0x001001b1]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.973155,0,-0.23015;
+	  p position = 1.4325,0,3.59059,0xac766d0f;
+	}
+}
+[t:butterfly_mp,n:0x00100225]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.975387,0,0.2205;
+	  p position = -2.6758,0,-0.829267,0xac766d0f;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1a8]
 {
 	[aspect]
@@ -8300,6 +8444,18 @@
 	{
 	  q orientation = 0,0.251198,0,0.967936;
 	  p position = 0.503716,0,-1.21563,0x10b35b58;
+	}
+}
+[t:butterfly_mp,n:0x001001a7]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.136341,0,0.990662;
+	  p position = 3.90665,0,0.433216,0x13c7ecaf;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2d8]
@@ -10878,6 +11034,18 @@
 	  p position = 3.49086,-0.65,3.28573,0x585cd914;
 	}
 }
+[t:butterfly_mp,n:0x0010019c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.467778,0,0.883846;
+	  p position = -1.26614,0,2.12925,0x184dbebd;
+	}
+}
 [t:flowers_grs_red,n:0x0010b190]
 {
 	[aspect]
@@ -12334,6 +12502,18 @@
 	  p position = -1.37044,0,0.646674,0xc367cab0;
 	}
 }
+[t:butterfly_mp,n:0x001001aa]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.351151,0,-0.936319;
+	  p position = -0.169282,0,-0.82623,0x3c6856f1;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1a1]
 {
 	[aspect]
@@ -12876,6 +13056,18 @@
 	{
 	  q orientation = 0,0.719073,0,-0.694934;
 	  p position = -0.430714,0,0.135757,0x9d95d53e;
+	}
+}
+[t:butterfly_mp,n:0x00100256]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.354791,0,-0.934946;
+	  p position = -3.61482,0,-0.247119,0x23c8bfdd;
 	}
 }
 [t:flowers_grs_red,n:0x0010b271]
@@ -14142,6 +14334,18 @@
 	  p position = 0.392497,0,-0.903019,0x6c747c1a;
 	}
 }
+[t:butterfly_mp,n:0x001001f4]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.93003,0,-0.367484;
+	  p position = -1.57193,0,-1.61474,0xf91eccbe;
+	}
+}
 [t:flowers_grs_red,n:0x0010b200]
 {
 	[aspect]
@@ -14222,6 +14426,18 @@
 	  p position = -0.683937,0,0.301586,0xf91eccbe;
 	}
 }
+[t:butterfly_mp,n:0x001002bc]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.950239,0,-0.311522;
+	  p position = -0.228692,0,-0.146653,0xa82126dd;
+	}
+}
 [t:flowers_grs_red,n:0x0010b4f3]
 {
 	[aspect]
@@ -14252,6 +14468,18 @@
 	{
 	  q orientation = 0,0.000138,0,1;
 	  p position = 0.711595,0,-2.6116,0x7821d5ee;
+	}
+}
+[t:butterfly_mp,n:0x0010028e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.233034,0,0.972469;
+	  p position = 0.0445406,0,-0.245689,0x5281ffd8;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2ae]
@@ -15196,6 +15424,18 @@
 	{
 	  q orientation = 0,0.814094,0,0.580733;
 	  p position = 1.60244,0,0.246304,0x8bd51ba7;
+	}
+}
+[t:butterfly_mp,n:0x0010025a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.800618,0,-0.599175;
+	  p position = 3.53467,0,1.91217,0x35ebacc9;
 	}
 }
 [t:flowers_grs_red,n:0x0010b273]
@@ -16622,6 +16862,30 @@
 	  p position = -1.78768,0,1.93571,0x56e3f272;
 	}
 }
+[t:butterfly_mp,n:0x00100171]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.6837,0,-0.729763;
+	  p position = -1.70097,0,-2.18011,0xf430e00d;
+	}
+}
+[t:butterfly_mp,n:0x001001c1]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.158111,0,0.987421;
+	  p position = -0.342155,0,-2.07417,0xf430e00d;
+	}
+}
 [t:flowers_grs_red,n:0x0010b147]
 {
 	[aspect]
@@ -17246,6 +17510,18 @@
 	  p position = -3.07269,0,0.845974,0x2a094122;
 	}
 }
+[t:butterfly_mp,n:0x001002b6]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.125036,0,0.992152;
+	  p position = -1.10999,0,-0.121303,0x16cac7c8;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2dd]
 {
 	[aspect]
@@ -17756,6 +18032,42 @@
 	{
 	  q orientation = 0,0.337827,0,0.941208;
 	  p position = -0.2447,0,-1.13597,0x73664a53;
+	}
+}
+[t:butterfly_mp,n:0x0010017d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.817,0,0.576637;
+	  p position = 1.19392,0,-1.5333,0x43637f1f;
+	}
+}
+[t:butterfly_mp,n:0x00100191]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.789221,0,0.61411;
+	  p position = 2.89688,0,0.303037,0x43637f1f;
+	}
+}
+[t:butterfly_mp,n:0x001001f9]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.221591,0,-0.97514;
+	  p position = -3.87474,0,-1.17137,0x43637f1f;
 	}
 }
 [t:flowers_grs_red,n:0x0010b15a]
@@ -18428,6 +18740,18 @@
 	{
 	  q orientation = 0,0.566305,0,-0.824196;
 	  p position = -0.284725,0,-1.3549,0x70d90e05;
+	}
+}
+[t:butterfly_mp,n:0x00100228]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.653118,0,-0.757256;
+	  p position = -1.58719,0,-0.529753,0x3dfadcce;
 	}
 }
 [t:flowers_grs_red,n:0x0010b208]
@@ -19404,6 +19728,18 @@
 	{
 	  q orientation = 0,0.926391,0,-0.376562;
 	  p position = 0.863264,0,-1.92067,0x641baca5;
+	}
+}
+[t:butterfly_mp,n:0x00100199]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.028314,0,-0.999599;
+	  p position = -3.32537,0,1.16902,0xc76b9a57;
 	}
 }
 [t:flowers_grs_red,n:0x0010b18a]
@@ -20956,6 +21292,18 @@
 	{
 	  q orientation = 0,0.780135,0,-0.625612;
 	  p position = 0.517915,0,-1.31761,0x85de7f21;
+	}
+}
+[t:butterfly_mp,n:0x0010026e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.254676,0,-0.967026;
+	  p position = -2.39419,0,-1.76949,0x070aedec;
 	}
 }
 [t:seashell_glb_03,n:0x0010011b]
@@ -25118,6 +25466,30 @@
 	  p position = -1.73123,0,0.244588,0x9c15ac0d;
 	}
 }
+[t:butterfly_mp,n:0x00100232]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.938412,0,-0.345518;
+	  p position = -3.53675,0,-3.3103,0x0e44989f;
+	}
+}
+[t:butterfly_mp,n:0x00100258]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.799512,0,0.60065;
+	  p position = 2.06595,0,-2.19534,0x0e44989f;
+	}
+}
 [t:flowers_grs_red,n:0x0010b243]
 {
 	[aspect]
@@ -25740,6 +26112,18 @@
 	{
 	  q orientation = 0,0.272274,0,0.96222;
 	  p position = 3.59625,0,0.425114,0x13518362;
+	}
+}
+[t:butterfly_mp,n:0x001002b0]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.820925,0,-0.571035;
+	  p position = -2.45201,0,-0.11311,0xa98fb842;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2d4]
@@ -27582,6 +27966,30 @@
 	  p position = -1.72327,0,1.60882,0x0fc2317a;
 	}
 }
+[t:butterfly_mp,n:0x00100221]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.953786,0,0.300487;
+	  p position = -1.85026,0,-0.686199,0x7675e9bb;
+	}
+}
+[t:butterfly_mp,n:0x00100285]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.988988,0,-0.147996;
+	  p position = -3.61412,0,-3.07368,0x7675e9bb;
+	}
+}
 [t:flowers_grs_red,n:0x0010b230]
 {
 	[aspect]
@@ -29422,6 +29830,18 @@
 	  p position = -0.159914,0,-1.11554,0x8c3e1f17;
 	}
 }
+[t:butterfly_mp,n:0x001001ff]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.681457,0,-0.731858;
+	  p position = -3.14759,0,-3.95844,0xcb1ae113;
+	}
+}
 [t:flowers_grs_red,n:0x0010cf8e]
 {
 	[aspect]
@@ -30574,6 +30994,18 @@
 	  p position = -1.66971,0,3.11105,0x7f00e072;
 	}
 }
+[t:butterfly_mp,n:0x00100287]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.775906,0,0.630849;
+	  p position = -0.649394,0,3.18898,0x08085583;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2a1]
 {
 	[aspect]
@@ -31646,6 +32078,18 @@
 	  p position = -1.50967,0,0.317281,0xd2c63340;
 	}
 }
+[t:butterfly_mp,n:0x001001ea]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.947734,0,0.319062;
+	  p position = 3.99658,0,-0.0843165,0x220c2154;
+	}
+}
 [t:flowers_grs_red,n:0x0010b7d4]
 {
 	[aspect]
@@ -32172,6 +32616,30 @@
 	{
 	  q orientation = 0,0.996479,0,-0.083839;
 	  p position = 2.88077,0,-1.97831,0xb156b474;
+	}
+}
+[t:butterfly_mp,n:0x001001bb]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.512284,0,0.858816;
+	  p position = 0.267824,0,0.0205852,0xd54ca741;
+	}
+}
+[t:butterfly_mp,n:0x001002b8]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.998957,0,-0.045667;
+	  p position = 0.0146959,0,-2.88825,0xd54ca741;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1b1]
@@ -32892,6 +33360,18 @@
 	{
 	  q orientation = 0,0.854507,0,0.51944;
 	  p position = -1.67787,0,0.540067,0x110e9bef;
+	}
+}
+[t:butterfly_mp,n:0x001001e9]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.118855,0,-0.992912;
+	  p position = -1.5745,0,3.27195,0x2721b4d0;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1f2]
@@ -35966,6 +36446,30 @@
 	  p position = 0.433461,0,0.494197,0x6c65fb2f;
 	}
 }
+[t:butterfly_mp,n:0x00100173]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.978627,0,-0.205641;
+	  p position = -1.65306,0,-1.00127,0x1a9e8b5f;
+	}
+}
+[t:butterfly_mp,n:0x00100289]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.990784,0,0.135452;
+	  p position = 1.78851,0,-3.18968,0xb30c6967;
+	}
+}
 [t:flowers_grs_red,n:0x0010b561]
 {
 	[aspect]
@@ -36636,6 +37140,18 @@
 	{
 	  q orientation = 0,0.384439,0,0.92315;
 	  p position = -0.615669,0,3.25347,0x37ff368f;
+	}
+}
+[t:butterfly_mp,n:0x001001b3]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.801496,0,-0.598;
+	  p position = 0.0709811,0,1.65417,0x1baafb6b;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1aa]
@@ -37630,6 +38146,18 @@
 	  p position = -3.93315,0,-3.32188,0xb0a0d85f;
 	}
 }
+[t:butterfly_mp,n:0x00100264]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.368948,0,0.92945;
+	  p position = -3.72217,0,0.28488,0xc8699b84;
+	}
+}
 [t:flowers_grs_red,n:0x0010b27a]
 {
 	[aspect]
@@ -37836,6 +38364,18 @@
 	{
 	  q orientation = 0,0.597947,0,-0.801535;
 	  p position = -1.43447,0,-1.90798,0xc8699b84;
+	}
+}
+[t:butterfly_mp,n:0x001001e3]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.671476,0,0.741026;
+	  p position = 2.9777,0,-2.04213,0x6c010d30;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1a6]
@@ -38540,6 +39080,18 @@
 	{
 	  q orientation = 0,0.676141,0,0.736772;
 	  p position = 2.84048,0,1.71537,0x8a1b0382;
+	}
+}
+[t:butterfly_mp,n:0x0010027c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.996194,0,0.087164;
+	  p position = -3.05775,0,-1.78529,0x1d3a9618;
 	}
 }
 [t:flowers_grs_red,n:0x0010b291]
@@ -39292,6 +39844,18 @@
 	{
 	  q orientation = 0,0.123612,0,-0.992331;
 	  p position = -0.927971,0,-1.93448,0x9cd78240;
+	}
+}
+[t:butterfly_mp,n:0x0010024c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.994404,0,-0.105641;
+	  p position = 3.79184,0,-1.59946,0xdb0fb72c;
 	}
 }
 [t:flowers_grs_red,n:0x0010b25f]
@@ -40174,6 +40738,18 @@
 	  p position = 1.61633,0,1.52594,0x8e95231a;
 	}
 }
+[t:butterfly_mp,n:0x0010022d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.989414,0,-0.145118;
+	  p position = -2.94414,0,2.88651,0xbfb83e8f;
+	}
+}
 [t:flowers_grs_red,n:0x0010b23f]
 {
 	[aspect]
@@ -40510,6 +41086,18 @@
 	  p position = -2.44564,0,0.557378,0x2c0a37be;
 	}
 }
+[t:butterfly_mp,n:0x0010021a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.989416,0,-0.145109;
+	  p position = -1.06511,0,2.58089,0xad9c9006;
+	}
+}
 [t:foliage_grs_01,n:0x0010d551]
 {
 	[aspect]
@@ -40844,6 +41432,18 @@
 	{
 	  q orientation = 0,0.694538,0,0.719456;
 	  p position = 3.17214,0,-2.43474,0x9aa5a3c8;
+	}
+}
+[t:butterfly_mp,n:0x001001af]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.756692,0,-0.653772;
+	  p position = -0.591071,0,1.51812,0xcdabd8a3;
 	}
 }
 [t:flowers_grs_red,n:0x0010b14b]
@@ -41244,6 +41844,18 @@
 	{
 	  q orientation = 0,0.410295,0,0.911953;
 	  p position = -1.14867,0,0.438845,0xcdabd8a3;
+	}
+}
+[t:butterfly_mp,n:0x0010028d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.9982,0,-0.059967;
+	  p position = 1.94899,0,1.79019,0x94f268b0;
 	}
 }
 [t:foliage_grs_01,n:0x0010d2d7]
@@ -41694,6 +42306,18 @@
 	  p position = -0.359436,0,-1.42596,0x09d8a264;
 	}
 }
+[t:butterfly_mp,n:0x001001ae]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.820843,0,0.571154;
+	  p position = 0.363795,0,-0.715154,0xc8e001b5;
+	}
+}
 [t:flowers_grs_red,n:0x0010bc9e]
 {
 	[aspect]
@@ -41916,6 +42540,18 @@
 	{
 	  q orientation = 0,0.825403,0,-0.564544;
 	  p position = -3.30264,0,-1.16725,0xa01f9438;
+	}
+}
+[t:butterfly_mp,n:0x001001db]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.97403,0,-0.226418;
+	  p position = -1.10572,0,1.66898,0xd0cf3ade;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1e1]
@@ -43614,6 +44250,30 @@
 	  p position = -2.71138,0,-0.206294,0x176534ac;
 	}
 }
+[t:butterfly_mp,n:0x0010017c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.9303,0,-0.366801;
+	  p position = 3.52234,0,-3.13323,0x5a0e36cf;
+	}
+}
+[t:butterfly_mp,n:0x0010020f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.987479,0,0.157753;
+	  p position = -0.542924,0,-3.76646,0x5a0e36cf;
+	}
+}
 [t:flowers_grs_red,n:0x0010b158]
 {
 	[aspect]
@@ -43788,6 +44448,18 @@
 	{
 	  q orientation = 0,0.99873,0,0.050386;
 	  p position = -1.21776,0,-0.0616883,0x5a0e36cf;
+	}
+}
+[t:butterfly_mp,n:0x0010026d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.636173,0,-0.771546;
+	  p position = -2.72822,0,-1.51102,0xf5dcfeb3;
 	}
 }
 [t:flowers_grs_red,n:0x0010b283]
@@ -44286,6 +44958,18 @@
 	  p position = 0.890174,0,-0.579314,0xbdc0fe27;
 	}
 }
+[t:butterfly_mp,n:0x0010027e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.639983,0,-0.768389;
+	  p position = 3.14276,0,3.89319,0xd40cf26b;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e44e]
 {
 	[aspect]
@@ -44316,6 +45000,18 @@
 	{
 	  q orientation = 0,0.999902,0,0.013994;
 	  p position = -3.96432,0,-1.64882,0x22565d70;
+	}
+}
+[t:butterfly_mp,n:0x00100284]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.615857,0,0.787858;
+	  p position = 2.49607,0,-3.847,0xda7426a7;
 	}
 }
 [t:flowers_grs_red,n:0x0010be03]
@@ -46222,6 +46918,18 @@
 	  p position = -1.58188,0,0.272579,0x2e3cf7f7;
 	}
 }
+[t:butterfly_mp,n:0x00100261]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.266016,0,0.963969;
+	  p position = -2.19006,0,-0.925752,0x8b6e374d;
+	}
+}
 [t:flowers_grs_red,n:0x0010ba76]
 {
 	[aspect]
@@ -46956,6 +47664,18 @@
 	{
 	  q orientation = 0,0.392949,0,0.91956;
 	  p position = 3.59582,0,1.97702,0x080bfb67;
+	}
+}
+[t:butterfly_mp,n:0x00100277]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.557815,0,0.829965;
+	  p position = -1.78813,0,-1.3989,0xd9b23b63;
 	}
 }
 [t:flowers_grs_red,n:0x0010b239]
@@ -47726,6 +48446,18 @@
 	  p position = -2.69144,0,0.965815,0xd0fb1747;
 	}
 }
+[t:butterfly_mp,n:0x0010025b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.312773,0,0.949828;
+	  p position = 1.22908,0,0.858541,0x51f6b300;
+	}
+}
 [t:flowers_grs_red,n:0x0010b274]
 {
 	[aspect]
@@ -48252,6 +48984,18 @@
 	{
 	  q orientation = 0,0.952791,0,0.303625;
 	  p position = -1.32102,0,-0.393735,0x51f6b300;
+	}
+}
+[t:butterfly_mp,n:0x00100275]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.964981,0,-0.262319;
+	  p position = -1.21033,0,-1.98401,0xa09edebb;
 	}
 }
 [t:flowers_grs_red,n:0x0010b252]
@@ -49550,6 +50294,18 @@
 	  p position = -2.67616,0,-0.0817126,0x41056afd;
 	}
 }
+[t:butterfly_mp,n:0x00100254]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.055328,0,-0.998468;
+	  p position = -0.0305195,0,-1.35065,0x65a61e74;
+	}
+}
 [t:flowers_grs_red,n:0x0010b26e]
 {
 	[aspect]
@@ -49852,6 +50608,30 @@
 	{
 	  q orientation = 0,0.825467,0,-0.56445;
 	  p position = -0.768164,0,-2.80384,0x65a61e74;
+	}
+}
+[t:butterfly_mp,n:0x001001ab]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.900739,0,0.434361;
+	  p position = -0.212802,0,-3.70703,0x369bd51c;
+	}
+}
+[t:butterfly_mp,n:0x001001bd]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.965071,0,0.261989;
+	  p position = -1.62053,0,-3.41622,0x369bd51c;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1a2]
@@ -50172,6 +50952,18 @@
 	{
 	  q orientation = 0,0.904538,0,0.426393;
 	  p position = -0.340074,0,3.69307,0x369bd51c;
+	}
+}
+[t:butterfly_mp,n:0x001001e2]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.686072,0,0.727534;
+	  p position = -3.09724,0,2.47583,0xd84afce9;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1e6]
@@ -50622,6 +51414,18 @@
 	  p position = 2.38011,0,-1.9531,0x62c74100;
 	}
 }
+[t:butterfly_mp,n:0x001001fb]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.980532,0,0.196359;
+	  p position = -3.37258,0,1.96365,0xdf10504c;
+	}
+}
 [t:flowers_grs_red,n:0x0010b196]
 {
 	[aspect]
@@ -50972,6 +51776,18 @@
 	{
 	  q orientation = 0,0.997218,0,0.07454;
 	  p position = 1.74166,0,-3.98206,0x8fa42513;
+	}
+}
+[t:butterfly_mp,n:0x00100265]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.592653,0,0.805458;
+	  p position = 2.46769,0,-2.99051,0xc0df1bfa;
 	}
 }
 [t:flowers_grs_red,n:0x0010b27b]
@@ -51998,6 +52814,18 @@
 	  p position = -2.59888,0,-1.7714,0xcaddd3f1;
 	}
 }
+[t:butterfly_mp,n:0x001002a6]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.169663,0,0.985502;
+	  p position = -3.80998,0,1.73495,0x35ca918f;
+	}
+}
 [t:flowers_grs_red,n:0x0010b165]
 {
 	[aspect]
@@ -52348,6 +53176,30 @@
 	{
 	  q orientation = 0,0.051083,0,-0.998694;
 	  p position = -1.3741,0,0.432607,0x35ca918f;
+	}
+}
+[t:butterfly_mp,n:0x00100172]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.143983,0,0.98958;
+	  p position = -3.19594,0,-2.66908,0x54471441;
+	}
+}
+[t:butterfly_mp,n:0x00100250]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.123592,0,-0.992333;
+	  p position = -2.86678,0,-3.11264,0x54471441;
 	}
 }
 [t:flowers_grs_red,n:0x0010b148]
@@ -53166,6 +54018,30 @@
 	  p position = -0.653713,0,2.09402,0x85e3c590;
 	}
 }
+[t:butterfly_mp,n:0x001001eb]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.994302,0,0.106598;
+	  p position = 1.18977,0,-1.53262,0xe4ce77e0;
+	}
+}
+[t:butterfly_mp,n:0x001001ee]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.929591,0,0.368593;
+	  p position = 1.7601,0,-1.63846,0xe4ce77e0;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1f4]
 {
 	[aspect]
@@ -53950,6 +54826,18 @@
 	  p position = 3.16847,0,2.66927,0xb573f73b;
 	}
 }
+[t:butterfly_mp,n:0x0010022e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.04332,0,0.999061;
+	  p position = -0.231883,0,3.89893,0xc51171af;
+	}
+}
 [t:flowers_grs_red,n:0x0010bd7d]
 {
 	[aspect]
@@ -54638,6 +55526,18 @@
 	  p position = -3.93822,0,-0.663073,0x28f69f42;
 	}
 }
+[t:butterfly_mp,n:0x00100203]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.969439,0,0.245334;
+	  p position = -1.85275,0,-2.83252,0xdd968929;
+	}
+}
 [t:flowers_grs_red,n:0x0010b8f5]
 {
 	[aspect]
@@ -54844,6 +55744,18 @@
 	{
 	  q orientation = 0,0.1455,0,0.989358;
 	  p position = -1.80654,0,-1.34048,0x93463141;
+	}
+}
+[t:butterfly_mp,n:0x00100224]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.92004,0,0.391825;
+	  p position = 3.01276,0,-3.25328,0xbfe1bc35;
 	}
 }
 [t:flowers_grs_red,n:0x0010bc95]
@@ -58430,6 +59342,18 @@
 	  p position = -0.381961,0,-0.724104,0xf340a65e;
 	}
 }
+[t:butterfly_mp,n:0x00100186]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.923037,0,0.384711;
+	  p position = 1.8369,0,-1.49961,0x904c5447;
+	}
+}
 [t:flowers_grs_red,n:0x0010b16d]
 {
 	[aspect]
@@ -58796,6 +59720,18 @@
 	{
 	  q orientation = 0,0.493233,0,0.869897;
 	  p position = -0.936534,0,0.0285231,0x904c5447;
+	}
+}
+[t:butterfly_mp,n:0x001002ab]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.133459,0,-0.991054;
+	  p position = 1.41831,0,3.31335,0x47e70ed6;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2d0]
@@ -59468,6 +60404,18 @@
 	{
 	  q orientation = 0,0.044353,0,-0.999016;
 	  p position = 1.24761,0,0.567231,0xdc2ae2a7;
+	}
+}
+[t:butterfly_mp,n:0x001001d5]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.044232,0,0.999021;
+	  p position = -0.677264,0,0.924477,0x36709724;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1d8]
@@ -61740,6 +62688,18 @@
 	{
 	  q orientation = 0,0.934192,0,0.356772;
 	  p position = 3.85637,0,-1.09836,0x49667003;
+	}
+}
+[t:butterfly_mp,n:0x0010023f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.677119,0,0.735874;
+	  p position = -0.84519,0,0.735166,0x15f9980a;
 	}
 }
 [t:flowers_grs_red,n:0x0010b751]
@@ -65662,6 +66622,18 @@
 	  p position = -0.375526,0,1.5023,0xddbeadce;
 	}
 }
+[t:butterfly_mp,n:0x00100169]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.992675,0,0.120819;
+	  p position = -3.8906,0,-0.736075,0xe38ee143;
+	}
+}
 [t:flowers_grs_red,n:0x0010b877]
 {
 	[aspect]
@@ -66156,6 +67128,18 @@
 	{
 	  q orientation = 0,0.976014,0,0.217707;
 	  p position = 3.51645,0,-3.8178,0xff5e6d13;
+	}
+}
+[t:butterfly_mp,n:0x00100293]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.143321,0,0.989676;
+	  p position = 3.71547,0,-0.832066,0x7ab474df;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2b5]
@@ -67070,6 +68054,30 @@
 	  p position = -2.41165,0,-2.84821,0xbd03698f;
 	}
 }
+[t:butterfly_mp,n:0x001001b2]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.081319,0,0.996688;
+	  p position = -0.815728,0,0.598243,0xfbf78421;
+	}
+}
+[t:butterfly_mp,n:0x00100279]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.735958,0,-0.677027;
+	  p position = 3.97975,0,-0.962295,0xfbf78421;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1a9]
 {
 	[aspect]
@@ -67244,6 +68252,18 @@
 	{
 	  q orientation = 0,0.702533,0,-0.711651;
 	  p position = 0.613601,0,-0.982733,0xfbf78421;
+	}
+}
+[t:butterfly_mp,n:0x00100178]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.745188,0,-0.666855;
+	  p position = 1.17072,0,-0.764268,0xb3a7b87a;
 	}
 }
 [t:flowers_grs_red,n:0x0010b151]
@@ -70334,6 +71354,18 @@
 	  p position = -0.816386,-13.4873,-34.1221,0x2bab4aea;
 	}
 }
+[t:butterfly_mp,n:0x0010016c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.410768,0,-0.91174;
+	  p position = -1.86262,0,-3.97948,0x82251ba4;
+	}
+}
 [t:flowers_grs_red,n:0x0010b13d]
 {
 	[aspect]
@@ -71148,6 +72180,18 @@
 	{
 	  q orientation = 0,0.399628,0,0.916677;
 	  p position = -1.28331,0,1.30331,0x75901b2d;
+	}
+}
+[t:butterfly_mp,n:0x0010026a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.154234,0,0.988034;
+	  p position = -3.68974,0,3.11659,0xb25239c3;
 	}
 }
 [t:flowers_grs_red,n:0x0010b280]
@@ -72094,6 +73138,18 @@
 	  p position = -1.94999,0,1.93349,0xdd8b56bc;
 	}
 }
+[t:butterfly_mp,n:0x00100244]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.097492,0,0.995236;
+	  p position = -0.830044,0,-3.6084,0xb1959bdc;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2ee]
 {
 	[aspect]
@@ -72460,6 +73516,18 @@
 	{
 	  q orientation = 0,0.578431,0,0.815731;
 	  p position = -1.13571,0,1.6695,0xef474ade;
+	}
+}
+[t:butterfly_mp,n:0x00100229]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.940541,0,-0.339681;
+	  p position = -2.93483,0,1.97176,0x7916a4ca;
 	}
 }
 [t:flowers_grs_red,n:0x0010b238]
@@ -72924,6 +73992,18 @@
 	{
 	  q orientation = 0,0.99982,0,0.018973;
 	  p position = 2.37104,0,1.22548,0x90aa65fd;
+	}
+}
+[t:butterfly_mp,n:0x001001c4]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-0.000245;
+	  p position = -1.07515,0,-1.42293,0x9413481d;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1c1]
@@ -74702,6 +75782,18 @@
 	  p position = -2.57439,0,0.840656,0x035cdabc;
 	}
 }
+[t:butterfly_mp,n:0x00100231]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.750198,0,-0.661214;
+	  p position = 2.67621,0,0.724223,0x85dc44ae;
+	}
+}
 [t:flowers_grs_red,n:0x0010b242]
 {
 	[aspect]
@@ -74764,6 +75856,18 @@
 	{
 	  q orientation = 0,0.906449,0,-0.422315;
 	  p position = -2.62455,0,-0.308874,0x85dc44ae;
+	}
+}
+[t:butterfly_mp,n:0x00100187]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.46718,0,0.884162;
+	  p position = 3.74719,0,0.803281,0x842c6007;
 	}
 }
 [t:foliage_grs_01,n:0x0010d5c9]
@@ -75372,6 +76476,18 @@
 	{
 	  q orientation = 0,0.783006,0,0.622014;
 	  p position = -2.30043,0,0.310941,0x10e23700;
+	}
+}
+[t:butterfly_mp,n:0x00100180]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.099715,0,-0.995016;
+	  p position = 3.82274,0,-0.565305,0x5f6e0ad7;
 	}
 }
 [t:flowers_grs_red,n:0x0010b15d]
@@ -75998,6 +77114,30 @@
 	  p position = 3.37781,0,0.264135,0x44ae14d0;
 	}
 }
+[t:butterfly_mp,n:0x00100259]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.484242,0,0.874934;
+	  p position = 3.6133,0,-1.7032,0x5f4f2ea2;
+	}
+}
+[t:butterfly_mp,n:0x0010025c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.296789,0,0.954943;
+	  p position = 1.83979,0,-0.938941,0x5f4f2ea2;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e7e8]
 {
 	[aspect]
@@ -76092,6 +77232,18 @@
 	{
 	  q orientation = 0,0.286848,0,0.957976;
 	  p position = -0.712296,0,0.602376,0x0c755f25;
+	}
+}
+[t:butterfly_mp,n:0x001001de]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.808306,0,-0.588763;
+	  p position = 1.96644,0,0.62649,0x1f6d683b;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1e3]
@@ -76396,6 +77548,18 @@
 	{
 	  q orientation = 0,0.636157,0,-0.771559;
 	  p position = -1.52729,0,2.04829,0x614eb267;
+	}
+}
+[t:butterfly_mp,n:0x0010021d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.954061,0,-0.299613;
+	  p position = -2.34446,0,-3.52514,0x46c5b641;
 	}
 }
 [t:flowers_grs_red,n:0x0010b450]
@@ -77422,6 +78586,18 @@
 	  p position = -0.549092,0,-1.62855,0xc1f0404d;
 	}
 }
+[t:butterfly_mp,n:0x001002b4]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.885366,0,-0.464896;
+	  p position = -2.29791,0,-3.70675,0x4c3b3918;
+	}
+}
 [t:flowers_grs_red,n:0x0010b18e]
 {
 	[aspect]
@@ -77724,6 +78900,18 @@
 	{
 	  q orientation = 0,0.715023,0,0.699101;
 	  p position = 3.17402,0,-0.752552,0x4c3b3918;
+	}
+}
+[t:butterfly_mp,n:0x00100197]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.935435,0,-0.353499;
+	  p position = -3.69914,0,-1.0501,0xa59237d6;
 	}
 }
 [t:flowers_grs_red,n:0x0010b187]
@@ -78172,6 +79360,18 @@
 	{
 	  q orientation = 0,0.356773,0,0.934191;
 	  p position = 2.5212,0,-3.42646,0xa59237d6;
+	}
+}
+[t:butterfly_mp,n:0x001002aa]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.124915,0,-0.992167;
+	  p position = -2.74941,0,-1.12054,0x9894eba4;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2cf]
@@ -78844,6 +80044,18 @@
 	{
 	  q orientation = 0,0.841528,0,-0.540213;
 	  p position = 0.309869,0,0.289683,0x3ca5192b;
+	}
+}
+[t:butterfly_mp,n:0x00100222]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.872887,0,0.487922;
+	  p position = 2.59878,0,-0.0422804,0x2b9792aa;
 	}
 }
 [t:flowers_grs_red,n:0x0010b234]
@@ -79630,6 +80842,42 @@
 	  p position = 3.57169,0,1.36059,0xf853569b;
 	}
 }
+[t:butterfly_mp,n:0x001001fa]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.61167,0,-0.791113;
+	  p position = 1.41628,0,0.324499,0x1da5973b;
+	}
+}
+[t:butterfly_mp,n:0x00100208]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.615196,0,-0.788374;
+	  p position = -1.57734,0,-1.97855,0x1da5973b;
+	}
+}
+[t:butterfly_mp,n:0x0010018c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.358342,0,-0.93359;
+	  p position = 1.77277,0,1.10734,0x601a1c7f;
+	}
+}
 [t:flowers_grs_red,n:0x0010b30e]
 {
 	[aspect]
@@ -79884,6 +81132,18 @@
 	{
 	  q orientation = 0,0.819008,0,-0.573782;
 	  p position = 0.634376,0,-1.56963,0xed70bf79;
+	}
+}
+[t:butterfly_mp,n:0x001001b9]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.885265,0,0.465087;
+	  p position = 0.0724085,0,-0.783502,0x0e5c0bc3;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1b0]
@@ -81054,6 +82314,18 @@
 	  p position = 1.10601,0,1.21407,0x47935b27;
 	}
 }
+[t:butterfly_mp,n:0x001001e5]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.451799,0,0.89212;
+	  p position = -0.950763,0,0.0978522,0x6cae4d9a;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1ed]
 {
 	[aspect]
@@ -81198,6 +82470,30 @@
 	  p position = 1.77134,0,-0.0450594,0x6cae4d9a;
 	}
 }
+[t:butterfly_mp,n:0x0010017a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.72242,0,0.691455;
+	  p position = -1.07314,0,0.00717905,0x3a144ee6;
+	}
+}
+[t:butterfly_mp,n:0x00100200]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.318839,0,0.947809;
+	  p position = -3.30162,0,-0.276082,0x3a144ee6;
+	}
+}
 [t:flowers_grs_red,n:0x0010b153]
 {
 	[aspect]
@@ -81340,6 +82636,18 @@
 	{
 	  q orientation = 0,0.970766,0,0.240027;
 	  p position = 0.0668499,0,1.89531,0x3a144ee6;
+	}
+}
+[t:butterfly_mp,n:0x00100181]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.158229,0,0.987402;
+	  p position = 2.59353,0,-1.63331,0xfd2a3148;
 	}
 }
 [t:flowers_grs_red,n:0x0010c4c6]
@@ -81500,6 +82808,30 @@
 	{
 	  q orientation = 0,0.811095,0,-0.584914;
 	  p position = -1.77902,0,1.0355,0xcfd3a944;
+	}
+}
+[t:butterfly_mp,n:0x0010017f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.154712,0,-0.98796;
+	  p position = -1.76208,0,0.761123,0xba3133d3;
+	}
+}
+[t:butterfly_mp,n:0x001001ac]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.980448,0,0.19678;
+	  p position = 2.92639,0,-1.3446,0x23269e1f;
 	}
 }
 [t:flowers_grs_red,n:0x0010b624]
@@ -81998,6 +83330,18 @@
 	  p position = -3.77251,0,-1.09226,0xbd00d5cb;
 	}
 }
+[t:butterfly_mp,n:0x00100194]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.948701,0,-0.316176;
+	  p position = -2.81848,0,-1.58878,0x42c57088;
+	}
+}
 [t:flowers_grs_red,n:0x0010b183]
 {
 	[aspect]
@@ -82204,6 +83548,18 @@
 	{
 	  q orientation = 0,0.151007,0,-0.988533;
 	  p position = 1.51619,0,1.16395,0x42c57088;
+	}
+}
+[t:butterfly_mp,n:0x00100227]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.819896,0,-0.572512;
+	  p position = -3.9355,0,-0.625703,0x3222a40b;
 	}
 }
 [t:flowers_grs_red,n:0x0010c2f5]
@@ -83182,6 +84538,18 @@
 	  p position = 3.85292,0,-1.2898,0x4198566a;
 	}
 }
+[t:butterfly_mp,n:0x0010022c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999871,0,0.01606;
+	  p position = 1.98275,0,-0.817832,0x3de82424;
+	}
+}
 [t:flowers_grs_red,n:0x0010b23d]
 {
 	[aspect]
@@ -83532,6 +84900,18 @@
 	{
 	  q orientation = 0,0.480403,0,0.877048;
 	  p position = 2.39372,0,1.8593,0xf57cd432;
+	}
+}
+[t:butterfly_mp,n:0x0010029e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.994411,0,0.105576;
+	  p position = -2.95947,0,0.335944,0x2039a4df;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2c5]
@@ -84190,6 +85570,18 @@
 	  p position = -1.3447,0,-0.830391,0xe9172a35;
 	}
 }
+[t:butterfly_mp,n:0x0010020a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.985527,0,0.169519;
+	  p position = -0.556356,0,-1.95781,0x93ac37e1;
+	}
+}
 [t:flowers_grs_red,n:0x0010b21b]
 {
 	[aspect]
@@ -84412,6 +85804,18 @@
 	{
 	  q orientation = 0,0.085153,0,-0.996368;
 	  p position = -3.72348,0,-0.721865,0x93ac37e1;
+	}
+}
+[t:butterfly_mp,n:0x00100213]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.359196,0,0.933262;
+	  p position = -3.32198,0,-1.46421,0xb7fd83f5;
 	}
 }
 [t:flowers_grs_red,n:0x0010b226]
@@ -85276,6 +86680,18 @@
 	{
 	  q orientation = 0,0.912324,0,0.409469;
 	  p position = -0.291524,0,0.803562,0xe54e1cbf;
+	}
+}
+[t:butterfly_mp,n:0x00100272]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.412574,0,-0.910924;
+	  p position = 1.42156,0,-0.923666,0xb6d0f0ba;
 	}
 }
 [t:flowers_grs_red,n:0x0010b286]
@@ -87006,6 +88422,18 @@
 	  p position = 2.92271,0,-0.81579,0xb1943b96;
 	}
 }
+[t:butterfly_mp,n:0x001001f7]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.978674,0,-0.205422;
+	  p position = -2.62893,0,-0.00113286,0x52ea2342;
+	}
+}
 [t:flowers_grs_red,n:0x0010b204]
 {
 	[aspect]
@@ -87420,6 +88848,30 @@
 	{
 	  q orientation = 0,0.98233,0,-0.187157;
 	  p position = 2.15712,0,-2.1882,0x52ea2342;
+	}
+}
+[t:butterfly_mp,n:0x001001fe]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.72971,0,-0.683757;
+	  p position = 1.70487,0,-1.67185,0x4b9d6f65;
+	}
+}
+[t:butterfly_mp,n:0x001002a4]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.314147,0,-0.949374;
+	  p position = 0.114472,0,0.0349424,0x4b9d6f65;
 	}
 }
 [t:flowers_grs_red,n:0x0010b20c]
@@ -88894,6 +90346,18 @@
 	  p position = 2.90529,0,-0.53415,0x9a96ade1;
 	}
 }
+[t:butterfly_mp,n:0x00100218]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.794162,0,0.607706;
+	  p position = -0.0904039,0,-1.66932,0x220ae1ab;
+	}
+}
 [t:flowers_grs_red,n:0x0010b22a]
 {
 	[aspect]
@@ -89196,6 +90660,18 @@
 	{
 	  q orientation = 0,0.902382,0,0.430937;
 	  p position = 2.05586,0,-0.259464,0x2a9d58fd;
+	}
+}
+[t:butterfly_mp,n:0x00100281]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999945,0,-0.010482;
+	  p position = 1.5482,0,-1.2452,0x7a9cb5d3;
 	}
 }
 [t:flowers_grs_red,n:0x0010b297]
@@ -89534,6 +91010,30 @@
 	  p position = 2.09813,0,-0.397728,0x7a9cb5d3;
 	}
 }
+[t:butterfly_mp,n:0x0010017b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.964921,0,-0.26254;
+	  p position = -3.88865,0,0.146289,0xa368f5c8;
+	}
+}
+[t:butterfly_mp,n:0x0010027d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.880317,0,0.474387;
+	  p position = -0.695142,0,1.4834,0xa368f5c8;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1b5]
 {
 	[aspect]
@@ -89822,6 +91322,18 @@
 	  p position = 1.25832,0,1.79387,0xc5befed3;
 	}
 }
+[t:butterfly_mp,n:0x0010016d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.799255,0,-0.600993;
+	  p position = 2.8481,0,-0.713799,0x8d9c09dc;
+	}
+}
 [t:flowers_grs_red,n:0x0010b140]
 {
 	[aspect]
@@ -90044,6 +91556,18 @@
 	{
 	  q orientation = 0,0.954794,0,0.297269;
 	  p position = -1.98701,0,-1.74676,0xcefc58da;
+	}
+}
+[t:butterfly_mp,n:0x0010025f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.995837,0,0.091154;
+	  p position = 3.81646,0,-0.105717,0x3f5bd8f5;
 	}
 }
 [t:flowers_grs_red,n:0x0010b867]
@@ -90844,6 +92368,18 @@
 	{
 	  q orientation = 0,0.310089,0,0.950707;
 	  p position = -0.382483,0,-1.96272,0xe2d64bc7;
+	}
+}
+[t:butterfly_mp,n:0x00100283]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.495141,0,0.868813;
+	  p position = -1.25814,0,3.21107,0x43acc88b;
 	}
 }
 [t:flowers_grs_red,n:0x0010b29a]
@@ -94206,6 +95742,18 @@
 	  p position = 1.92647,0,1.19469,0xba5a58e3;
 	}
 }
+[t:butterfly_mp,n:0x001001e6]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.861162,0,0.50833;
+	  p position = 0.458294,0,-2.92726,0xe5a6a888;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1f0]
 {
 	[aspect]
@@ -94764,6 +96312,18 @@
 	{
 	  q orientation = 0,0.976412,0,0.215915;
 	  p position = -1.06301,0,1.32302,0x4bce0bfc;
+	}
+}
+[t:butterfly_mp,n:0x0010027a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.760025,0,-0.649894;
+	  p position = 0.465984,0,-0.824864,0x823887b2;
 	}
 }
 [t:flowers_grs_red,n:0x0010b290]
@@ -96014,6 +97574,18 @@
 	  p position = 3.49776,0,0.612565,0xac00ff0e;
 	}
 }
+[t:butterfly_mp,n:0x00100271]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.433973,0,-0.900926;
+	  p position = -0.859722,0,-0.453737,0x66510ba5;
+	}
+}
 [t:flowers_grs_red,n:0x0010b285]
 {
 	[aspect]
@@ -96942,6 +98514,18 @@
 	  p position = -1.18633,0,-1.63186,0x9b26c0ee;
 	}
 }
+[t:butterfly_mp,n:0x0010024f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.571284,0,-0.820752;
+	  p position = -3.84058,0,-0.088044,0x3750f51b;
+	}
+}
 [t:flowers_grs_red,n:0x0010b16f]
 {
 	[aspect]
@@ -97534,6 +99118,18 @@
 	  p position = 0.800793,-2.8997,1.99073,0x72ee5be3;
 	}
 }
+[t:butterfly_mp,n:0x001002be]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.518437,0,-0.855116;
+	  p position = -0.974309,0,-1.47115,0x95c788af;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2e6]
 {
 	[aspect]
@@ -97884,6 +99480,18 @@
 	{
 	  q orientation = 0,0.103256,0,0.994655;
 	  p position = -1.10218,0,-0.0829978,0x8ed4ff05;
+	}
+}
+[t:butterfly_mp,n:0x00100266]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.270011,0,0.962857;
+	  p position = -2.81697,0,0.760381,0xf2a49af2;
 	}
 }
 [t:flowers_grs_red,n:0x0010b27c]
@@ -99406,6 +101014,18 @@
 	  p position = -3.70039,0,1.72408,0xd8783d86;
 	}
 }
+[t:butterfly_mp,n:0x001001b5]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.98769,0,-0.156426;
+	  p position = 2.76417,0,-0.721649,0x3ecf3f7b;
+	}
+}
 [t:flowers_grs_red,n:0x0010b395]
 {
 	[aspect]
@@ -100878,6 +102498,30 @@
 	  p position = 1.29513,0,-1.27227,0xfc359570;
 	}
 }
+[t:butterfly_mp,n:0x00100253]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.905299,0,-0.424775;
+	  p position = 3.72147,0,-3.74094,0x076187ac;
+	}
+}
+[t:butterfly_mp,n:0x00100255]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.612123,0,0.790763;
+	  p position = 1.11282,0,3.09323,0x076187ac;
+	}
+}
 [t:flowers_grs_red,n:0x0010b13e]
 {
 	[aspect]
@@ -101742,6 +103386,18 @@
 	  p position = 3.57897,0,-2.01266,0xadd1095e;
 	}
 }
+[t:butterfly_mp,n:0x0010023b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.006952,0,-0.999976;
+	  p position = -1.56873,0,0.98174,0xbeb8b00d;
+	}
+}
 [t:flowers_grs_red,n:0x0010b24d]
 {
 	[aspect]
@@ -102252,6 +103908,18 @@
 	{
 	  q orientation = 0,0.172067,0,-0.985085;
 	  p position = 0.17592,0,-1.2526,0xb8649bf6;
+	}
+}
+[t:butterfly_mp,n:0x001002a1]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.010584,0,-0.999944;
+	  p position = -1.34493,0,-1.11362,0x86c83b2b;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2c7]
@@ -104622,6 +106290,18 @@
 	  p position = -3.65692,0,-2.99704,0x9511ffbf;
 	}
 }
+[t:butterfly_mp,n:0x00100233]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.79418,0,-0.607682;
+	  p position = 1.32864,0,1.26442,0x3eda8ccb;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1f9]
 {
 	[aspect]
@@ -106222,6 +107902,42 @@
 	  p position = 0.601309,0,-1.99059,0xf40ae290;
 	}
 }
+[t:butterfly_mp,n:0x001001e1]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.701558,0,0.712612;
+	  p position = 1.75275,0,-0.606976,0x7c4c108a;
+	}
+}
+[t:butterfly_mp,n:0x0010028b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.11813,0,-0.992998;
+	  p position = -1.01902,0,-1.25822,0x7c4c108a;
+	}
+}
+[t:butterfly_mp,n:0x001001ed]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.986007,0,-0.166701;
+	  p position = 0.500198,0,-2.22981,0xdcb693ba;
+	}
+}
 [t:flowers_grs_red,n:0x0010b178]
 {
 	[aspect]
@@ -106862,6 +108578,18 @@
 	  p position = -3.80179,0,3.32816,0x6f60aaec;
 	}
 }
+[t:butterfly_mp,n:0x00100286]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.96926,0,0.246037;
+	  p position = -2.77498,0,0.780768,0x9cd711ee;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2a0]
 {
 	[aspect]
@@ -107052,6 +108780,30 @@
 	{
 	  q orientation = 0,0.926114,0,-0.377244;
 	  p position = 0.207038,0,-0.689328,0x9cd711ee;
+	}
+}
+[t:butterfly_mp,n:0x0010019e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.5054,0,-0.862885;
+	  p position = 0.944252,0,0.777972,0x13969ddb;
+	}
+}
+[t:butterfly_mp,n:0x00100210]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.970622,0,-0.240611;
+	  p position = -3.9644,0,-2.28163,0x13969ddb;
 	}
 }
 [t:flowers_grs_red,n:0x0010b192]
@@ -107404,6 +109156,18 @@
 	{
 	  q orientation = 0,0.214227,0,-0.976784;
 	  p position = -0.487364,0,-3.91441,0x13969ddb;
+	}
+}
+[t:butterfly_mp,n:0x00100236]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.6949,0,0.719106;
+	  p position = -2.17276,0,0.0705991,0xe37f4b35;
 	}
 }
 [t:flowers_grs_red,n:0x0010b24a]
@@ -108510,6 +110274,18 @@
 	  p position = 0.620955,0,0.00813482,0x5906dbb2;
 	}
 }
+[t:butterfly_mp,n:0x001001ec]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.918632,0,0.395114;
+	  p position = 1.77931,0,2.09303,0xcb20424f;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1f5]
 {
 	[aspect]
@@ -109148,6 +110924,18 @@
 	{
 	  q orientation = 0,0.959806,0,-0.280664;
 	  p position = 2.74114,0,3.96822,0xe3f06db6;
+	}
+}
+[t:butterfly_mp,n:0x00100251]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.848682,0,0.528904;
+	  p position = 3.53539,0,-0.835235,0xadb55245;
 	}
 }
 [t:flowers_grs_red,n:0x0010b269]
@@ -111438,6 +113226,18 @@
 	  p position = 0.054386,0,1.43261,0x560d2d2c;
 	}
 }
+[t:butterfly_mp,n:0x001001b7]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.001272,0,-0.999999;
+	  p position = -2.96183,0,1.53699,0x3ef40735;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1af]
 {
 	[aspect]
@@ -112078,6 +113878,18 @@
 	  p position = 0.912402,0,-0.757242,0x889701f4;
 	}
 }
+[t:butterfly_mp,n:0x00100176]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.943964,0,-0.330048;
+	  p position = -0.0130909,0,1.61662,0xdd2e7e9e;
+	}
+}
 [t:flowers_grs_red,n:0x0010b14f]
 {
 	[aspect]
@@ -112124,6 +113936,18 @@
 	{
 	  q orientation = 0,0.915397,0,-0.402553;
 	  p position = 0.502371,0,0.519078,0xdd2e7e9e;
+	}
+}
+[t:butterfly_mp,n:0x001001c0]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.279139,0,0.960251;
+	  p position = 0.117799,0,-0.00496117,0x6bab4d3c;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1bb]
@@ -113230,6 +115054,18 @@
 	  p position = 3.425,0,-0.429093,0xf1c0844d;
 	}
 }
+[t:butterfly_mp,n:0x00100263]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.945886,0,0.324499;
+	  p position = -0.100702,0,1.52662,0xa81d73b5;
+	}
+}
 [t:flowers_grs_red,n:0x0010b279]
 {
 	[aspect]
@@ -113404,6 +115240,30 @@
 	{
 	  q orientation = 0,0.436204,0,0.899848;
 	  p position = 1.01363,0,-0.776137,0xa81d73b5;
+	}
+}
+[t:butterfly_mp,n:0x00100193]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.716364,0,-0.697726;
+	  p position = 0.71097,0,0.0958502,0x6f328807;
+	}
+}
+[t:butterfly_mp,n:0x00100209]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.990614,0,-0.136686;
+	  p position = 3.9256,0,-0.0830612,0x6f328807;
 	}
 }
 [t:flowers_grs_red,n:0x0010b17f]
@@ -113612,6 +115472,18 @@
 	{
 	  q orientation = 0,0.855453,0,0.517881;
 	  p position = 1.45988,0,1.18907,0x6f328807;
+	}
+}
+[t:butterfly_mp,n:0x00100215]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.835082,0,0.550125;
+	  p position = -2.61412,0,-1.33254,0x684ba72f;
 	}
 }
 [t:flowers_grs_red,n:0x0010b228]
@@ -114670,6 +116542,18 @@
 	  p position = 0.296606,0,-0.731349,0x2c0f9e6e;
 	}
 }
+[t:butterfly_mp,n:0x0010028a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.030382,0,0.999538;
+	  p position = 0.707066,0,-0.296019,0xf23d513f;
+	}
+}
 [t:flowers_grs_red,n:0x0010b48c]
 {
 	[aspect]
@@ -114716,6 +116600,18 @@
 	{
 	  q orientation = 0,0.999376,0,-0.035334;
 	  p position = 1.76135,0,1.44052,0xf23d513f;
+	}
+}
+[t:butterfly_mp,n:0x00100167]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.555786,0,0.831326;
+	  p position = -7.98619,0,1.90988,0x44885177;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2a5]
@@ -114812,6 +116708,18 @@
 	{
 	  q orientation = 0,0.699217,0,0.71491;
 	  p position = -2.59853,0,-1.39986,0xe548350d;
+	}
+}
+[t:butterfly_mp,n:0x0010025d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.974248,0,0.225477;
+	  p position = 0.397301,0,-0.0724138,0xc03233cc;
 	}
 }
 [t:flowers_grs_red,n:0x0010b276]
@@ -115566,6 +117474,54 @@
 	  p position = 0.766011,0,-0.501818,0x65061adf;
 	}
 }
+[t:butterfly_mp,n:0x001001a1]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.388475,0,-0.921459;
+	  p position = -0.650713,0,-2.70353,0x431d162b;
+	}
+}
+[t:butterfly_mp,n:0x001001bf]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.703254,0,0.710939;
+	  p position = -3.22551,0,-1.6783,0x431d162b;
+	}
+}
+[t:butterfly_mp,n:0x001001d6]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.517158,0,-0.85589;
+	  p position = -1.63981,0,1.39521,0x431d162b;
+	}
+}
+[t:butterfly_mp,n:0x00100207]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.855943,0,-0.517071;
+	  p position = -0.49236,0,-1.66935,0x431d162b;
+	}
+}
 [t:flowers_grs_red,n:0x0010b195]
 {
 	[aspect]
@@ -116108,6 +118064,30 @@
 	{
 	  q orientation = 0,0.9941,0,0.108471;
 	  p position = -1.13453,0,0.942031,0x42680bde;
+	}
+}
+[t:butterfly_mp,n:0x00100170]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.672478,0,0.740117;
+	  p position = 2.07521,0,2.97906,0x2897bbe4;
+	}
+}
+[t:butterfly_mp,n:0x001001c2]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.908174,0,0.418592;
+	  p position = -1.0725,0,-0.795347,0x2897bbe4;
 	}
 }
 [t:flowers_grs_red,n:0x0010b146]
@@ -116958,6 +118938,18 @@
 	  p position = 2.80634,0,-0.548994,0x3becd3ab;
 	}
 }
+[t:butterfly_mp,n:0x00100292]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.350603,0,0.936524;
+	  p position = 0.799609,0,0.866632,0x2edc9ce9;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2b4]
 {
 	[aspect]
@@ -117148,6 +119140,18 @@
 	{
 	  q orientation = 0,0.979439,0,-0.201741;
 	  p position = -0.962328,0,0.666763,0x2edc9ce9;
+	}
+}
+[t:butterfly_mp,n:0x0010026f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.842345,0,-0.538938;
+	  p position = -1.80818,0,1.29403,0x4d8840d2;
 	}
 }
 [t:flowers_grs_red,n:0x0010b284]
@@ -117612,6 +119616,18 @@
 	{
 	  q orientation = 0,0.196469,0,-0.98051;
 	  p position = 2.33998,0,-1.51168,0x69f6a4bc;
+	}
+}
+[t:butterfly_mp,n:0x001001a2]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.677376,0,-0.735637;
+	  p position = 1.69121,0,0.0636375,0x6bcf97b8;
 	}
 }
 [t:flowers_grs_red,n:0x0010b197]
@@ -118444,6 +120460,18 @@
 	{
 	  q orientation = 0,0.612261,0,0.790655;
 	  p position = -1.3943,0,1.74401,0x4d9781e5;
+	}
+}
+[t:butterfly_mp,n:0x0010024a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.033283,0,-0.999446;
+	  p position = 3.07722,0,0.103256,0xc40e5428;
 	}
 }
 [t:flowers_grs_red,n:0x0010b25c]
@@ -119390,6 +121418,18 @@
 	  p position = 2.60079,0,0.39102,0x2ee072b5;
 	}
 }
+[t:butterfly_mp,n:0x001002b3]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.334901,0,-0.942253;
+	  p position = 1.16441,0,-1.67211,0xe6b4b29a;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2d7]
 {
 	[aspect]
@@ -119934,6 +121974,18 @@
 	  p position = -0.780188,0,1.93495,0x1ee78866;
 	}
 }
+[t:butterfly_mp,n:0x00100268]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.374269,0,-0.92732;
+	  p position = 0.50147,0,-3.19208,0xab6f93f4;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e329]
 {
 	[aspect]
@@ -119964,6 +122016,18 @@
 	{
 	  q orientation = 0,0.495413,0,0.868658;
 	  p position = 1.26232,0,1.5366,0xa70d8f59;
+	}
+}
+[t:butterfly_mp,n:0x0010020e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.130123,0,-0.991498;
+	  p position = -2.0487,0,-1.30219,0xbe7b9a37;
 	}
 }
 [t:flowers_grs_red,n:0x0010b4ae]
@@ -120382,6 +122446,18 @@
 	  p position = -0.406702,0,-1.96732,0x3234b681;
 	}
 }
+[t:butterfly_mp,n:0x001002bf]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.998444,0,0.055763;
+	  p position = 3.02202,0,0.12572,0x7de9e04c;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2e8]
 {
 	[aspect]
@@ -120604,6 +122680,18 @@
 	{
 	  q orientation = 0,0.119349,0,0.992852;
 	  p position = -2.55319,0,1.58906,0x7de9e04c;
+	}
+}
+[t:butterfly_mp,n:0x00100247]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999926,0,0.012169;
+	  p position = -3.5949,0,3.39305,0xe5ae22fb;
 	}
 }
 [t:flowers_grs_red,n:0x0010b25b]
@@ -121470,6 +123558,18 @@
 	  p position = -0.600738,0,1.48492,0x77a95736;
 	}
 }
+[t:butterfly_mp,n:0x00100237]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.261282,0,-0.965263;
+	  p position = 1.92533,0,-0.322523,0x821bedb3;
+	}
+}
 [t:flowers_grs_red,n:0x0010b24b]
 {
 	[aspect]
@@ -121708,6 +123808,18 @@
 	{
 	  q orientation = 0,0.141156,0,0.989987;
 	  p position = -0.027188,0,-0.957201,0x5de0db4d;
+	}
+}
+[t:butterfly_mp,n:0x00100242]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.993378,0,0.114896;
+	  p position = 0.287396,0,1.85854,0x8bcbcafd;
 	}
 }
 [t:flowers_grs_red,n:0x0010ba17]
@@ -121996,6 +124108,18 @@
 	{
 	  q orientation = 0,0.719152,0,0.694853;
 	  p position = -1.59914,0,1.30358,0x8a8f11fb;
+	}
+}
+[t:butterfly_mp,n:0x0010025e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.605315,0,0.795986;
+	  p position = 1.29616,0,0.801724,0xd443e3fa;
 	}
 }
 [t:flowers_grs_red,n:0x0010b18d]
@@ -122798,6 +124922,18 @@
 	  p position = 3.78933,0,-2.94649,0xa739f0bc;
 	}
 }
+[t:butterfly_mp,n:0x00100238]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.534087,0,0.84543;
+	  p position = 2.60798,0,0.572288,0xd4436991;
+	}
+}
 [t:flowers_grs_red,n:0x0010b29b]
 {
 	[aspect]
@@ -123150,6 +125286,18 @@
 	  p position = -3.00793,0,-0.775764,0xd4436991;
 	}
 }
+[t:butterfly_mp,n:0x001001a6]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.685838,0,0.727754;
+	  p position = -2.06449,0,-2.85139,0x97076a7e;
+	}
+}
 [t:flowers_grs_red,n:0x0010b19d]
 {
 	[aspect]
@@ -123470,6 +125618,18 @@
 	  p position = 1.70647,0,0.957744,0x97076a7e;
 	}
 }
+[t:butterfly_mp,n:0x0010021f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.806375,0,-0.591405;
+	  p position = -0.70723,0,-3.52571,0x944bb878;
+	}
+}
 [t:flowers_grs_red,n:0x0010b356]
 {
 	[aspect]
@@ -123676,6 +125836,18 @@
 	{
 	  q orientation = 0,0.977022,0,0.213138;
 	  p position = -2.07674,0,-0.767485,0x76fc59ff;
+	}
+}
+[t:butterfly_mp,n:0x0010016e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.398012,0,-0.91738;
+	  p position = 3.84655,0,-0.0373708,0x972a3d24;
 	}
 }
 [t:flowers_grs_red,n:0x0010b7a2]
@@ -124204,6 +126376,18 @@
 	{
 	  q orientation = 0,0.213903,0,0.976855;
 	  p position = 1.06725,0,1.39742,0xa9efb10b;
+	}
+}
+[t:butterfly_mp,n:0x00100234]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707603,0,-0.70661;
+	  p position = 2.2639,0,1.76612,0x7429ef86;
 	}
 }
 [t:flowers_grs_red,n:0x0010b245]
@@ -124782,6 +126966,18 @@
 	  p position = 3.91919,0,-0.519895,0x29eef472;
 	}
 }
+[t:butterfly_mp,n:0x00100243]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.625294,0,0.78039;
+	  p position = -3.27663,0,2.46078,0x2489e490;
+	}
+}
 [t:flowers_grs_red,n:0x0010b256]
 {
 	[aspect]
@@ -125132,6 +127328,18 @@
 	{
 	  q orientation = 0,0.995564,0,-0.094085;
 	  p position = -2.57781,0,1.30154,0x2489e490;
+	}
+}
+[t:butterfly_mp,n:0x00100280]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.921838,0,-0.387574;
+	  p position = 2.05478,0,0.24827,0x8b008b01;
 	}
 }
 [t:flowers_grs_red,n:0x0010b21f]
@@ -128174,6 +130382,18 @@
 	  p position = 0.323045,0,3.57322,0xa7541a5a;
 	}
 }
+[t:butterfly_mp,n:0x001001d1]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.861211,0,0.508247;
+	  p position = 0.248332,0,1.10356,0xb6db5a0b;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1d0]
 {
 	[aspect]
@@ -128926,6 +131146,18 @@
 	  p position = -1.77804,0,1.34746,0x23d9b7dc;
 	}
 }
+[t:butterfly_mp,n:0x0010019f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.910495,0,0.413519;
+	  p position = 2.47235,0,-2.67569,0xc1d206ec;
+	}
+}
 [t:flowers_grs_red,n:0x0010b193]
 {
 	[aspect]
@@ -129308,6 +131540,18 @@
 	{
 	  q orientation = 0,0.127599,0,-0.991826;
 	  p position = 3.06245,0,2.65561,0xc1d206ec;
+	}
+}
+[t:butterfly_mp,n:0x001001ce]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.791026,0,0.611783;
+	  p position = 3.16608,0,-0.42187,0x9541e384;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1cc]
@@ -129772,6 +132016,18 @@
 	{
 	  q orientation = 0,0.712582,0,-0.701589;
 	  p position = -2.10786,0,0.192902,0x4991d4ce;
+	}
+}
+[t:butterfly_mp,n:0x00100252]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.645227,0,0.763991;
+	  p position = 1.11413,0,-0.0511999,0x2a95c157;
 	}
 }
 [t:flowers_grs_red,n:0x0010b26b]
@@ -130478,6 +132734,18 @@
 	  p position = -0.905584,0,-1.31988,0x14cbb834;
 	}
 }
+[t:butterfly_mp,n:0x001001e0]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.022471,0,-0.999748;
+	  p position = 0.314402,0,1.22827,0x33d9de23;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1e5]
 {
 	[aspect]
@@ -131070,6 +133338,18 @@
 	  p position = 2.80865,0,2.46771,0x0c50aa7d;
 	}
 }
+[t:butterfly_mp,n:0x0010029a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.051711,0,-0.998662;
+	  p position = -3.57548,0,-3.54716,0x70068cca;
+	}
+}
 [t:flowers_grs_red,n:0x0010ba33]
 {
 	[aspect]
@@ -131180,6 +133460,18 @@
 	{
 	  q orientation = 0,0.600094,0,0.799929;
 	  p position = 0.626903,0,-1.37206,0x336b2d20;
+	}
+}
+[t:butterfly_mp,n:0x001001d9]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.480974,0,0.876735;
+	  p position = 1.54215,0,-3.50301,0x5bd2ac07;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1dc]
@@ -132190,6 +134482,18 @@
 	  p position = 0.317272,0,1.88144,0xb6d997c1;
 	}
 }
+[t:butterfly_mp,n:0x001001cf]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.712994,0,-0.70117;
+	  p position = 0.856565,0,-0.614546,0x86c98280;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1cd]
 {
 	[aspect]
@@ -133022,6 +135326,18 @@
 	  p position = -2.06333,0,0.515554,0xd7cab442;
 	}
 }
+[t:butterfly_mp,n:0x001001c5]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.451023,0,0.892512;
+	  p position = -2.90371,0,-0.667837,0x8cafbbb5;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1c2]
 {
 	[aspect]
@@ -133212,6 +135528,18 @@
 	{
 	  q orientation = 0,0.505983,0,0.862544;
 	  p position = -0.032854,0,1.75333,0x8cafbbb5;
+	}
+}
+[t:butterfly_mp,n:0x00100288]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.800347,0,0.599538;
+	  p position = 2.65199,0,1.89248,0x2e839b9a;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2a2]
@@ -135022,6 +137350,18 @@
 	  p position = -0.998709,0,1.6838,0xcd365740;
 	}
 }
+[t:butterfly_mp,n:0x0010019b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.394123,0,0.919058;
+	  p position = 0.661916,0,-2.86857,0xe1224940;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1db]
 {
 	[aspect]
@@ -135612,6 +137952,18 @@
 	{
 	  q orientation = 0,0.652004,0,-0.758216;
 	  p position = -2.17763,0,-2.54417,0x8cf8c27d;
+	}
+}
+[t:butterfly_mp,n:0x00100198]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.132429,0,-0.991192;
+	  p position = 0.60735,0,-0.713893,0xc33319c4;
 	}
 }
 [t:flowers_grs_red,n:0x0010b189]
@@ -136830,6 +139182,18 @@
 	  p position = -2.29127,0,1.80356,0x09bafec3;
 	}
 }
+[t:butterfly_mp,n:0x0010016a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.563668,0,0.826001;
+	  p position = 3.84196,0,-1.02508,0x08356856;
+	}
+}
 [t:flowers_grs_red,n:0x0010b13c]
 {
 	[aspect]
@@ -136988,6 +139352,18 @@
 	{
 	  q orientation = 0,0.788133,0,0.615504;
 	  p position = -0.283305,0,-0.810665,0x08356856;
+	}
+}
+[t:butterfly_mp,n:0x00100174]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.865752,0,-0.500473;
+	  p position = -2.85506,0,-0.1554,0x9b09822e;
 	}
 }
 [t:flowers_grs_red,n:0x0010b14a]
@@ -137292,6 +139668,18 @@
 	{
 	  q orientation = 0,0.259904,0,0.965634;
 	  p position = -3.22522,0,1.76036,0x6a78df70;
+	}
+}
+[t:butterfly_mp,n:0x0010029f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999559,0,0.029681;
+	  p position = -3.68048,0,3.42903,0xc3cba73e;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2c6]
@@ -138300,6 +140688,18 @@
 	{
 	  q orientation = 0,0.964605,0,0.263701;
 	  p position = -3.9629,0,-2.10111,0xd4819e7f;
+	}
+}
+[t:butterfly_mp,n:0x00100269]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.76125,0,0.648458;
+	  p position = 1.2383,0,0.288093,0x909a48b0;
 	}
 }
 [t:flowers_grs_red,n:0x0010b27e]
@@ -139646,6 +142046,18 @@
 	  p position = 0.56628,0,-1.47542,0xf531134f;
 	}
 }
+[t:butterfly_mp,n:0x0010017e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.919012,0,0.394229;
+	  p position = -3.22246,0,3.09807,0xeeabc287;
+	}
+}
 [t:flowers_grs_red,n:0x0010b15b]
 {
 	[aspect]
@@ -140526,6 +142938,18 @@
 	  p position = -3.97177,0,-0.829718,0x2d5c5a1b;
 	}
 }
+[t:butterfly_mp,n:0x001001b0]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.641011,0,-0.767532;
+	  p position = 1.42471,0,-0.247309,0x76d4c4c7;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1a7]
 {
 	[aspect]
@@ -140860,6 +143284,18 @@
 	{
 	  q orientation = 0,0.740512,0,0.672044;
 	  p position = 2.22877,0,-1.16162,0xecfbd21f;
+	}
+}
+[t:butterfly_mp,n:0x00100299]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.789475,0,-0.613782;
+	  p position = 0.841586,0,1.90072,0xde82046d;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2bb]
@@ -141566,6 +144002,18 @@
 	  p position = -1.70072,0,-1.70505,0x7ed573a7;
 	}
 }
+[t:butterfly_mp,n:0x0010023c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.910182,0,-0.414209;
+	  p position = -2.79547,0,1.72959,0x416f899d;
+	}
+}
 [t:flowers_grs_red,n:0x0010b4db]
 {
 	[aspect]
@@ -141900,6 +144348,18 @@
 	{
 	  q orientation = 0,0.990388,0,-0.13832;
 	  p position = 3.54781,0,-0.665929,0x42f9d6d6;
+	}
+}
+[t:butterfly_mp,n:0x001002b1]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.409526,0,0.912299;
+	  p position = 1.69759,0,0.563354,0x8d48c3e9;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2d6]
@@ -143772,6 +146232,30 @@
 	{
 	  q orientation = 0,0.336642,0,0.941633;
 	  p position = 0.263489,0,1.94116,0x66368268;
+	}
+}
+[t:butterfly_mp,n:0x001001cc]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.005897,0,-0.999983;
+	  p position = -3.50175,0,-2.89534,0x98c0a93a;
+	}
+}
+[t:butterfly_mp,n:0x00100235]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.914846,0,0.403804;
+	  p position = -0.0308194,0,0.086255,0x98c0a93a;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1c6]
@@ -145662,6 +148146,18 @@
 	  p position = -1.6105,0,-0.32665,0xafb85148;
 	}
 }
+[t:butterfly_mp,n:0x001001cb]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.389008,0,-0.921234;
+	  p position = -0.649758,0,-0.34816,0x2f0b72bf;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e89b]
 {
 	[aspect]
@@ -146510,6 +149006,18 @@
 	  p position = -2.05152,0,-0.715677,0x7db82e65;
 	}
 }
+[t:butterfly_mp,n:0x001001a9]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.19694,0,0.980415;
+	  p position = 3.84655,0,-0.0858753,0x13a0628d;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1a0]
 {
 	[aspect]
@@ -147068,6 +149576,42 @@
 	{
 	  q orientation = 0,0.388749,0,-0.921344;
 	  p position = -0.940799,0,-0.552599,0x89ccf314;
+	}
+}
+[t:butterfly_mp,n:0x001001a5]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.968447,0,0.249221;
+	  p position = 2.20938,0,-2.09888,0x207df766;
+	}
+}
+[t:butterfly_mp,n:0x00100278]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.767937,0,-0.640525;
+	  p position = 2.48023,0,-0.767213,0x207df766;
+	}
+}
+[t:butterfly_mp,n:0x00100291]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.520062,0,-0.854128;
+	  p position = 1.22698,0,-3.17885,0x207df766;
 	}
 }
 [t:flowers_grs_red,n:0x0010b19c]
@@ -147982,6 +150526,18 @@
 	  p position = 3.18785,0,-1.98329,0xb56e072d;
 	}
 }
+[t:butterfly_mp,n:0x00100295]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.11331,0,-0.99356;
+	  p position = -3.01425,0,1.56702,0x1c1ec23e;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2b7]
 {
 	[aspect]
@@ -148654,6 +151210,18 @@
 	  p position = 3.42941,0,0.63726,0x8de23df4;
 	}
 }
+[t:butterfly_mp,n:0x0010022f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.919529,0,-0.393023;
+	  p position = 3.38063,0,3.58944,0x1d69da59;
+	}
+}
 [t:flowers_grs_red,n:0x0010b240]
 {
 	[aspect]
@@ -149246,6 +151814,30 @@
 	  p position = 0.232585,0,1.36756,0x244bff4b;
 	}
 }
+[t:butterfly_mp,n:0x00100165]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.552782,0,-0.833326;
+	  p position = -1.36157,0,1.54939,0xa5a9d8e5;
+	}
+}
+[t:butterfly_mp,n:0x00100182]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.963402,0,-0.268062;
+	  p position = 3.91057,0,2.29582,0xa5a9d8e5;
+	}
+}
 [t:flowers_grs_red,n:0x0010b138]
 {
 	[aspect]
@@ -149564,6 +152156,18 @@
 	{
 	  q orientation = 0,0.996097,0,-0.088267;
 	  p position = 1.19941,0,0.641299,0x3c384b01;
+	}
+}
+[t:butterfly_mp,n:0x0010018b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.877659,0,0.479285;
+	  p position = -3.26594,0,0.243862,0x123c1e74;
 	}
 }
 [t:flowers_grs_red,n:0x0010b174]
@@ -150350,6 +152954,18 @@
 	  p position = 0.788893,0,-1.10635,0x55ad8915;
 	}
 }
+[t:butterfly_mp,n:0x00100183]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.612945,0,-0.790125;
+	  p position = -3.12059,0,1.46579,0xc61b3159;
+	}
+}
 [t:flowers_grs_red,n:0x0010b161]
 {
 	[aspect]
@@ -150926,6 +153542,18 @@
 	  p position = -0.420209,0,-1.34864,0x1eefa8c0;
 	}
 }
+[t:butterfly_mp,n:0x001002c0]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.383193,0,-0.923668;
+	  p position = 2.19896,0,1.19385,0x56474987;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2ea]
 {
 	[aspect]
@@ -151438,6 +154066,18 @@
 	  p position = -3.08609,0,-0.738819,0x94e3d8e0;
 	}
 }
+[t:butterfly_mp,n:0x001002ae]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.79141,0,0.611286;
+	  p position = 3.45896,0,3.9545,0xebd5ecd4;
+	}
+}
 [t:flowers_grs_red,n:0x0010c793]
 {
 	[aspect]
@@ -151836,6 +154476,18 @@
 	{
 	  q orientation = 0,0.723011,0,-0.690836;
 	  p position = 1.01057,0,-2.42607,0xcf05439f;
+	}
+}
+[t:butterfly_mp,n:0x0010018f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.024282,0,0.999705;
+	  p position = 2.1388,0,2.11329,0xb80a2fdc;
 	}
 }
 [t:flowers_grs_red,n:0x0010b17a]
@@ -154158,6 +156810,18 @@
 	  p position = -0.379291,0,-3.11972,0xf3cf0c26;
 	}
 }
+[t:butterfly_mp,n:0x001002b2]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999162,0,0.040919;
+	  p position = 3.02309,0,-0.148606,0xa78c8a6a;
+	}
+}
 [t:flowers_grs_red,n:0x0010b967]
 {
 	[aspect]
@@ -154796,6 +157460,18 @@
 	{
 	  q orientation = 0,0.808328,0,-0.588732;
 	  p position = 1.7053,0,3.85213,0x3b34d74b;
+	}
+}
+[t:butterfly_mp,n:0x0010019d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.873371,0,-0.487056;
+	  p position = 2.30496,0,0.0307589,0x7b2137cb;
 	}
 }
 [t:flowers_grs_red,n:0x0010b191]
@@ -155454,6 +158130,18 @@
 	  p position = 1.45736,0,-1.26174,0xbf1c3111;
 	}
 }
+[t:butterfly_mp,n:0x00100245]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.31471,0,0.949188;
+	  p position = -0.382391,0,0.992314,0xb42d6f03;
+	}
+}
 [t:flowers_grs_red,n:0x0010c3c4]
 {
 	[aspect]
@@ -155580,6 +158268,18 @@
 	{
 	  q orientation = 0,0.755717,0,0.654898;
 	  p position = -2.49841,0,1.42102,0xb42d6f03;
+	}
+}
+[t:butterfly_mp,n:0x001001ad]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.584863,0,-0.811132;
+	  p position = -2.50546,0,0.768274,0x92086b52;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1a3]
@@ -157758,6 +160458,18 @@
 	  p position = 3.89303,0,-1.73605,0xff53d118;
 	}
 }
+[t:butterfly_mp,n:0x001001a0]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.297119,0,-0.954841;
+	  p position = 2.2704,0,-1.06399,0x22641a3e;
+	}
+}
 [t:flowers_grs_red,n:0x0010c269]
 {
 	[aspect]
@@ -157772,6 +160484,18 @@
 	{
 	  q orientation = 0,0.496383,0,-0.868103;
 	  p position = -1.95788,0,-1.96789,0x22641a3e;
+	}
+}
+[t:butterfly_mp,n:0x001001f5]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.991715,0,0.128456;
+	  p position = -1.16447,0,1.17975,0xce562514;
 	}
 }
 [t:flowers_grs_red,n:0x0010b206]
@@ -159230,6 +161954,18 @@
 	  p position = -2.49722,0,0.125506,0x74aec03b;
 	}
 }
+[t:butterfly_mp,n:0x00100267]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.448944,0,0.89356;
+	  p position = 0.700609,0,1.12674,0x27f2ac4e;
+	}
+}
 [t:flowers_grs_red,n:0x0010cacf]
 {
 	[aspect]
@@ -159724,6 +162460,18 @@
 	{
 	  q orientation = 0,0.957107,0,-0.289734;
 	  p position = -0.535387,0,-1.87298,0xa3cf0d8b;
+	}
+}
+[t:butterfly_mp,n:0x00100204]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.956889,0,-0.290454;
+	  p position = -3.38463,0,-0.993201,0xf62da317;
 	}
 }
 [t:flowers_grs_red,n:0x0010b20f]
@@ -160286,6 +163034,18 @@
 	  p position = -2.2609,0,0.679266,0x48d6685a;
 	}
 }
+[t:butterfly_mp,n:0x0010029d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.974883,0,0.222716;
+	  p position = 3.6998,0,1.88064,0xfe8eccec;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2c4]
 {
 	[aspect]
@@ -160412,6 +163172,18 @@
 	{
 	  q orientation = 0,0.065509,0,-0.997852;
 	  p position = 0.840964,0,1.12456,0x87c82d71;
+	}
+}
+[t:butterfly_mp,n:0x00100168]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.790573,0,-0.612368;
+	  p position = -0.495071,0,0.793,0xad8d5781;
 	}
 }
 [t:flowers_grs_red,n:0x0010bca7]
@@ -161052,6 +163824,18 @@
 	{
 	  q orientation = 0,0.083484,0,-0.996509;
 	  p position = -1.10036,0,-0.153702,0xc9641dd8;
+	}
+}
+[t:butterfly_mp,n:0x001001c3]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.393291,0,0.919414;
+	  p position = -0.909209,0,-0.397165,0x4911c95a;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1c0]
@@ -162348,6 +165132,18 @@
 	{
 	  q orientation = 0,0.990955,0,-0.134193;
 	  p position = 2.98222,0,1.65575,0x0709da2f;
+	}
+}
+[t:butterfly_mp,n:0x0010024b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.939146,0,0.343518;
+	  p position = -1.1271,0,0.178071,0x5fb98bef;
 	}
 }
 [t:flowers_grs_red,n:0x0010b25d]
@@ -164542,6 +167338,30 @@
 	  p position = 3.12954,0,-0.257607,0xcb859773;
 	}
 }
+[t:butterfly_mp,n:0x001001d2]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.206101,0,-0.978531;
+	  p position = -3.70161,-1.2,3.37177,0x14236cb7;
+	}
+}
+[t:butterfly_mp,n:0x0010022a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.268984,0,0.963145;
+	  p position = 3.35915,-1.2,0.928608,0x14236cb7;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1d3]
 {
 	[aspect]
@@ -165036,6 +167856,18 @@
 	{
 	  q orientation = 0,0.99898,0,0.045158;
 	  p position = 0.718188,0,-0.531371,0x365f417d;
+	}
+}
+[t:butterfly_mp,n:0x00100248]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.894856,0,-0.446356;
+	  p position = -1.80015,0,-0.431909,0xb1a04308;
 	}
 }
 [t:foliage_grs_01,n:0x0010d52c]
@@ -165692,6 +168524,18 @@
 	{
 	  q orientation = 0,0.445332,0,-0.895365;
 	  p position = -2.13555,0,-1.04435,0x0bab1460;
+	}
+}
+[t:butterfly_mp,n:0x001001d8]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.143903,0,-0.989592;
+	  p position = -3.94536,0,-0.931405,0xe13c0080;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2a4]
@@ -166718,6 +169562,30 @@
 	  p position = 2.10345,0,-0.388515,0xfcf4db1e;
 	}
 }
+[t:butterfly_mp,n:0x00100274]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.971488,0,0.237089;
+	  p position = -1.98088,0,2.44068,0xb0beb694;
+	}
+}
+[t:butterfly_mp,n:0x0010028c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.05787,0,-0.998324;
+	  p position = 1.19077,0,2.37528,0xb0beb694;
+	}
+}
 [t:flowers_grs_red,n:0x0010b288]
 {
 	[aspect]
@@ -166940,6 +169808,18 @@
 	{
 	  q orientation = 0,0.986249,0,-0.165268;
 	  p position = 1.91841,0,-0.164929,0xb0beb694;
+	}
+}
+[t:butterfly_mp,n:0x001002a3]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.931355,0,0.364112;
+	  p position = 3.34886,0,-2.04938,0x706c9c60;
 	}
 }
 [t:flowers_grs_red,n:0x0010cc06]
@@ -167180,6 +170060,18 @@
 	{
 	  q orientation = 0,0.162535,0,0.986703;
 	  p position = -1.04993,0,-2.39309,0xd862d00a;
+	}
+}
+[t:butterfly_mp,n:0x001002a0]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.965325,0,0.26105;
+	  p position = -2.2403,0,-1.26452,0xca776e0d;
 	}
 }
 [t:flowers_grs_red,n:0x0010b361]
@@ -167452,6 +170344,18 @@
 	{
 	  q orientation = 0,0.048694,0,-0.998814;
 	  p position = -1.94452,0,-0.6745,0x4b83279b;
+	}
+}
+[t:butterfly_mp,n:0x001001cd]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.989452,0,-0.14486;
+	  p position = -0.985402,0,3.65348,0xad2948d1;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1c7]
@@ -168846,6 +171750,18 @@
 	  p position = -0.560321,0,-0.57108,0xbaa66a74;
 	}
 }
+[t:butterfly_mp,n:0x00100179]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.621527,0,-0.783393;
+	  p position = -1.63912,0,1.97985,0x0c5bde06;
+	}
+}
 [t:flowers_grs_red,n:0x0010b152]
 {
 	[aspect]
@@ -169260,6 +172176,18 @@
 	{
 	  q orientation = 0,0.808293,0,-0.588781;
 	  p position = -3.88702,0,-1.6541,0x0c5bde06;
+	}
+}
+[t:butterfly_mp,n:0x00100217]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.965078,0,0.261962;
+	  p position = 0.492657,0,0.612279,0x48c9c084;
 	}
 }
 [t:flowers_grs_red,n:0x0010b229]
@@ -169918,6 +172846,18 @@
 	  p position = -1.84289,0,1.92504,0xf6026c0d;
 	}
 }
+[t:butterfly_mp,n:0x00100240]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.1764,0,-0.984319;
+	  p position = 1.88282,0,-0.727769,0x44212b6c;
+	}
+}
 [t:flowers_grs_red,n:0x0010b255]
 {
 	[aspect]
@@ -170108,6 +173048,18 @@
 	{
 	  q orientation = 0,0.279123,0,0.960255;
 	  p position = -3.92198,0,-1.22615,0x44212b6c;
+	}
+}
+[t:butterfly_mp,n:0x001001e7]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.386684,0,-0.922212;
+	  p position = 2.63525,0,-1.79385,0xd517a988;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e927]
@@ -171438,6 +174390,18 @@
 	  p position = 0.040098,0,0.202027,0xacfc0891;
 	}
 }
+[t:butterfly_mp,n:0x00100189]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.941946,0,-0.335765;
+	  p position = 2.54741,0,0.908586,0x1dad60c9;
+	}
+}
 [t:flowers_grs_red,n:0x0010b172]
 {
 	[aspect]
@@ -171756,6 +174720,18 @@
 	{
 	  q orientation = 0,0.557571,0,-0.830129;
 	  p position = -2.23876,0,-3.73814,0x1dad60c9;
+	}
+}
+[t:butterfly_mp,n:0x0010023d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.995617,0,-0.093528;
+	  p position = -0.989801,0,1.90466,0xa5751baf;
 	}
 }
 [t:flowers_grs_red,n:0x0010b24f]
@@ -172860,6 +175836,18 @@
 	{
 	  q orientation = 0,0.254941,0,0.966956;
 	  p position = -3.56712,0,2.70236,0x3711894f;
+	}
+}
+[t:butterfly_mp,n:0x0010020d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.809504,0,0.587114;
+	  p position = -3.21902,0,1.77595,0xec1d42dd;
 	}
 }
 [t:flowers_grs_red,n:0x0010b21e]
@@ -175006,6 +177994,18 @@
 	  p position = -2.71266,0,1.8547,0x98cfdc3b;
 	}
 }
+[t:butterfly_mp,n:0x00100219]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.987823,0,-0.155585;
+	  p position = 0.300869,0,-1.32716,0x6ad260fd;
+	}
+}
 [t:flowers_grs_red,n:0x0010b22b]
 {
 	[aspect]
@@ -176030,6 +179030,18 @@
 	  p position = 3.09532,0,-0.692205,0xd8706c3d;
 	}
 }
+[t:butterfly_mp,n:0x00100166]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.41177,0,-0.911288;
+	  p position = -0.361393,0,-0.741931,0x06eb35e6;
+	}
+}
 [t:flowers_grs_red,n:0x0010b139]
 {
 	[aspect]
@@ -176364,6 +179376,18 @@
 	{
 	  q orientation = 0,0.38494,0,0.922941;
 	  p position = 1.21708,0,0.577003,0xe3c64cde;
+	}
+}
+[t:butterfly_mp,n:0x0010024d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.525443,0,0.850829;
+	  p position = 0.605537,0,3.86132,0x6a912aad;
 	}
 }
 [t:flowers_grs_red,n:0x0010b261]
@@ -177822,6 +180846,18 @@
 	  p position = 3.04366,0,-1.7082,0x3ae61b5d;
 	}
 }
+[t:butterfly_mp,n:0x0010027f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.156222,0,-0.987722;
+	  p position = -0.933469,0,-3.6982,0xcdb0bd85;
+	}
+}
 [t:flowers_grs_red,n:0x0010b295]
 {
 	[aspect]
@@ -178076,6 +181112,18 @@
 	{
 	  q orientation = 0,0.105044,0,-0.994468;
 	  p position = -1.03031,0,2.39506,0xcdb0bd85;
+	}
+}
+[t:butterfly_mp,n:0x001001d3]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.377618,0,-0.925961;
+	  p position = 2.68963,0,2.30368,0x74f7e099;
 	}
 }
 [t:flowers_grs_red,n:0x0010b16a]
@@ -178444,6 +181492,18 @@
 	{
 	  q orientation = 0,0.543141,0,-0.839641;
 	  p position = -3.20507,0,-0.328322,0x44a6d805;
+	}
+}
+[t:butterfly_mp,n:0x001001d7]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.997493,0,0.070771;
+	  p position = -3.3061,0,0.677023,0xede88a89;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1da]
@@ -181070,6 +184130,30 @@
 	  p position = -1.80868,0,-1.32514,0xab7548fd;
 	}
 }
+[t:butterfly_mp,n:0x0010018d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.873356,0,-0.487082;
+	  p position = 2.03549,0,-1.80095,0xfeda74f7;
+	}
+}
+[t:butterfly_mp,n:0x001001d4]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.340924,0,-0.940091;
+	  p position = -1.72351,0,1.9564,0xfeda74f7;
+	}
+}
 [t:flowers_grs_red,n:0x0010b175]
 {
 	[aspect]
@@ -181966,6 +185050,18 @@
 	  p position = -1.14824,0,0.594701,0x494093f2;
 	}
 }
+[t:butterfly_mp,n:0x00100212]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.932795,0,-0.360408;
+	  p position = 0.890467,0,0.348019,0x4e07d361;
+	}
+}
 [t:flowers_grs_red,n:0x0010b219]
 {
 	[aspect]
@@ -182380,6 +185476,18 @@
 	{
 	  q orientation = 0,0.810548,0,-0.585673;
 	  p position = -1.96025,0,1.40395,0xbea856bc;
+	}
+}
+[t:butterfly_mp,n:0x00100211]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.73401,0,0.679139;
+	  p position = 0.295112,0,-1.07366,0xaa9d5787;
 	}
 }
 [t:flowers_grs_red,n:0x0010b223]
@@ -183438,6 +186546,18 @@
 	  p position = 1.34677,0,0.0336541,0x6a2c9482;
 	}
 }
+[t:butterfly_mp,n:0x00100226]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.998135,0,-0.061048;
+	  p position = -1.61927,0,-1.14632,0x38311698;
+	}
+}
 [t:foliage_grs_01,n:0x0010d29f]
 {
 	[aspect]
@@ -183838,6 +186958,18 @@
 	  p position = -3.46934,0,-1.25204,0xf75642b1;
 	}
 }
+[t:butterfly_mp,n:0x0010021e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.4132,0,0.91064;
+	  p position = 3.832,0,-1.65892,0x6d3c2e23;
+	}
+}
 [t:flowers_grs_red,n:0x0010b22f]
 {
 	[aspect]
@@ -184206,6 +187338,18 @@
 	  p position = 0.366491,0,-0.698796,0x6d3c2e23;
 	}
 }
+[t:butterfly_mp,n:0x001002bb]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.336379,0,-0.941727;
+	  p position = 0.587892,0,-1.35548,0xac5f8cef;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2e4]
 {
 	[aspect]
@@ -184460,6 +187604,18 @@
 	{
 	  q orientation = 0,0.340326,0,0.940308;
 	  p position = -0.415422,0,-0.588855,0xac5f8cef;
+	}
+}
+[t:butterfly_mp,n:0x00100205]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.771114,0,0.636697;
+	  p position = -0.0719415,0,0.607034,0xf7b6e36e;
 	}
 }
 [t:flowers_grs_red,n:0x0010b177]
@@ -186958,6 +190114,18 @@
 	  p position = 2.8024,0,-0.295767,0x36d00475;
 	}
 }
+[t:butterfly_mp,n:0x001001fc]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.628796,0,-0.77757;
+	  p position = -0.826376,0,2.18844,0x37f098e7;
+	}
+}
 [t:flowers_grs_red,n:0x0010b209]
 {
 	[aspect]
@@ -187276,6 +190444,18 @@
 	{
 	  q orientation = 0,0.467185,0,0.88416;
 	  p position = -0.31011,0,-0.684584,0x37f098e7;
+	}
+}
+[t:butterfly_mp,n:0x001002ac]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.993196,0,-0.116452;
+	  p position = 2.99814,0,-2.86901,0x3ae52e9d;
 	}
 }
 [t:flowers_grs_red,n:0x0010b257]
@@ -188716,6 +191896,18 @@
 	{
 	  q orientation = 0,0.989616,0,0.143738;
 	  p position = -3.32241,0,-3.94681,0xae370999;
+	}
+}
+[t:butterfly_mp,n:0x00100282]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.344719,0,-0.938706;
+	  p position = -0.35259,0,0.162307,0xba7a93c4;
 	}
 }
 [t:flowers_grs_red,n:0x0010b299]
@@ -190414,6 +193606,18 @@
 	  p position = -3.08234,0,2.44691,0xf7bf06b3;
 	}
 }
+[t:butterfly_mp,n:0x00100177]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.919927,0,-0.392091;
+	  p position = 1.09294,0,0.967129,0x93b6320d;
+	}
+}
 [t:flowers_grs_red,n:0x0010b150]
 {
 	[aspect]
@@ -191148,6 +194352,18 @@
 	{
 	  q orientation = 0,0.998796,0,0.049062;
 	  p position = 3.63295,0,-1.95729,0x1bb8a4cc;
+	}
+}
+[t:butterfly_mp,n:0x00100185]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.516003,0,-0.856587;
+	  p position = -2.27982,0,-0.387561,0x3ea7256d;
 	}
 }
 [t:flowers_grs_red,n:0x0010b16c]
@@ -192158,6 +195374,30 @@
 	  p position = 0.884038,0,3.5563,0xf9a236ce;
 	}
 }
+[t:butterfly_mp,n:0x00100214]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.970913,0,0.239432;
+	  p position = -2.86913,0,-0.892294,0x4a438c99;
+	}
+}
+[t:butterfly_mp,n:0x0010021c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.560256,0,-0.828319;
+	  p position = 2.92232,0,-3.06091,0x4a438c99;
+	}
+}
 [t:flowers_grs_red,n:0x0010b227]
 {
 	[aspect]
@@ -192974,6 +196214,18 @@
 	  p position = 1.69727,0,1.09895,0x1f5f7b6f;
 	}
 }
+[t:butterfly_mp,n:0x00100196]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.597074,0,-0.802186;
+	  p position = -2.79234,0,-3.45371,0xded76bc1;
+	}
+}
 [t:flowers_grs_red,n:0x0010b186]
 {
 	[aspect]
@@ -193630,6 +196882,18 @@
 	  p position = -1.54126,0,0.94585,0x4195a5f6;
 	}
 }
+[t:butterfly_mp,n:0x001001b8]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.666523,0,-0.745484;
+	  p position = -0.200102,0,0.720436,0xdcc76996;
+	}
+}
 [t:flowers_grs_red,n:0x0010b815]
 {
 	[aspect]
@@ -193838,6 +197102,18 @@
 	  p position = 0.51501,0,-0.0444815,0xe7ea1161;
 	}
 }
+[t:butterfly_mp,n:0x001001b6]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.994762,0,0.102219;
+	  p position = -1.05306,0,-0.0239123,0x450d2219;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1ae]
 {
 	[aspect]
@@ -193916,6 +197192,18 @@
 	{
 	  q orientation = 0,0.718862,0,0.695153;
 	  p position = 0.337531,0,-0.0190396,0x450d2219;
+	}
+}
+[t:butterfly_mp,n:0x0010029b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.316417,0,0.94862;
+	  p position = -2.36799,0,0.329377,0x0e9070ea;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2bd]
@@ -194236,6 +197524,30 @@
 	{
 	  q orientation = 0,0.731242,0,0.682118;
 	  p position = 0.948276,0,-3.07504,0x0e9070ea;
+	}
+}
+[t:butterfly_mp,n:0x001001f1]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.921702,0,0.3879;
+	  p position = -2.14853,0,1.65736,0x9f520391;
+	}
+}
+[t:butterfly_mp,n:0x001002a5]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.921538,0,-0.388287;
+	  p position = 0.111158,0,3.58569,0x9f520391;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1fc]
@@ -195742,6 +199054,18 @@
 	  p position = 1.39221,0,0.0454165,0x80a4c518;
 	}
 }
+[t:butterfly_mp,n:0x001001ca]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.56412,0,0.825693;
+	  p position = -2.81779,0,1.44582,0x1698ff3f;
+	}
+}
 [t:flowers_grs_red,n:0x0010cbb9]
 {
 	[aspect]
@@ -196380,6 +199704,18 @@
 	{
 	  q orientation = 0,0.449251,0,0.893406;
 	  p position = 3.61496,0,0.495051,0x3c0ccccf;
+	}
+}
+[t:butterfly_mp,n:0x00100276]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.998355,0,0.057339;
+	  p position = 0.491657,0,0.37509,0xc57ae3d0;
 	}
 }
 [t:flowers_grs_red,n:0x0010b664]
@@ -197374,6 +200710,18 @@
 	  p position = -0.39695,0,0.474684,0xfb53e46d;
 	}
 }
+[t:butterfly_mp,n:0x00100195]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.41367,0,-0.910427;
+	  p position = -0.204379,0,1.69662,0xe78049f7;
+	}
+}
 [t:flowers_grs_red,n:0x0010b185]
 {
 	[aspect]
@@ -197644,6 +200992,18 @@
 	{
 	  q orientation = 0,0.366023,0,0.930606;
 	  p position = -1.2611,0,0.952748,0x31a4b668;
+	}
+}
+[t:butterfly_mp,n:0x00100175]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.978627,0,-0.205644;
+	  p position = -3.82448,0,2.6403,0xd4271699;
 	}
 }
 [t:flowers_grs_red,n:0x0010b14e]
@@ -197982,6 +201342,18 @@
 	  p position = -2.17618,0,0.321437,0x166c72f3;
 	}
 }
+[t:butterfly_mp,n:0x0010026b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.828753,0,0.559614;
+	  p position = -1.85133,0,-0.510237,0xc46060e9;
+	}
+}
 [t:flowers_grs_red,n:0x0010b7ad]
 {
 	[aspect]
@@ -198012,6 +201384,18 @@
 	{
 	  q orientation = 0,0.152788,0,-0.988259;
 	  p position = 1.70311,0,-1.69839,0xc46060e9;
+	}
+}
+[t:butterfly_mp,n:0x001001a3]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.674818,0,0.737984;
+	  p position = -1.20332,0,-3.78664,0xba3d082a;
 	}
 }
 [t:flowers_grs_red,n:0x0010b730]
@@ -198172,6 +201556,18 @@
 	{
 	  q orientation = 0,0.596829,0,-0.802368;
 	  p position = -2.69942,0,0.124923,0x3a74f863;
+	}
+}
+[t:butterfly_mp,n:0x00100290]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.364344,0,0.931264;
+	  p position = 0.584279,0,-3.29584,0x3f34a3c6;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2af]
@@ -198572,6 +201968,18 @@
 	{
 	  q orientation = 0,0.029206,0,-0.999573;
 	  p position = 3.49293,0,1.85178,0x3f34a3c6;
+	}
+}
+[t:butterfly_mp,n:0x0010024e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.991256,0,-0.131952;
+	  p position = 0.508852,0,0.504871,0x9af3e782;
 	}
 }
 [t:flowers_grs_red,n:0x0010b263]
@@ -199278,6 +202686,18 @@
 	  p position = 2.69062,-0.65,2.26256,0x8f8d499d;
 	}
 }
+[t:butterfly_mp,n:0x0010021b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.419517,0,-0.907748;
+	  p position = -1.61833,0,3.9945,0x9e397b61;
+	}
+}
 [t:flowers_grs_red,n:0x0010b22d]
 {
 	[aspect]
@@ -199838,6 +203258,30 @@
 	  p position = 3.71038,0,2.81692,0xd79f09c2;
 	}
 }
+[t:butterfly_mp,n:0x00100298]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.245062,0,-0.969507;
+	  p position = -2.39289,0,0.993341,0x21b1f23d;
+	}
+}
+[t:butterfly_mp,n:0x001001dc]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.776649,0,-0.629934;
+	  p position = -0.687529,0,0.0813662,0x499ad162;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1e2]
 {
 	[aspect]
@@ -199964,6 +203408,18 @@
 	{
 	  q orientation = 0,0.957565,0,0.288219;
 	  p position = -0.250804,0,-3.80628,0xb2802967;
+	}
+}
+[t:butterfly_mp,n:0x00100257]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.616055,0,-0.787703;
+	  p position = -0.970299,0,0.368192,0x75926414;
 	}
 }
 [t:flowers_grs_red,n:0x0010b302]
@@ -200972,6 +204428,18 @@
 	{
 	  q orientation = 0,0.727076,0,0.686557;
 	  p position = 2.37623,0,0.611088,0x1a1c5795;
+	}
+}
+[t:butterfly_mp,n:0x00100241]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.994319,0,0.106439;
+	  p position = 2.16117,0,-1.56411,0x4fa3c07b;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e386]
@@ -203116,6 +206584,18 @@
 	{
 	  q orientation = 0,0.85771,0,-0.514133;
 	  p position = -3.20115,0,2.72189,0xeadf7814;
+	}
+}
+[t:butterfly_mp,n:0x0010026c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.533125,0,-0.846036;
+	  p position = 3.30746,0,-0.742637,0xd16f148f;
 	}
 }
 [t:flowers_grs_red,n:0x0010b282]
@@ -205470,6 +208950,18 @@
 	  p position = 1.72426,0,-1.91506,0xabcb3edc;
 	}
 }
+[t:butterfly_mp,n:0x00100188]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.467499,0,-0.883994;
+	  p position = -3.08092,0,-1.77145,0x0c7a372f;
+	}
+}
 [t:flowers_grs_red,n:0x0010b171]
 {
 	[aspect]
@@ -205804,6 +209296,18 @@
 	{
 	  q orientation = 0,0.998969,0,-0.045404;
 	  p position = 1.78221,0,-1.62231,0x0c7a372f;
+	}
+}
+[t:butterfly_mp,n:0x001001be]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.744835,0,0.667249;
+	  p position = 0.119841,0,-3.15053,0xfc21b591;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1b9]
@@ -207262,6 +210766,18 @@
 	  p position = -2.03141,0,-1.62915,0x2b814476;
 	}
 }
+[t:butterfly_mp,n:0x0010022b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.83495,0,0.550325;
+	  p position = 2.01957,0,0.358296,0x69cdd38a;
+	}
+}
 [t:flowers_grs_red,n:0x0010b23b]
 {
 	[aspect]
@@ -207724,6 +211240,18 @@
 	{
 	  q orientation = 0,0.667562,0,0.744554;
 	  p position = 1.59902,0,-0.536725,0xf4e71848;
+	}
+}
+[t:butterfly_mp,n:0x0010016b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.876118,0,0.482097;
+	  p position = 1.97034,-1.2,-2.90793,0x3724f878;
 	}
 }
 [t:flowers_grs_red,n:0x0010b27f]
@@ -208252,6 +211780,18 @@
 	{
 	  q orientation = 0,0.550689,0,0.83471;
 	  p position = -2.80209,0,-1.44362,0xedf336db;
+	}
+}
+[t:butterfly_mp,n:0x001002bd]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.954365,0,-0.298641;
+	  p position = -1.88383,0,0.896747,0x2e666393;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2e5]
@@ -208924,6 +212464,18 @@
 	{
 	  q orientation = 0,0.943946,0,0.330101;
 	  p position = -1.84334,0,-1.00773,0x37ac7854;
+	}
+}
+[t:butterfly_mp,n:0x00100249]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.417906,0,0.90849;
+	  p position = 1.53111,0,-0.0838763,0xdbe0b8e8;
 	}
 }
 [t:flowers_grs_red,n:0x0010c188]
@@ -210894,6 +214446,18 @@
 	  p position = 2.99017,0,1.19328,0x817792b2;
 	}
 }
+[t:butterfly_mp,n:0x0010018e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.88402,0,0.46745;
+	  p position = -0.231823,0,-0.907333,0x88c39cc5;
+	}
+}
 [t:flowers_grs_red,n:0x0010b176]
 {
 	[aspect]
@@ -211292,6 +214856,18 @@
 	{
 	  q orientation = 0,0.796533,0,0.604595;
 	  p position = -1.2444,0,1.04458,0xe5b069a6;
+	}
+}
+[t:butterfly_mp,n:0x001001f2]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.049403,0,0.998779;
+	  p position = 1.33404,0,0.466077,0x28820e34;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1fd]
@@ -212444,6 +216020,18 @@
 	{
 	  q orientation = 0,0.280945,0,-0.959724;
 	  p position = -2.34112,0,-0.584433,0x93b775f8;
+	}
+}
+[t:butterfly_mp,n:0x0010023a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.58949,0,0.807776;
+	  p position = -1.51442,0,-1.65446,0xe479aa15;
 	}
 }
 [t:flowers_grs_red,n:0x0010b24c]
@@ -216030,6 +219618,18 @@
 	  p position = -0.68474,0,0.473923,0xdc305942;
 	}
 }
+[t:butterfly_mp,n:0x001001df]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.671087,0,-0.741379;
+	  p position = -0.22343,0,-1.70327,0x8ee4b9ad;
+	}
+}
 [t:flowers_grs_red,n:0x0010b612]
 {
 	[aspect]
@@ -216142,6 +219742,18 @@
 	  p position = 0.966457,0,-0.511752,0xb8ad79ea;
 	}
 }
+[t:butterfly_mp,n:0x0010028f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.987444,0,-0.157972;
+	  p position = -2.07287,0,3.76116,0xb3247738;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e620]
 {
 	[aspect]
@@ -216204,6 +219816,18 @@
 	{
 	  q orientation = 0,0.809678,0,0.586875;
 	  p position = -3.31177,0,-0.371416,0x69870b54;
+	}
+}
+[t:butterfly_mp,n:0x001001b4]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.988672,0,0.150093;
+	  p position = 3.98903,0,-2.39857,0x550494e5;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1ac]
@@ -217740,6 +221364,30 @@
 	{
 	  q orientation = 0,0.830776,0,0.556607;
 	  p position = -3.16031,0,-3.75868,0x17a0d5d4;
+	}
+}
+[t:butterfly_mp,n:0x001002a2]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.685343,0,0.72822;
+	  p position = 3.84907,0,-3.92957,0x728c59ec;
+	}
+}
+[t:butterfly_mp,n:0x001002a9]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.530185,0,-0.847882;
+	  p position = -3.30796,0,2.12219,0x728c59ec;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2c8]
@@ -219742,6 +223390,30 @@
 	  p position = -0.625782,0,1.68301,0x9b283c7d;
 	}
 }
+[t:butterfly_mp,n:0x001001c8]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.740752,0,0.671779;
+	  p position = 1.80259,0,0.752175,0xdaed5ca4;
+	}
+}
+[t:butterfly_mp,n:0x00100192]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.469361,0,-0.883006;
+	  p position = -0.319225,0,0.75844,0x1e3f84f1;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e1fc]
 {
 	[aspect]
@@ -219756,6 +223428,18 @@
 	{
 	  q orientation = 0,0.875135,0,0.483879;
 	  p position = -1.08404,0,-1.86216,0x1e3f84f1;
+	}
+}
+[t:butterfly_mp,n:0x001001a4]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.626847,0,0.779143;
+	  p position = -0.411188,0,-1.979,0x6fd8be99;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2fc]
@@ -219886,6 +223570,18 @@
 	  p position = -2.56617,0,-2.65065,0xea53caf2;
 	}
 }
+[t:butterfly_mp,n:0x00100294]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.626687,0,0.779271;
+	  p position = -3.14431,0,0.886814,0xf971aa58;
+	}
+}
 [t:foliage_grs_01,n:0x0010d746]
 {
 	[aspect]
@@ -220012,6 +223708,18 @@
 	{
 	  q orientation = 0,0.78549,0,0.618875;
 	  p position = 0.902883,0,1.6581,0x5ad48846;
+	}
+}
+[t:butterfly_mp,n:0x0010019a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.292556,0,0.956248;
+	  p position = -3.58108,0,0.523546,0x5149dd6c;
 	}
 }
 [t:flowers_grs_red,n:0x0010b18c]
@@ -220156,6 +223864,18 @@
 	{
 	  q orientation = 0,0.950555,0,0.310557;
 	  p position = -1.18514,0,-0.474315,0x5149dd6c;
+	}
+}
+[t:butterfly_mp,n:0x00100202]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.507693,0,0.861538;
+	  p position = 3.94184,0,-1.02903,0x524707f5;
 	}
 }
 [t:flowers_grs_red,n:0x0010b20e]
@@ -222814,6 +226534,30 @@
 	  p position = -3.953,0,1.56411,0x228a2abc;
 	}
 }
+[t:butterfly_mp,n:0x001001ba]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.383178,0,0.923675;
+	  p position = 3.15941,0,2.76747,0xffbb46f2;
+	}
+}
+[t:butterfly_mp,n:0x001002ba]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.070458,0,0.997515;
+	  p position = -0.169483,0,-2.31437,0xffbb46f2;
+	}
+}
 [t:flowers_grs_red,n:0x0010cd4d]
 {
 	[aspect]
@@ -222972,6 +226716,18 @@
 	{
 	  q orientation = 0,0.987429,0,0.158063;
 	  p position = 0.752431,0,1.96782,0x2090f903;
+	}
+}
+[t:butterfly_mp,n:0x0010020b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.007217,0,-0.999974;
+	  p position = 2.17874,0,0.35436,0x3fb76fbb;
 	}
 }
 [t:flowers_grs_red,n:0x0010b21c]
@@ -223548,6 +227304,18 @@
 	{
 	  q orientation = 0,0.818235,0,-0.574885;
 	  p position = -0.98647,0,1.3203,0x1b1fffb2;
+	}
+}
+[t:butterfly_mp,n:0x00100184]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.996644,0,-0.081858;
+	  p position = -1.40983,0,-2.60603,0x3a9d3a37;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2c3]
@@ -224382,6 +228150,18 @@
 	  p position = -3.97825,0,0.235843,0xfbc65e92;
 	}
 }
+[t:butterfly_mp,n:0x00100246]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.256506,0,-0.966543;
+	  p position = 1.49028,0,1.7503,0x8ce2f47c;
+	}
+}
 [t:flowers_grs_red,n:0x0010b258]
 {
 	[aspect]
@@ -224572,6 +228352,18 @@
 	{
 	  q orientation = 0,0.126769,0,-0.991932;
 	  p position = -2.06563,0,-0.135484,0x8ce2f47c;
+	}
+}
+[t:butterfly_mp,n:0x00100216]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.575335,0,0.817918;
+	  p position = -14.9278,0.121844,-8.81922,0x67a6d717;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1ab]
@@ -226014,6 +229806,30 @@
 	  p position = 1.64168,0,-3.25712,0x10834134;
 	}
 }
+[t:butterfly_mp,n:0x001001c9]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.965771,0,-0.259395;
+	  p position = 3.77645,0,0.627795,0x29452206;
+	}
+}
+[t:butterfly_mp,n:0x001002a8]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.994018,0,-0.109217;
+	  p position = -0.764416,0,-1.46877,0x29452206;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1c4]
 {
 	[aspect]
@@ -226604,6 +230420,18 @@
 	{
 	  q orientation = 0,0.866877,0,-0.498522;
 	  p position = 0.590151,0,1.7217,0xbcdb4762;
+	}
+}
+[t:butterfly_mp,n:0x00100230]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.765418,0,0.643533;
+	  p position = -0.676544,0,1.61449,0x6c4bc390;
 	}
 }
 [t:flowers_grs_red,n:0x0010b543]
@@ -227596,6 +231424,18 @@
 	{
 	  q orientation = 0,0.757744,0,-0.652551;
 	  p position = -2.19769,0,-0.12884,0xe4b62cac;
+	}
+}
+[t:butterfly_mp,n:0x00100239]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.408557,0,-0.912733;
+	  p position = 3.85131,0,3.63264,0x8e15ab59;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e9ed]
@@ -229182,6 +233022,18 @@
 	  p position = -1.34933,0,-1.41108,0x6d86d473;
 	}
 }
+[t:butterfly_mp,n:0x00100270]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.709411,0,-0.704795;
+	  p position = -0.203342,0,0.205335,0xf496d8ad;
+	}
+}
 [t:flowers_grs_red,n:0x0010c329]
 {
 	[aspect]
@@ -229228,6 +233080,18 @@
 	{
 	  q orientation = 0,0.098707,0,-0.995117;
 	  p position = 1.02432,0,-3.17207,0x90c0653b;
+	}
+}
+[t:butterfly_mp,n:0x001001c7]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.915693,0,0.401877;
+	  p position = 0.258719,0,0.834959,0x95798035;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e643]
@@ -230254,6 +234118,18 @@
 	  p position = 0.787143,0,1.52192,0x85c5ecaf;
 	}
 }
+[t:butterfly_mp,n:0x001002b9]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.770001,0,-0.638043;
+	  p position = 2.53564,0,0.644439,0xf2f75a01;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2e3]
 {
 	[aspect]
@@ -230716,6 +234592,18 @@
 	{
 	  q orientation = 0,0.860512,0,0.50943;
 	  p position = 3.06141,0,2.48752,0x8a161ac6;
+	}
+}
+[t:butterfly_mp,n:0x0010027b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.968951,0,0.247252;
+	  p position = 0.617739,0,-1.11099,0xd970240b;
 	}
 }
 [t:flowers_grs_red,n:0x0010c43a]
@@ -231916,6 +235804,18 @@
 	{
 	  q orientation = 0,0.614643,0,-0.788805;
 	  p position = 1.33353,0,-0.670267,0xe525d57c;
+	}
+}
+[t:butterfly_mp,n:0x00100296]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.235367,0,-0.971907;
+	  p position = 1.88971,0,0.212905,0x30e6c50c;
 	}
 }
 [t:flowers_grs_red,n:0x0010c32a]
@@ -233230,6 +237130,18 @@
 	  p position = 0.398224,0,1.03076,0x179729b2;
 	}
 }
+[t:butterfly_mp,n:0x0010020c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.88861,0,0.458663;
+	  p position = -1.63654,0,1.68219,0xb53a9284;
+	}
+}
 [t:flowers_grs_red,n:0x0010b21d]
 {
 	[aspect]
@@ -233804,6 +237716,18 @@
 	{
 	  q orientation = 0,0.702115,0,-0.712064;
 	  p position = 0.0400952,0,1.74267,0xaee088dd;
+	}
+}
+[t:butterfly_mp,n:0x001002af]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.7807,0,0.624906;
+	  p position = -0.676596,0,-1.48714,0xa064c3b9;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2d3]
@@ -234572,6 +238496,18 @@
 	{
 	  q orientation = 0,0.991117,0,-0.132996;
 	  p position = 2.61739,0,-1.75164,0x2de2c74d;
+	}
+}
+[t:butterfly_mp,n:0x00100190]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.224502,0,0.974474;
+	  p position = -2.59444,0,-0.47917,0xae190993;
 	}
 }
 [t:flowers_grs_red,n:0x0010b17b]
@@ -236494,6 +240430,18 @@
 	  p position = -2.95546,0,-0.219838,0xcc676770;
 	}
 }
+[t:butterfly_mp,n:0x0010016f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.960275,0,0.279056;
+	  p position = -0.47755,0,0.207609,0xce0de4b0;
+	}
+}
 [t:flowers_grs_red,n:0x0010b142]
 {
 	[aspect]
@@ -237068,6 +241016,18 @@
 	{
 	  q orientation = 0,0.986949,0,0.161031;
 	  p position = -2.6159,0,0.24578,0x272dadee;
+	}
+}
+[t:butterfly_mp,n:0x00100273]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.949942,0,-0.312427;
+	  p position = 1.4576,0,-0.207222,0x15a80a88;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1ee]
@@ -238334,6 +242294,18 @@
 	  p position = 1.0289,0,0.219275,0xbd5ab81d;
 	}
 }
+[t:butterfly_mp,n:0x001001d0]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.418012,0,0.908442;
+	  p position = 2.62361,0,-1.83094,0xee403bbb;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1ce]
 {
 	[aspect]
@@ -238396,6 +242368,18 @@
 	{
 	  q orientation = 0,0.359166,0,0.933274;
 	  p position = 2.17638,0,-1.31516,0xee403bbb;
+	}
+}
+[t:butterfly_mp,n:0x00100220]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999452,0,0.03311;
+	  p position = -2.83005,0,-1.42323,0xa88cb565;
 	}
 }
 [t:flowers_grs_red,n:0x0010b8db]
@@ -239390,6 +243374,18 @@
 	  p position = -1.86769,0,1.52002,0x69d6382e;
 	}
 }
+[t:butterfly_mp,n:0x001001c6]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.029477,0,-0.999565;
+	  p position = -2.88175,0,1.72547,0xbf5de7eb;
+	}
+}
 [t:flowers_grs_red,n:0x0010b710]
 {
 	[aspect]
@@ -239612,6 +243608,30 @@
 	{
 	  q orientation = 0,0.901717,0,-0.432326;
 	  p position = -3.12703,0,-1.12045,0x4ebfdc7f;
+	}
+}
+[t:butterfly_mp,n:0x00100223]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.051127,0,0.998692;
+	  p position = 1.46042,0,-1.80636,0x85a431a3;
+	}
+}
+[t:butterfly_mp,n:0x001002ad]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.573272,0,0.819365;
+	  p position = 0.100422,0,-2.71237,0x7397b5aa;
 	}
 }
 [t:flowers_grs_red,n:0x0010b180]
@@ -240254,6 +244274,18 @@
 	  p position = 1.78687,0,1.81879,0x96a602dc;
 	}
 }
+[t:butterfly_mp,n:0x001002a7]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.958192,0,0.286125;
+	  p position = 0.464674,0,0.299849,0xa95e1fc5;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2cd]
 {
 	[aspect]
@@ -240476,6 +244508,18 @@
 	{
 	  q orientation = 0,0.141968,0,-0.989871;
 	  p position = 2.04364,0,-0.748497,0xa95e1fc5;
+	}
+}
+[t:butterfly_mp,n:0x00100260]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.736018,0,0.676962;
+	  p position = -1.03184,0,-0.474219,0x05c88c8b;
 	}
 }
 [t:foliage_grs_01,n:0x0010dd49]
@@ -240974,6 +245018,18 @@
 	  p position = 2.95903,0,0.230881,0xc898a64a;
 	}
 }
+[t:butterfly_mp,n:0x001002b7]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.925469,0,0.378823;
+	  p position = 0.701431,0,1.59291,0x3f281b3c;
+	}
+}
 [t:flowers_grs_red,n:0x0010b2e0]
 {
 	[aspect]
@@ -241132,6 +245188,18 @@
 	{
 	  q orientation = 0,0.743535,0,0.668697;
 	  p position = -3.06463,0,0.680056,0x3f281b3c;
+	}
+}
+[t:butterfly_mp,n:0x001001a8]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.508004,0,-0.861355;
+	  p position = -2.93272,0,-1.18161,0xdc8ca228;
 	}
 }
 [t:flowers_grs_red,n:0x0010b19f]
@@ -241660,6 +245728,18 @@
 	{
 	  q orientation = 0,0.588513,0,-0.808488;
 	  p position = 1.19826,0,-0.886233,0x1b8a5001;
+	}
+}
+[t:butterfly_mp,n:0x001001bc]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.889389,0,-0.457151;
+	  p position = -3.67045,0,1.45512,0xec8c2c4d;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1b3]
@@ -242622,6 +246702,18 @@
 	  p position = -2.88977,0,-0.597557,0x35656d98;
 	}
 }
+[t:butterfly_mp,n:0x001001f3]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.572,0,-0.820254;
+	  p position = 0.285905,0,-0.853246,0xdd9a5d10;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1ff]
 {
 	[aspect]
@@ -243036,6 +247128,30 @@
 	{
 	  q orientation = 0,0.628717,0,0.777634;
 	  p position = 0.851221,0,-0.377299,0xcbbc9cfd;
+	}
+}
+[t:butterfly_mp,n:0x0010023e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999855,0,-0.017051;
+	  p position = -1.02006,0,1.89822,0x44744164;
+	}
+}
+[t:butterfly_mp,n:0x00100297]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.989047,0,0.147598;
+	  p position = -2.01409,0,-0.40852,0x44744164;
 	}
 }
 [t:flowers_grs_red,n:0x0010b253]
@@ -245086,6 +249202,18 @@
 	  p position = -3.37018,0,0.829329,0x1f4369b8;
 	}
 }
+[t:butterfly_mp,n:0x001001e4]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.963354,0,0.268233;
+	  p position = -1.43468,0,-0.792942,0xa4f60cb6;
+	}
+}
 [t:flowers_grs_red,n:0x0010b1ea]
 {
 	[aspect]
@@ -245646,6 +249774,18 @@
 	  p position = -0.794248,0,-0.757136,0xccffe81e;
 	}
 }
+[t:butterfly_mp,n:0x001001fd]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.844841,0,-0.535017;
+	  p position = -2.17489,0,0.212151,0xd0cb53ff;
+	}
+}
 [t:flowers_grs_red,n:0x0010b20a]
 {
 	[aspect]
@@ -246126,6 +250266,18 @@
 	  p position = 0.536856,0,-0.190708,0x43bb78bd;
 	}
 }
+[t:butterfly_mp,n:0x001001ef]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.507054,0,0.861914;
+	  p position = 1.13356,0,-0.0376177,0x1c990332;
+	}
+}
 [t:flowers_grs_red,n:0x0010b441]
 {
 	[aspect]
@@ -246300,6 +250452,18 @@
 	{
 	  q orientation = 0,0.995612,0,-0.09358;
 	  p position = -0.880646,0,-1.83763,0xcef79328;
+	}
+}
+[t:butterfly_mp,n:0x00100201]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.760724,0,-0.649075;
+	  p position = 2.90975,0,-3.90128,0x30aea30b;
 	}
 }
 [t:flowers_grs_red,n:0x0010c65c]
@@ -246668,6 +250832,18 @@
 	{
 	  q orientation = 0,0.49182,0,0.870697;
 	  p position = 2.05647,0,0.520626,0xd69cef2a;
+	}
+}
+[t:butterfly_mp,n:0x001001dd]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999134,0,-0.041607;
+	  p position = 3.19111,0,-0.218069,0xaa05f65d;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e2b4]
