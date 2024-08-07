@@ -15518,6 +15518,1110 @@
 	  p position = 1.41444,0,-1.09678,0xade235d8;
 	}
 }
+[t:seashell_glb_03,n:0x00100119]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.19078;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.120486,0,0.992715;
+	  p position = 2.01894,0,0.0601481,0xa739e21a;
+	}
+}
+[t:seashell_glb_01,n:0x0010007d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.854125;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.475199,0,0.879878;
+	  p position = 2.48745,-13.3699,-34.1297,0xa9380d0f;
+	}
+}
+[t:seashell_glb_01,n:0x001000ac]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.88125;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.108999,0,0.994042;
+	  p position = 3.62742,-13.75,-35.9447,0xa9380d0f;
+	}
+}
+[t:seashell_glb_03,n:0x001000c9]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.892051;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.971285,0,-0.23792;
+	  p position = -18.7783,-13.6736,-35.3444,0xa9380d0f;
+	}
+}
+[t:seashell_glb_03,n:0x00100105]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.08182;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.853187,0,-0.521605;
+	  p position = 2.78062,-13.3935,-34.2239,0xa9380d0f;
+	}
+}
+[t:seashell_glb_03,n:0x0010011a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0505;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.935362,0,0.353692;
+	  p position = -0.80419,-13.6243,-35.6512,0xa9380d0f;
+	}
+}
+[t:seashell_glb_01,n:0x0010006a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.871016;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.743374,0,-0.668876;
+	  p position = -11.3052,-13.7029,-35.186,0x434dbeaa;
+	}
+}
+[t:seashell_glb_01,n:0x00100079]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.846384;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.989639,0,-0.143581;
+	  p position = -13.7046,-13.75,-39.081,0x434dbeaa;
+	}
+}
+[t:seashell_glb_03,n:0x00100146]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.935784;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.678712,0,0.734404;
+	  p position = -12.3591,-13.2,-31.9667,0x434dbeaa;
+	}
+}
+[t:seashell_glb_01,n:0x00100095]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.975387;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.844206,0,-0.536019;
+	  p position = -8.96162,-13.6841,-35.2425,0x900b0f15;
+	}
+}
+[t:seashell_glb_01,n:0x001000aa]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.987081;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.346837,0,-0.937926;
+	  p position = -18.3871,-13.75,-37.3336,0x900b0f15;
+	}
+}
+[t:seashell_glb_03,n:0x001000b4]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.865797;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.467258,0,-0.884121;
+	  p position = -17.2878,-13.4027,-34.2709,0x900b0f15;
+	}
+}
+[t:seashell_glb_03,n:0x001000ef]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.13175;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.993019,0,0.117955;
+	  p position = -2.2985,-13.75,-38.8785,0x900b0f15;
+	}
+}
+[t:seashell_glb_03,n:0x001000fe]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.02608;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.074513,0,0.99722;
+	  p position = -9.02913,-13.75,-38.3562,0x900b0f15;
+	}
+}
+[t:seashell_glb_03,n:0x00100128]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.864282;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.857021,0,0.515282;
+	  p position = 2.69378,-13.75,-37.5253,0x900b0f15;
+	}
+}
+[t:seashell_glb_01,n:0x0010004f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.846757;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.64927,0,-0.760558;
+	  p position = -3.72025,0,0.138588,0xc46c8c94;
+	}
+}
+[t:seashell_glb_03,n:0x001000bd]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.862041;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.219878,0,-0.975527;
+	  p position = -2.97034,0,-1.44137,0xc46c8c94;
+	}
+}
+[t:seashell_glb_01,n:0x00100026]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.900669;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.477548,0,-0.878606;
+	  p position = -9.57537,-13.75,-37.2531,0x84d9b554;
+	}
+}
+[t:seashell_glb_01,n:0x0010005e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.843772;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.632908,0,0.774227;
+	  p position = -15.6663,-13.75,-38.4828,0xd4133a83;
+	}
+}
+[t:seashell_glb_01,n:0x00100087]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05063;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.874276,0,-0.48543;
+	  p position = 2.24331,-13.6882,-35.4029,0xd4133a83;
+	}
+}
+[t:seashell_glb_01,n:0x001000ae]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05852;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.097334,0,0.995252;
+	  p position = -17.6376,-13.5647,-34.9359,0xd4133a83;
+	}
+}
+[t:seashell_glb_01,n:0x001000b2]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.06323;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.967466,0,0.252999;
+	  p position = -18.9695,-13.75,-36.3976,0xd4133a83;
+	}
+}
+[t:seashell_glb_01,n:0x00100074]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.00029;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.99472,0,-0.102628;
+	  p position = -9.04791,-13.471,-33.8528,0xc2ee24c7;
+	}
+}
+[t:seashell_glb_01,n:0x0010009f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.18066;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.96849,0,-0.249052;
+	  p position = -16.8988,-13.73,-36.8307,0xc2ee24c7;
+	}
+}
+[t:seashell_glb_03,n:0x001000d1]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.993706;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.814068,0,0.580769;
+	  p position = -14.7888,-13.6865,-35.2605,0xc2ee24c7;
+	}
+}
+[t:seashell_glb_03,n:0x001000d3]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.19084;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.015341,0,-0.999882;
+	  p position = -9.7546,-13.2,-32.3538,0xc2ee24c7;
+	}
+}
+[t:seashell_glb_01,n:0x00100058]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0043;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.072246,0,0.997387;
+	  p position = -5.11452,-13.7002,-35.2308,0x698245b9;
+	}
+}
+[t:seashell_glb_03,n:0x00100152]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.988633;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.75983,0,0.650122;
+	  p position = -17.7187,-13.2,-31.6942,0x698245b9;
+	}
+}
+[t:seashell_glb_01,n:0x0010009c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.980004;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.953133,0,0.302551;
+	  p position = -2.57273,-13.7461,-36.8241,0x7482b3a3;
+	}
+}
+[t:seashell_glb_03,n:0x001000c8]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.801814;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.876955,0,0.480572;
+	  p position = -1.94453,-13.75,-39.2193,0x7482b3a3;
+	}
+}
+[t:seashell_glb_01,n:0x00100047]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.818385;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.867372,0,0.49766;
+	  p position = 1.73311,-13.2,-31.9932,0xb6752f88;
+	}
+}
+[t:seashell_glb_01,n:0x0010004c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.026;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.386171,0,-0.922427;
+	  p position = -3.85854,-13.75,-36.953,0xb6752f88;
+	}
+}
+[t:seashell_glb_01,n:0x0010004e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04333;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.451175,0,0.892435;
+	  p position = -18.5452,-13.2,-32.1558,0xb6752f88;
+	}
+}
+[t:seashell_glb_01,n:0x00100051]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.878174;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.96071,0,-0.277554;
+	  p position = -15.5145,-13.7125,-36.1135,0xb6752f88;
+	}
+}
+[t:seashell_glb_01,n:0x00100067]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.02881;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999596,0,-0.02841;
+	  p position = -10.0017,-13.3848,-33.8238,0xb6752f88;
+	}
+}
+[t:seashell_glb_01,n:0x00100016]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.08789;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.966102,0,-0.258162;
+	  p position = -10.0925,-13.4895,-34.3311,0xb7cac34a;
+	}
+}
+[t:seashell_glb_01,n:0x0010002e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.948213;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.484952,0,0.874541;
+	  p position = -4.64476,-13.2,-32.1747,0xb7cac34a;
+	}
+}
+[t:seashell_glb_01,n:0x0010008a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.13811;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.849601,0,0.527426;
+	  p position = -9.30233,-13.3697,-33.2915,0x635e6239;
+	}
+}
+[t:seashell_glb_03,n:0x0010012e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.06386;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.933475,0,0.358644;
+	  p position = -12.9045,-13.281,-33.7497,0x635e6239;
+	}
+}
+[t:seashell_glb_03,n:0x0010015d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.834179;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.715053,0,0.69907;
+	  p position = -15.8561,-13.4869,-33.733,0x635e6239;
+	}
+}
+[t:seashell_glb_01,n:0x00100068]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0522;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.986601,0,-0.163153;
+	  p position = -3.82118,-13.75,-36.8504,0xb005618e;
+	}
+}
+[t:seashell_glb_03,n:0x0010012b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04056;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.941866,0,-0.33599;
+	  p position = -11.8003,-13.75,-38.8978,0xb005618e;
+	}
+}
+[t:seashell_glb_03,n:0x00100144]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.807647;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.472457,0,-0.881353;
+	  p position = 0.709611,-13.5168,-34.9106,0xb005618e;
+	}
+}
+[t:seashell_glb_03,n:0x0010014b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.956111;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.822921,0,0.568156;
+	  p position = -8.67161,-13.3982,-33.0903,0xb005618e;
+	}
+}
+[t:seashell_glb_03,n:0x001000df]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0351;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.416248,0,0.909251;
+	  p position = -10.1089,-13.7527,-35.9786,0xfb48099d;
+	}
+}
+[t:seashell_glb_01,n:0x0010006c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1686;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.922529,0,-0.385927;
+	  p position = 2.49554,-13.75,-38.7418,0x815d90cc;
+	}
+}
+[t:seashell_glb_01,n:0x001000a5]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.12559;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.727554,0,-0.686051;
+	  p position = 0.615566,-13.6193,-35.3348,0x815d90cc;
+	}
+}
+[t:seashell_glb_03,n:0x001000ba]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04735;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.657804,0,-0.753189;
+	  p position = -9.9833,-13.6655,-35.2262,0x815d90cc;
+	}
+}
+[t:seashell_glb_03,n:0x001000be]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.975454;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.947258,0,-0.320472;
+	  p position = 1.9722,-13.2232,-33.1144,0x815d90cc;
+	}
+}
+[t:seashell_glb_01,n:0x0010001b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.991684;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.919479,0,0.39314;
+	  p position = -7.92384,-13.246,-31.9552,0x59eb4d24;
+	}
+}
+[t:seashell_glb_01,n:0x00100050]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.994671;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.39682,0,-0.917897;
+	  p position = -7.1066,-13.75,-39.0354,0x59eb4d24;
+	}
+}
+[t:seashell_glb_01,n:0x00100096]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15137;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.342892,0,0.939375;
+	  p position = 3.96126,-13.75,-38.7656,0x59eb4d24;
+	}
+}
+[t:seashell_glb_01,n:0x001000a3]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.19395;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.413823,0,-0.910358;
+	  p position = -11.4348,-13.2623,-33.1321,0x59eb4d24;
+	}
+}
+[t:seashell_glb_01,n:0x001000a9]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04808;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.95095,0,0.309344;
+	  p position = -17.843,-13.7461,-36.8721,0x59eb4d24;
+	}
+}
+[t:seashell_glb_03,n:0x001000b8]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15701;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.485962,0,0.87398;
+	  p position = -14.8139,-13.3221,-33.0304,0x59eb4d24;
+	}
+}
+[t:seashell_glb_03,n:0x0010011e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0272;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.903201,0,-0.429218;
+	  p position = -14.5972,-13.75,-38.4748,0x59eb4d24;
+	}
+}
+[t:seashell_glb_01,n:0x0010002b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.152;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.498318,0,-0.866994;
+	  p position = -2.76153,0,0.0208942,0x6b32d0ef;
+	}
+}
+[t:seashell_glb_01,n:0x001000ad]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.12773;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.965313,0,0.261094;
+	  p position = -0.112494,0,-1.18411,0x6b32d0ef;
+	}
+}
+[t:seashell_glb_03,n:0x001000ea]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.944517;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.947446,0,0.319916;
+	  p position = -2.41131,0,1.438,0x6b32d0ef;
+	}
+}
+[t:seashell_glb_03,n:0x00100151]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.811666;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.018989,0,-0.99982;
+	  p position = -3.9217,0,0.679693,0x6b32d0ef;
+	}
+}
+[t:seashell_glb_03,n:0x001000cb]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.02667;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.8292,0,-0.558951;
+	  p position = 0.694717,0,1.15322,0x7209c520;
+	}
+}
+[t:seashell_glb_03,n:0x001000c0]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.848458;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.701706,0,0.712466;
+	  p position = -3.52002,0,1.48217,0xc47d04af;
+	}
+}
+[t:seashell_glb_03,n:0x0010013a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.910996;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.907341,0,-0.420396;
+	  p position = 1.83042,0,0.716115,0xc47d04af;
+	}
+}
+[t:seashell_glb_03,n:0x001000e5]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05439;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.357271,0,-0.934001;
+	  p position = -0.179087,0,1.56079,0x60848a1e;
+	}
+}
+[t:seashell_glb_03,n:0x001000f3]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.02739;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.955208,0,-0.295935;
+	  p position = 3.49763,0,-0.13939,0x60848a1e;
+	}
+}
+[t:seashell_glb_01,n:0x00100049]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.00847;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.381299,0,0.924452;
+	  p position = -0.47303,0,0.919922,0xba3dca5c;
+	}
+}
+[t:seashell_glb_03,n:0x00100154]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04694;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.985574,0,0.169247;
+	  p position = -1.92,0,0.781016,0xba3dca5c;
+	}
+}
+[t:seashell_glb_03,n:0x0010015a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1062;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.084979,0,0.996383;
+	  p position = -0.486429,0,1.10268,0x76741c0e;
+	}
+}
+[t:seashell_glb_03,n:0x0010012a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.848921;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.987285,0,0.158958;
+	  p position = -1.78768,0,1.93571,0x56e3f272;
+	}
+}
 [t:flowers_grs_red,n:0x0010b147]
 {
 	[aspect]
@@ -19774,6 +20878,54 @@
 	  p position = -1.73718,0,0.693892,0x1c48dbd2;
 	}
 }
+[t:seashell_glb_03,n:0x0010011d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0979;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.365782,0,-0.930701;
+	  p position = -0.0443517,0,0.0067394,0x06b91e54;
+	}
+}
+[t:seashell_glb_03,n:0x00100112]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.10379;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.704741,0,-0.709465;
+	  p position = 0.0858659,0,-0.635434,0x40563f27;
+	}
+}
+[t:seashell_glb_03,n:0x0010013b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.11435;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.72059,0,0.693362;
+	  p position = -0.00764316,0,-1.99886,0x40563f27;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e430]
 {
 	[aspect]
@@ -19804,6 +20956,86 @@
 	{
 	  q orientation = 0,0.780135,0,-0.625612;
 	  p position = 0.517915,0,-1.31761,0x85de7f21;
+	}
+}
+[t:seashell_glb_03,n:0x0010011b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.804546;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.281703,0,0.959502;
+	  p position = 0.900724,0,1.14297,0x295d7141;
+	}
+}
+[t:seashell_glb_03,n:0x001000bc]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.894315;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.426513,0,0.904481;
+	  p position = -0.129568,0,0.194733,0x1f02e4dd;
+	}
+}
+[t:seashell_glb_03,n:0x001000e4]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.832628;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.149177,0,0.98881;
+	  p position = -1.9228,0,-0.26328,0x1f02e4dd;
+	}
+}
+[t:seashell_glb_03,n:0x0010013f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.18182;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.7667,0,-0.642005;
+	  p position = 0.418707,0,-1.93257,0x9e15e7ca;
+	}
+}
+[t:seashell_glb_03,n:0x00100106]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.831117;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.48601,0,-0.873953;
+	  p position = 2.57501,0,-0.0591719,0xdb4b20fb;
 	}
 }
 [t:flowers_grs_red,n:0x0010c2e5]
@@ -20540,6 +21772,22 @@
 	{
 	  q orientation = 0,0.288825,0,0.957382;
 	  p position = -1.6277,0,0.602147,0x51b90f3d;
+	}
+}
+[t:seashell_glb_01,n:0x0010000d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.08655;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.932116,0,-0.362159;
+	  p position = -2.02789,0,1.61911,0x8eaf763b;
 	}
 }
 [t:flowers_grs_red,n:0x0010b2b2]
@@ -22174,6 +23422,326 @@
 	  p position = -1.48708,0,-0.519728,0x6886a304;
 	}
 }
+[t:seashell_glb_01,n:0x00100040]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1764;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.855999,0,-0.516977;
+	  p position = -18.007,-13.75,-37.6269,0x33dd4913;
+	}
+}
+[t:seashell_glb_01,n:0x0010006f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.12394;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.98819,0,0.153236;
+	  p position = -17.5606,-13.2,-32.2158,0x33dd4913;
+	}
+}
+[t:seashell_glb_01,n:0x00100033]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.896931;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.012041,0,0.999928;
+	  p position = -18.2006,-13.75,-37.778,0x206a21fc;
+	}
+}
+[t:seashell_glb_03,n:0x001000b9]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.981889;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.700313,0,0.713836;
+	  p position = -2.99684,-13.2,-32.5817,0x206a21fc;
+	}
+}
+[t:seashell_glb_03,n:0x00100135]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05575;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.279248,0,0.960219;
+	  p position = 2.30637,-13.5774,-34.9597,0x206a21fc;
+	}
+}
+[t:seashell_glb_01,n:0x00100007]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0556;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999578,0,0.029054;
+	  p position = -13.6241,-13.7594,-36.5026,0xa50a4157;
+	}
+}
+[t:seashell_glb_01,n:0x00100082]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.12453;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.659392,0,-0.751799;
+	  p position = -15.5978,-13.75,-39.4199,0x5dfaea90;
+	}
+}
+[t:seashell_glb_03,n:0x001000de]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04197;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.801374,0,-0.598163;
+	  p position = -9.95559,-13.75,-38.5191,0x5dfaea90;
+	}
+}
+[t:seashell_glb_03,n:0x00100120]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.95585;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.279883,0,0.960034;
+	  p position = -7.71516,-13.6406,-34.8412,0x5dfaea90;
+	}
+}
+[t:seashell_glb_03,n:0x0010015f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.964312;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.932167,0,-0.362028;
+	  p position = -17.0911,-13.7355,-37.0556,0x64407612;
+	}
+}
+[t:seashell_glb_03,n:0x001000f9]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.86603;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.730229,0,-0.683202;
+	  p position = -10.7058,-13.75,-39.6164,0x4c7489a4;
+	}
+}
+[t:seashell_glb_01,n:0x00100084]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07151;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.779491,0,-0.626413;
+	  p position = -2.4384,-13.7261,-36.6546,0xd81bdb06;
+	}
+}
+[t:seashell_glb_03,n:0x0010013d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15494;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.905826,0,0.423651;
+	  p position = 0.13827,-13.6268,-35.761,0xd81bdb06;
+	}
+}
+[t:seashell_glb_03,n:0x001000c4]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.03656;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.375184,0,-0.926951;
+	  p position = -9.66602,-13.4957,-34.3533,0x4913016f;
+	}
+}
+[t:seashell_glb_03,n:0x001000eb]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1674;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.58073,0,-0.814096;
+	  p position = -5.41492,-13.2333,-32.8333,0x4913016f;
+	}
+}
+[t:seashell_glb_03,n:0x001000e3]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.187;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.986119,0,-0.166039;
+	  p position = -13.0227,-13.2216,-33.3778,0xdda9259e;
+	}
+}
+[t:seashell_glb_03,n:0x001000f4]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.846723;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.807561,0,0.589784;
+	  p position = -17.2081,-13.75,-37.6657,0xdda9259e;
+	}
+}
+[t:seashell_glb_01,n:0x0010007b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07781;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.770196,0,0.637808;
+	  p position = -4.3799,-13.458,-34.0467,0x16acf03c;
+	}
+}
+[t:seashell_glb_01,n:0x0010008e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16157;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.908346,0,0.41822;
+	  p position = -15.7405,-13.2412,-32.0413,0x16acf03c;
+	}
+}
+[t:seashell_glb_03,n:0x0010010d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.875419;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.153925,0,0.988083;
+	  p position = -18.9935,-13.75,-37.8013,0x16acf03c;
+	}
+}
 [t:flowers_grs_red,n:0x0010b6f3]
 {
 	[aspect]
@@ -22590,6 +24158,22 @@
 	  p position = 2.40755,0,-1.40264,0xdcaf9181;
 	}
 }
+[t:seashell_glb_01,n:0x00100085]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01693;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.986634,0,-0.162953;
+	  p position = -0.633465,0,0.106804,0xc547ce2b;
+	}
+}
 [t:flowers_grs_red,n:0x0010c152]
 {
 	[aspect]
@@ -22668,6 +24252,70 @@
 	{
 	  q orientation = 0,0.083484,0,-0.996509;
 	  p position = -2.48822,0,0.953202,0x2b5bcbc4;
+	}
+}
+[t:seashell_glb_03,n:0x001000e8]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.19245;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.929119,0,0.36978;
+	  p position = 1.14791,0,-1.83549,0x22583286;
+	}
+}
+[t:seashell_glb_01,n:0x00100020]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.867469;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.994735,0,0.102478;
+	  p position = 0.950466,0,-1.15072,0xa1cae63f;
+	}
+}
+[t:seashell_glb_01,n:0x00100006]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.11165;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.950381,0,-0.311087;
+	  p position = -0.172342,0,1.40725,0x1155d20e;
+	}
+}
+[t:seashell_glb_01,n:0x00100039]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.943925;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.979174,0,0.203023;
+	  p position = -0.870032,0,0.179793,0x3a6707a1;
 	}
 }
 [t:flowers_grs_red,n:0x0010c3c0]
@@ -22908,6 +24556,150 @@
 	{
 	  q orientation = 0,0.108578,0,0.994088;
 	  p position = -1.85705,0,-1.7361,0x9a405cf0;
+	}
+}
+[t:seashell_glb_01,n:0x00100009]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04844;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.890785,0,-0.454425;
+	  p position = -1.29818,0,-1.53707,0x906a7b15;
+	}
+}
+[t:seashell_glb_03,n:0x001000b5]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07547;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.102261,0,-0.994758;
+	  p position = -0.956188,0,0.408016,0x906a7b15;
+	}
+}
+[t:seashell_glb_01,n:0x00100019]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.931466;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.996926,0,-0.078353;
+	  p position = -1.9999,0,0.0904689,0x7c4822e2;
+	}
+}
+[t:seashell_glb_03,n:0x001000bb]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.835085;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.92959,0,0.368596;
+	  p position = 2.13153,0,0.303969,0x7c4822e2;
+	}
+}
+[t:seashell_glb_03,n:0x00100102]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.08468;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999942,0,0.010754;
+	  p position = -0.490381,0,0.649674,0x7c4822e2;
+	}
+}
+[t:seashell_glb_03,n:0x00100121]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.838291;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.410718,0,-0.911762;
+	  p position = 2.14885,0,0.717924,0xebe83a25;
+	}
+}
+[t:seashell_glb_01,n:0x00100070]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01272;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.486532,0,-0.873663;
+	  p position = 2.0066,0,-0.104257,0xa895bb39;
+	}
+}
+[t:seashell_glb_03,n:0x00100113]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.99785;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.942911,0,-0.333044;
+	  p position = 2.91374,0,-1.69138,0x94a34178;
+	}
+}
+[t:seashell_glb_01,n:0x00100099]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.08938;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.459171,0,-0.888348;
+	  p position = 0.493541,0,0.987398,0x78f5b007;
 	}
 }
 [t:flowers_grs_red,n:0x0010b5fa]
@@ -24380,6 +26172,70 @@
 	{
 	  q orientation = 0,0.919971,0,0.391987;
 	  p position = -3.35937,0,1.01942,0x67d75c78;
+	}
+}
+[t:seashell_glb_03,n:0x00100143]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0092;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.092929,0,0.995673;
+	  p position = -2.57239,0,-1.20093,0xde2cb9e8;
+	}
+}
+[t:seashell_glb_01,n:0x0010003b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16106;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.246519,0,0.969138;
+	  p position = -1.40118,0,1.97625,0x679a72d9;
+	}
+}
+[t:seashell_glb_01,n:0x00100072]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.14484;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.047632,0,0.998865;
+	  p position = 1.69019,0,1.59285,0x722d58f5;
+	}
+}
+[t:seashell_glb_01,n:0x00100078]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.972921;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.466254,0,-0.884651;
+	  p position = -1.04955,0,1.96934,0x503c6e5b;
 	}
 }
 [t:flowers_grs_red,n:0x0010c743]
@@ -61598,6 +63454,998 @@
 	  p position = -0.636104,0,1.46904,0x89964c35;
 	}
 }
+[t:seashell_glb_03,n:0x001000bf]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05595;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.353975,0,0.935255;
+	  p position = 2.16652,0,-0.379837,0x46300cd3;
+	}
+}
+[t:seashell_glb_03,n:0x00100109]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.10902;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.535553,0,0.844502;
+	  p position = 2.72812,0,1.41396,0x03e87efe;
+	}
+}
+[t:seashell_glb_01,n:0x00100052]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.19299;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.967584,0,0.252551;
+	  p position = 3.7982,-13.2,-32.4933,0x23a24d6c;
+	}
+}
+[t:seashell_glb_03,n:0x001000fc]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.11585;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.462862,0,-0.88643;
+	  p position = -19.5201,-13.75,-38.1776,0x23a24d6c;
+	}
+}
+[t:seashell_glb_03,n:0x00100161]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16898;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.785077,0,-0.619398;
+	  p position = -16.5292,-13.5435,-34.7192,0x23a24d6c;
+	}
+}
+[t:seashell_glb_01,n:0x00100008]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.912143;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.353422,0,0.935464;
+	  p position = -17.9961,-13.75,-39.2629,0x656d8161;
+	}
+}
+[t:seashell_glb_01,n:0x0010007a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01806;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.919529,0,0.393022;
+	  p position = -19.6376,-13.3453,-34.0312,0x656d8161;
+	}
+}
+[t:seashell_glb_01,n:0x0010009a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.98944;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.989421,0,-0.145073;
+	  p position = -12.8688,-13.2,-31.8385,0x656d8161;
+	}
+}
+[t:seashell_glb_03,n:0x001000f5]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.09293;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.121543,0,0.992586;
+	  p position = -1.22356,-13.75,-38.0167,0xd851f955;
+	}
+}
+[t:seashell_glb_03,n:0x0010013e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.836522;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.992523,0,0.122057;
+	  p position = -7.17448,-13.75,-37.0113,0xd851f955;
+	}
+}
+[t:seashell_glb_03,n:0x00100141]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.913344;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.944546,0,0.328379;
+	  p position = -10.7366,-13.7684,-36.0206,0xd851f955;
+	}
+}
+[t:seashell_glb_03,n:0x00100159]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.924765;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.142001,0,-0.989867;
+	  p position = -7.66514,-13.6177,-34.6933,0xd851f955;
+	}
+}
+[t:seashell_glb_03,n:0x00100138]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.901156;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.481311,0,-0.87655;
+	  p position = -3.77245,0,1.07623,0x52f43171;
+	}
+}
+[t:seashell_glb_03,n:0x00100160]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.977427;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.493372,0,-0.869818;
+	  p position = 3.01401,0,1.41359,0x166606f9;
+	}
+}
+[t:seashell_glb_03,n:0x0010012c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07826;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.323401,0,0.946262;
+	  p position = 0.711091,-13.75,-39.199,0x74c44f14;
+	}
+}
+[t:seashell_glb_01,n:0x0010007f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.19288;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.659133,0,0.752026;
+	  p position = -1.83304,-13.6053,-35.1674,0xb461adb0;
+	}
+}
+[t:seashell_glb_03,n:0x00100126]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.937712;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.998987,0,0.045;
+	  p position = 1.68749,-13.75,-38.7346,0xb461adb0;
+	}
+}
+[t:seashell_glb_03,n:0x001000e9]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.804511;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.468766,0,0.883322;
+	  p position = -5.05874,-13.5927,-34.6321,0x8d0cbbc7;
+	}
+}
+[t:seashell_glb_01,n:0x00100022]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0017;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.998932,0,-0.046206;
+	  p position = -13.1104,-13.2,-32.5098,0x9a7b0e96;
+	}
+}
+[t:seashell_glb_01,n:0x00100086]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.821346;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.636167,0,-0.771552;
+	  p position = -7.13768,-13.7295,-35.9157,0x9a7b0e96;
+	}
+}
+[t:seashell_glb_03,n:0x00100137]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.918556;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.287798,0,0.957691;
+	  p position = 2.94894,-13.223,-33.1098,0x9a7b0e96;
+	}
+}
+[t:seashell_glb_03,n:0x001000db]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0784;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.925806,0,0.377999;
+	  p position = -2.59895,-13.75,-37.6442,0x6df16982;
+	}
+}
+[t:seashell_glb_03,n:0x001000e7]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.09148;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.919775,0,0.392447;
+	  p position = -19.543,-13.75,-38.0219,0x6df16982;
+	}
+}
+[t:seashell_glb_03,n:0x0010011c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.00143;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.918772,0,0.394788;
+	  p position = -1.94204,-13.75,-38.6831,0x6df16982;
+	}
+}
+[t:seashell_glb_03,n:0x0010013c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.13719;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.053082,0,0.99859;
+	  p position = -18.7947,-13.4307,-34.3727,0x6df16982;
+	}
+}
+[t:seashell_glb_01,n:0x00100059]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0185;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.975108,0,-0.22173;
+	  p position = -0.0538646,-13.2456,-33.478,0x48dd1aaf;
+	}
+}
+[t:seashell_glb_01,n:0x001000a6]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.877012;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.645187,0,0.764025;
+	  p position = -12.0519,-13.3671,-33.9148,0x48dd1aaf;
+	}
+}
+[t:seashell_glb_03,n:0x001000fa]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16797;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.245658,0,0.969356;
+	  p position = -5.44696,-13.75,-37.6976,0x48dd1aaf;
+	}
+}
+[t:seashell_glb_03,n:0x001000c1]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0868;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.998409,0,0.056382;
+	  p position = -14.328,-13.6441,-35.0231,0x0b6b805b;
+	}
+}
+[t:seashell_glb_03,n:0x001000cf]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04775;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.742392,0,0.669966;
+	  p position = 2.01084,-13.75,-37.2801,0x0b6b805b;
+	}
+}
+[t:seashell_glb_03,n:0x00100130]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.14478;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.799046,0,0.601269;
+	  p position = -14.8482,-13.3023,-32.8506,0x0b6b805b;
+	}
+}
+[t:seashell_glb_03,n:0x0010015e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04109;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.183046,0,-0.983104;
+	  p position = -7.34749,-13.4408,-33.4444,0x0b6b805b;
+	}
+}
+[t:seashell_glb_01,n:0x001000a0]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.874284;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.971143,0,-0.238497;
+	  p position = -6.73187,-13.75,-39.5766,0x643b2c11;
+	}
+}
+[t:seashell_glb_03,n:0x00100108]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16685;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999907,0,-0.013656;
+	  p position = -19.5361,-13.3535,-34.0638,0x643b2c11;
+	}
+}
+[t:seashell_glb_03,n:0x00100124]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.06956;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.816939,0,-0.576724;
+	  p position = -11.4187,-13.2137,-32.7413,0x643b2c11;
+	}
+}
+[t:seashell_glb_01,n:0x00100010]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.868494;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.09856,0,0.995131;
+	  p position = -2.43906,-13.75,-37.3333,0x174472d2;
+	}
+}
+[t:seashell_glb_01,n:0x00100064]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.989794;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.99726,0,0.073971;
+	  p position = -10.764,-13.2605,-33.0532,0x174472d2;
+	}
+}
+[t:seashell_glb_01,n:0x0010006d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.934777;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.155618,0,0.987817;
+	  p position = -17.9437,-13.2,-32.4097,0x174472d2;
+	}
+}
+[t:seashell_glb_03,n:0x00100107]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07382;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.697242,0,0.716836;
+	  p position = -18.1729,-13.2,-32.1128,0x174472d2;
+	}
+}
+[t:seashell_glb_01,n:0x00100028]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.17054;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.802115,0,0.597169;
+	  p position = -0.668042,-13.4182,-33.9213,0x5b92a207;
+	}
+}
+[t:seashell_glb_03,n:0x001000b6]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.838389;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.110291,0,0.993899;
+	  p position = 1.7469,-13.2012,-32.5702,0x5b92a207;
+	}
+}
+[t:seashell_glb_03,n:0x001000d4]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.888292;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.938288,0,-0.345854;
+	  p position = -12.6816,-13.75,-38.8875,0x5b92a207;
+	}
+}
+[t:seashell_glb_03,n:0x001000dd]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07611;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.708838,0,0.705371;
+	  p position = -9.74519,-13.75,-38.9926,0x5b92a207;
+	}
+}
+[t:seashell_glb_03,n:0x0010010c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.09985;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.939887,0,0.341487;
+	  p position = -6.05242,-13.2855,-33.4323,0x5b92a207;
+	}
+}
+[t:seashell_glb_03,n:0x00100132]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.985453;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.453125,0,-0.891447;
+	  p position = -10.6397,-13.752,-37.5677,0x5b92a207;
+	}
+}
+[t:seashell_glb_01,n:0x0010000b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.834487;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.425812,0,-0.904812;
+	  p position = -2.06685,-13.75,-38.2073,0x92e769a0;
+	}
+}
+[t:seashell_glb_01,n:0x0010003d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.06376;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.945915,0,0.324414;
+	  p position = -8.08189,-13.75,-36.7052,0x92e769a0;
+	}
+}
+[t:seashell_glb_01,n:0x0010004a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.884646;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.014244,0,0.999899;
+	  p position = -4.88494,-13.75,-36.2458,0x92e769a0;
+	}
+}
+[t:seashell_glb_03,n:0x001000cc]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04477;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.988954,0,-0.148226;
+	  p position = -13.096,-13.75,-39.3887,0x92e769a0;
+	}
+}
+[t:seashell_glb_03,n:0x001000d0]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.815069;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.8952,0,-0.445664;
+	  p position = -16.6288,-13.2756,-32.4058,0x92e769a0;
+	}
+}
+[t:seashell_glb_03,n:0x00100110]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.17781;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.847222,0,0.531239;
+	  p position = -5.39187,-13.6221,-34.8546,0x92e769a0;
+	}
+}
+[t:seashell_glb_03,n:0x00100131]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16727;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.596033,0,-0.80296;
+	  p position = -14.6771,-13.2562,-32.6202,0x92e769a0;
+	}
+}
+[t:seashell_glb_01,n:0x0010005f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.985234;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.294326,0,-0.955705;
+	  p position = -14.1168,-13.274,-33.8942,0x052f4a47;
+	}
+}
+[t:seashell_glb_01,n:0x00100071]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.85541;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.414629,0,0.90999;
+	  p position = -6.69125,-13.4556,-34.2897,0x052f4a47;
+	}
+}
+[t:seashell_glb_01,n:0x00100080]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.19075;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.675565,0,-0.7373;
+	  p position = -3.62371,-13.75,-35.8949,0x052f4a47;
+	}
+}
+[t:seashell_glb_01,n:0x001000ab]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.978424;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.744743,0,-0.667352;
+	  p position = -15.7807,-13.75,-39.4299,0x052f4a47;
+	}
+}
+[t:seashell_glb_03,n:0x0010015b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.86613;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.745335,0,0.666691;
+	  p position = -2.10921,-13.6838,-36.3575,0x052f4a47;
+	}
+}
+[t:seashell_glb_03,n:0x001000ca]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.873354;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.109034,0,0.994038;
+	  p position = -0.613101,0,-0.758317,0xab132458;
+	}
+}
+[t:seashell_glb_01,n:0x00100076]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.859248;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.157977,0,-0.987443;
+	  p position = -1.6772,0,-1.76026,0xb9ce2448;
+	}
+}
+[t:seashell_glb_01,n:0x001000a4]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.807258;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.419473,0,0.907768;
+	  p position = 1.11091,0,1.72823,0xeda325be;
+	}
+}
+[t:seashell_glb_01,n:0x0010007c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1722;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.71948,0,0.694513;
+	  p position = 2.5001,0,-0.73942,0x09f0edaa;
+	}
+}
+[t:seashell_glb_01,n:0x0010002a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.804542;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.54738,0,0.836884;
+	  p position = -1.92554,0,0.0930859,0x4159c8f2;
+	}
+}
 [t:flowers_grs_red,n:0x0010b456]
 {
 	[aspect]
@@ -61902,6 +64750,22 @@
 	  p position = 2.19495,0,0.830604,0x5e926c8f;
 	}
 }
+[t:seashell_glb_01,n:0x00100065]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.993525;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.951284,0,0.308317;
+	  p position = -1.93154,0,-0.357901,0xf99d4d30;
+	}
+}
 [t:flowers_grs_red,n:0x0010c38d]
 {
 	[aspect]
@@ -61964,6 +64828,86 @@
 	{
 	  q orientation = 0,0.822123,0,-0.569309;
 	  p position = -1.03946,0,-1.86069,0x708c1b5f;
+	}
+}
+[t:seashell_glb_03,n:0x001000d5]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.09878;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.88265,0,-0.470032;
+	  p position = 1.08193,0,0.836586,0x8f7ac998;
+	}
+}
+[t:seashell_glb_03,n:0x00100117]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.822822;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.550232,0,0.835012;
+	  p position = 0.0887355,0,-0.669494,0x8f7ac998;
+	}
+}
+[t:seashell_glb_03,n:0x001000ff]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.06528;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.874157,0,-0.485643;
+	  p position = 2.94452,0,0.385048,0x09e4a1e0;
+	}
+}
+[t:seashell_glb_03,n:0x001000c6]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.13283;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.77935,0,-0.626589;
+	  p position = -3.11787,0,-0.104579,0x2ce2f50c;
+	}
+}
+[t:seashell_glb_03,n:0x00100115]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.979525;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.092422,0,0.99572;
+	  p position = -2.81326,0,1.40715,0x3a34fd27;
 	}
 }
 [t:flowers_grs_red,n:0x0010b31d]
@@ -66142,6 +69086,1254 @@
 	  p position = -1.92301,0,1.66686,0xf3afc880;
 	}
 }
+[t:seashell_glb_01,n:0x00100013]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.887469;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.754949,0,0.655783;
+	  p position = -0.210918,0,0.510701,0x408fb86c;
+	}
+}
+[t:seashell_glb_01,n:0x0010002d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.04451;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.982863,0,-0.184339;
+	  p position = -0.602964,0,-0.265629,0xf7f15bd3;
+	}
+}
+[t:seashell_glb_01,n:0x0010004d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.894358;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.286833,0,-0.957981;
+	  p position = 2.07013,0,0.620062,0x2160591b;
+	}
+}
+[t:seashell_glb_01,n:0x00100053]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05286;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.220518,0,0.975383;
+	  p position = -2.99252,0,1.98524,0x2160591b;
+	}
+}
+[t:seashell_glb_01,n:0x00100063]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.18025;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.636185,0,0.771536;
+	  p position = -2.93988,0,1.58919,0x72db781e;
+	}
+}
+[t:seashell_glb_01,n:0x0010003a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01679;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.866369,0,0.499405;
+	  p position = 1.50859,0,-1.00642,0x53081740;
+	}
+}
+[t:seashell_glb_01,n:0x0010008c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05498;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.202567,0,-0.979268;
+	  p position = -0.101088,0,1.60533,0x53081740;
+	}
+}
+[t:seashell_glb_01,n:0x00100075]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.900996;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.73353,0,0.679657;
+	  p position = 1.4166,0,1.02105,0xaeba1227;
+	}
+}
+[t:seashell_glb_03,n:0x00100158]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.17234;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.994531,0,0.104444;
+	  p position = -0.0542254,0,-0.853282,0xf4c8d0b2;
+	}
+}
+[t:seashell_glb_03,n:0x00100123]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.08437;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.466645,0,-0.884445;
+	  p position = -2.34347,0,-1.31973,0xa3fb7be2;
+	}
+}
+[t:seashell_glb_03,n:0x00100163]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.898888;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.632097,0,-0.774889;
+	  p position = 3.96884,0,0.787402,0xea799434;
+	}
+}
+[t:seashell_glb_01,n:0x0010009b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0971;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999458,0,-0.03291;
+	  p position = -2.20164,0,-1.99065,0x07ed3996;
+	}
+}
+[t:seashell_glb_03,n:0x001000f0]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1295;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.628567,0,0.777755;
+	  p position = 1.5829,0,-1.27036,0x07ed3996;
+	}
+}
+[t:seashell_glb_03,n:0x0010012d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0098;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.870356,0,-0.492424;
+	  p position = -3.93814,0,-0.042444,0x07ed3996;
+	}
+}
+[t:seashell_glb_03,n:0x001000cd]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.11428;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.052901,0,-0.9986;
+	  p position = 2.91554,0,0.538235,0x1511a5ec;
+	}
+}
+[t:seashell_glb_01,n:0x00100005]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01205;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.982201,0,0.187832;
+	  p position = 3.71875,0,1.74849,0x66c63b5b;
+	}
+}
+[t:seashell_glb_01,n:0x00100015]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.935194;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.392253,0,0.919857;
+	  p position = 1.53531,0,-0.611032,0x66c63b5b;
+	}
+}
+[t:seashell_glb_03,n:0x0010014f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1614;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.791234,0,-0.611514;
+	  p position = -3.65208,0,-0.492426,0xeab534dd;
+	}
+}
+[t:seashell_glb_03,n:0x0010010b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.942194;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999999,0,0.001505;
+	  p position = 0.666015,0,-0.731609,0xc693974a;
+	}
+}
+[t:seashell_glb_03,n:0x00100150]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.03594;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.775687,0,-0.631118;
+	  p position = 3.63143,0,1.93763,0x3e494a9b;
+	}
+}
+[t:seashell_glb_01,n:0x00100041]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.11441;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.91109,0,-0.412207;
+	  p position = 0.0191584,0,-0.199684,0xf16c6724;
+	}
+}
+[t:seashell_glb_01,n:0x00100011]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0343;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.856343,0,0.516407;
+	  p position = 2.60622,0,0.498013,0x82f981a5;
+	}
+}
+[t:seashell_glb_03,n:0x00100103]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.883303;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.52241,0,0.852695;
+	  p position = -0.340049,0,-0.409187,0x8e8e2975;
+	}
+}
+[t:seashell_glb_01,n:0x00100030]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.882553;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.546472,0,0.837477;
+	  p position = -0.220724,0,0.440526,0xf13b8fa0;
+	}
+}
+[t:seashell_glb_03,n:0x0010010a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.10266;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.293154,0,0.956065;
+	  p position = -0.317274,0,1.18163,0xf13b8fa0;
+	}
+}
+[t:seashell_glb_01,n:0x00100062]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.919218;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.656142,0,-0.754638;
+	  p position = -2.37585,0,1.50319,0x775e7838;
+	}
+}
+[t:seashell_glb_01,n:0x0010002c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.980348;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.818741,0,0.574163;
+	  p position = 1.45794,0,-1.6438,0xcba3eb3a;
+	}
+}
+[t:seashell_glb_01,n:0x00100060]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16456;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.592514,0,-0.80556;
+	  p position = -3.83932,0,-1.39695,0xcba3eb3a;
+	}
+}
+[t:seashell_glb_01,n:0x00100081]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1816;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.097762,0,0.99521;
+	  p position = 0.946051,0,-1.32379,0x43b95221;
+	}
+}
+[t:seashell_glb_03,n:0x0010014a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.898581;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.462236,0,-0.886757;
+	  p position = -3.53697,0,1.4172,0x43b95221;
+	}
+}
+[t:seashell_glb_03,n:0x00100156]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.06447;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.806299,0,-0.591508;
+	  p position = 1.96636,0,0.3105,0x5581e8f5;
+	}
+}
+[t:seashell_glb_03,n:0x0010015c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01567;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.732898,0,-0.680338;
+	  p position = -2.74035,0,1.33805,0xb92967d2;
+	}
+}
+[t:seashell_glb_03,n:0x001000b7]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.958376;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.961808,0,0.273726;
+	  p position = -0.500421,0,-0.862044,0xe94ca3ae;
+	}
+}
+[t:seashell_glb_03,n:0x001000e0]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.12296;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.777391,0,-0.629018;
+	  p position = -3.7034,0,1.83724,0xe94ca3ae;
+	}
+}
+[t:seashell_glb_01,n:0x0010000c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.973703;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.239272,0,0.970953;
+	  p position = 1.43972,0,-1.31683,0x826fcea9;
+	}
+}
+[t:seashell_glb_03,n:0x00100140]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.814513;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.439248,0,-0.898366;
+	  p position = 3.59584,0,1.03416,0x74f1a3ca;
+	}
+}
+[t:seashell_glb_03,n:0x00100116]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.971976;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.326477,0,0.945205;
+	  p position = 2.91262,0,1.29502,0x45fe3077;
+	}
+}
+[t:seashell_glb_03,n:0x00100129]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.883239;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.521314,0,-0.853365;
+	  p position = 0.152844,0,-1.24299,0x45fe3077;
+	}
+}
+[t:seashell_glb_01,n:0x0010001d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15634;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.771498,0,-0.636232;
+	  p position = 3.25773,-13.75,-35.901,0x0c5f196c;
+	}
+}
+[t:seashell_glb_01,n:0x0010001f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.856929;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.203246,0,-0.979128;
+	  p position = 3.57703,-13.4384,-34.4034,0x0c5f196c;
+	}
+}
+[t:seashell_glb_01,n:0x00100046]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.949333;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.772101,0,-0.6355;
+	  p position = -6.08993,-13.2763,-33.2891,0x0c5f196c;
+	}
+}
+[t:seashell_glb_01,n:0x00100092]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05153;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.927232,0,-0.374488;
+	  p position = -0.924539,-13.75,-38.6842,0x0c5f196c;
+	}
+}
+[t:seashell_glb_01,n:0x001000a1]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.11095;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.591633,0,-0.806207;
+	  p position = -16.202,-13.6213,-35.079,0x0c5f196c;
+	}
+}
+[t:seashell_glb_01,n:0x00100004]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01917;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.430841,0,-0.902428;
+	  p position = -10.49,-13.75,-39.0766,0x7a4f1026;
+	}
+}
+[t:seashell_glb_01,n:0x00100035]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05481;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.351347,0,0.936245;
+	  p position = -6.97062,-13.2,-32.0222,0x7a4f1026;
+	}
+}
+[t:seashell_glb_01,n:0x00100038]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.948458;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.778684,0,0.627417;
+	  p position = -5.545,-13.7328,-36.618,0x7a4f1026;
+	}
+}
+[t:seashell_glb_01,n:0x0010003f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07321;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.974227,0,0.22557;
+	  p position = -2.06825,-13.6051,-33.9996,0x7a4f1026;
+	}
+}
+[t:seashell_glb_03,n:0x001000fb]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.869516;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.986331,0,-0.164774;
+	  p position = 2.83476,-13.75,-39.0333,0x7a4f1026;
+	}
+}
+[t:seashell_glb_01,n:0x00100056]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.17864;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.648943,0,0.760837;
+	  p position = 0.0270793,0,-0.897323,0xfb0f8a54;
+	}
+}
+[t:seashell_glb_01,n:0x001000a7]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.880887;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.958203,0,0.28609;
+	  p position = -1.98702,0,1.76087,0xfb0f8a54;
+	}
+}
+[t:seashell_glb_01,n:0x00100029]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07098;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.286589,0,0.958054;
+	  p position = -18.4988,-13.75,-37.5936,0x4b7d24f3;
+	}
+}
+[t:seashell_glb_01,n:0x0010008b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.08183;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.290288,0,0.956939;
+	  p position = -13.7203,-13.2,-31.873,0x4b7d24f3;
+	}
+}
+[t:seashell_glb_03,n:0x0010010f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.08617;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.981193,0,0.193029;
+	  p position = -9.58563,-13.75,-36.3476,0x4b7d24f3;
+	}
+}
+[t:seashell_glb_01,n:0x00100066]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.828536;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.996835,0,0.079496;
+	  p position = -4.5493,-13.75,-38.7332,0xaa8b14c5;
+	}
+}
+[t:seashell_glb_01,n:0x0010007e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05957;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.647759,0,0.761845;
+	  p position = -5.53208,-13.2,-31.912,0xaa8b14c5;
+	}
+}
+[t:seashell_glb_03,n:0x00100127]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07777;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.825316,0,-0.564671;
+	  p position = -16.656,-13.2561,-32.2865,0xaa8b14c5;
+	}
+}
+[t:seashell_glb_03,n:0x00100133]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15795;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.137995,0,-0.990433;
+	  p position = -8.56319,-13.75,-38.9024,0xaa8b14c5;
+	}
+}
+[t:seashell_glb_03,n:0x00100142]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.853851;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.985669,0,0.168693;
+	  p position = -19.75,-13.75,-38.7731,0xaa8b14c5;
+	}
+}
+[t:seashell_glb_01,n:0x00100024]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.84617;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.451717,0,-0.892161;
+	  p position = -15.2266,-13.384,-33.4609,0xd1056fe6;
+	}
+}
+[t:seashell_glb_03,n:0x001000c7]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.820964;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.135909,0,0.990721;
+	  p position = -12.7023,-13.7697,-36.8226,0xd1056fe6;
+	}
+}
+[t:seashell_glb_03,n:0x001000fd]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.816857;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.414361,0,0.910113;
+	  p position = -17.1271,-13.743,-37.3637,0xd1056fe6;
+	}
+}
+[t:seashell_glb_03,n:0x0010010e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.19868;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.623404,0,-0.7819;
+	  p position = 0.073734,-13.425,-34.4999,0xd1056fe6;
+	}
+}
+[t:seashell_glb_01,n:0x0010001a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.918943;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.642959,0,0.765901;
+	  p position = -17.7512,-13.7438,-37.1549,0xbd60d0a2;
+	}
+}
+[t:seashell_glb_03,n:0x00100125]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.06866;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.179869,0,-0.983691;
+	  p position = -18.4998,-13.4029,-34.2618,0xbd60d0a2;
+	}
+}
+[t:seashell_glb_03,n:0x00100136]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.11104;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.107777,0,-0.994175;
+	  p position = -17.4524,-13.478,-34.6031,0xbd60d0a2;
+	}
+}
+[t:seashell_glb_01,n:0x0010005a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.09293;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.020042,0,-0.999799;
+	  p position = -7.62574,-13.75,-37.2659,0x0617db61;
+	}
+}
+[t:seashell_glb_03,n:0x001000f2]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.19957;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.981588,0,-0.191009;
+	  p position = -1.12766,-13.425,-33.6017,0x0617db61;
+	}
+}
+[t:seashell_glb_01,n:0x00100036]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.909108;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.750414,0,-0.660969;
+	  p position = -0.673232,-13.2982,-33.4829,0xd9ffdb1c;
+	}
+}
+[t:seashell_glb_01,n:0x0010005c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.858382;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.885947,0,0.463787;
+	  p position = -8.62994,-13.75,-37.2919,0xd9ffdb1c;
+	}
+}
+[t:seashell_glb_01,n:0x001000af]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.844396;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.790395,0,0.612597;
+	  p position = -14.745,-13.3545,-34.0668,0xd9ffdb1c;
+	}
+}
+[t:seashell_glb_03,n:0x00100134]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.915723;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.933214,0,0.359322;
+	  p position = -5.43631,-13.2,-32.4607,0xd9ffdb1c;
+	}
+}
+[t:seashell_glb_01,n:0x0010002f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07366;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.689349,0,0.72443;
+	  p position = -4.04545,-13.75,-36.4953,0x4c65ca3d;
+	}
+}
+[t:seashell_glb_01,n:0x00100043]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.13939;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.009882,0,-0.999951;
+	  p position = -12.1853,-13.75,-37.8338,0x4c65ca3d;
+	}
+}
+[t:seashell_glb_03,n:0x001000da]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.842546;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.636946,0,0.770908;
+	  p position = -3.32917,-13.2,-32.313,0x4c65ca3d;
+	}
+}
+[t:seashell_glb_01,n:0x0010000f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.13481;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.595747,0,-0.803172;
+	  p position = -2.18842,-13.7334,-37.1126,0x7b90e49d;
+	}
+}
+[t:seashell_glb_01,n:0x00100042]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.872497;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.053446,0,-0.998571;
+	  p position = -1.5743,-13.6,-34.2747,0x7b90e49d;
+	}
+}
+[t:seashell_glb_03,n:0x00100122]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.12891;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.035106,0,0.999384;
+	  p position = -5.42518,-13.75,-39.0826,0x7b90e49d;
+	}
+}
+[t:seashell_glb_01,n:0x00100014]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07312;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.264745,0,0.964318;
+	  p position = -0.816386,-13.4873,-34.1221,0x2bab4aea;
+	}
+}
 [t:flowers_grs_red,n:0x0010b13d]
 {
 	[aspect]
@@ -68556,6 +72748,150 @@
 	{
 	  q orientation = 0,0.348706,0,0.937232;
 	  p position = 0.464143,0,3.92034,0x2b48c461;
+	}
+}
+[t:seashell_glb_01,n:0x0010003c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.09243;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.755314,0,-0.655363;
+	  p position = -2.5275,0,-1.69587,0x8151603c;
+	}
+}
+[t:seashell_glb_01,n:0x0010001c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.873966;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.185055,0,0.982728;
+	  p position = -3.85048,0,0.287793,0x7f644d68;
+	}
+}
+[t:seashell_glb_03,n:0x00100157]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.978324;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.977287,0,0.211918;
+	  p position = -2.16318,0,1.64507,0x7f644d68;
+	}
+}
+[t:seashell_glb_03,n:0x001000ed]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0798;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.943876,0,0.330301;
+	  p position = 0.327123,0,1.84302,0x30621302;
+	}
+}
+[t:seashell_glb_03,n:0x00100118]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.952643;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.771549,0,-0.63617;
+	  p position = -3.9025,0,1.13919,0x30621302;
+	}
+}
+[t:seashell_glb_03,n:0x00100148]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.902736;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.873783,0,0.486315;
+	  p position = 1.98375,0,-0.332675,0x20a49f6a;
+	}
+}
+[t:seashell_glb_01,n:0x001000b1]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.849965;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.646248,0,0.763128;
+	  p position = -0.0745706,0,0.351115,0x0bfe89a0;
+	}
+}
+[t:seashell_glb_03,n:0x001000d9]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.890355;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.443353,0,-0.896347;
+	  p position = -1.07962,0,1.6247,0x0bfe89a0;
+	}
+}
+[t:seashell_glb_01,n:0x001000b0]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.974838;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.984046,0,0.177913;
+	  p position = 1.23332,0,1.12,0x8d593ca2;
 	}
 }
 [t:foliage_grs_01,n:0x0010df4e]
@@ -134638,6 +138974,150 @@
 	  p position = 1.29953,0,-0.489861,0xe21b587f;
 	}
 }
+[t:seashell_glb_03,n:0x001000dc]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.989706;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.841548,0,-0.540183;
+	  p position = 0.106334,0,1.64335,0xf1e73cb5;
+	}
+}
+[t:seashell_glb_03,n:0x00100145]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.807932;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.840446,0,0.541896;
+	  p position = 1.03077,0,-1.78887,0xaf0adccc;
+	}
+}
+[t:seashell_glb_03,n:0x0010014e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.12172;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.860283,0,0.509816;
+	  p position = 3.25985,0,-0.432503,0x394eb812;
+	}
+}
+[t:seashell_glb_03,n:0x00100162]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.809181;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.939335,0,-0.343001;
+	  p position = -0.147827,0,0.751308,0x65f148cb;
+	}
+}
+[t:seashell_glb_03,n:0x001000e2]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.867738;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.912546,0,-0.408975;
+	  p position = 1.51265,0,1.43727,0x330c4844;
+	}
+}
+[t:seashell_glb_03,n:0x00100104]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.18998;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.889436,0,0.45706;
+	  p position = 1.27848,0,0.966503,0xcf011ce6;
+	}
+}
+[t:seashell_glb_03,n:0x00100114]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.959875;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.599014,0,0.800739;
+	  p position = 3.90135,0,-0.441238,0xcf011ce6;
+	}
+}
+[t:seashell_glb_01,n:0x0010001e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.962229;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.021515,0,-0.999769;
+	  p position = -1.59683,0,1.95631,0xa77bf7a2;
+	}
+}
+[t:seashell_glb_01,n:0x0010008d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15706;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.861175,0,-0.508309;
+	  p position = -0.120163,0,-0.453661,0xa77bf7a2;
+	}
+}
 [t:flowers_grs_red,n:0x0010cd61]
 {
 	[aspect]
@@ -143758,6 +148238,86 @@
 	  p position = -1.75051,0,-0.668938,0xd7a2cafa;
 	}
 }
+[t:seashell_glb_01,n:0x00100069]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.985091;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.887715,0,-0.460394;
+	  p position = -2.0854,0,-1.99125,0xb3181559;
+	}
+}
+[t:seashell_glb_01,n:0x00100094]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.863743;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.704733,0,-0.709472;
+	  p position = -2.01132,0,0.501284,0x4b5a2a2c;
+	}
+}
+[t:seashell_glb_03,n:0x001000d7]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16503;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999832,0,0.01835;
+	  p position = -1.62481,0,0.956075,0x2be1810f;
+	}
+}
+[t:seashell_glb_03,n:0x001000d8]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16987;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.704355,0,0.709848;
+	  p position = 1.84267,0,0.532108,0xb134dad4;
+	}
+}
+[t:seashell_glb_01,n:0x001000a2]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.824629;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.843476,0,-0.537166;
+	  p position = -1.77817,0,-1.23484,0x051d97c5;
+	}
+}
 [t:flowers_grs_red,n:0x0010c1e4]
 {
 	[aspect]
@@ -151550,6 +156110,102 @@
 	  p position = -3.0877,0,-0.404093,0x23ceebda;
 	}
 }
+[t:seashell_glb_03,n:0x001000f1]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.873565;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999416,0,0.034178;
+	  p position = 2.31246,0,-1.25498,0x83ba5335;
+	}
+}
+[t:seashell_glb_01,n:0x0010004b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.11548;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.303868,0,0.952714;
+	  p position = -3.57436,0,-0.338424,0xf0d20c7a;
+	}
+}
+[t:seashell_glb_01,n:0x00100054]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.99395;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.164135,0,0.986438;
+	  p position = 1.23308,0,-1.31902,0xf0d20c7a;
+	}
+}
+[t:seashell_glb_03,n:0x001000c2]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.940246;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.387372,0,-0.921923;
+	  p position = 2.34286,0,0.0506799,0xf0d20c7a;
+	}
+}
+[t:seashell_glb_01,n:0x00100023]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.17016;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.453757,0,-0.891125;
+	  p position = -0.33593,0,1.55639,0x12098c1e;
+	}
+}
+[t:seashell_glb_01,n:0x00100073]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.90757;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.965433,0,0.26065;
+	  p position = -1.89327,0,1.64078,0x12098c1e;
+	}
+}
 [t:flowers_grs_red,n:0x0010b775]
 {
 	[aspect]
@@ -154604,6 +159260,182 @@
 	{
 	  q orientation = 0,0.989135,0,-0.147007;
 	  p position = 2.71015,0,-0.545931,0xbf00a80c;
+	}
+}
+[t:seashell_glb_01,n:0x00100091]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.03131;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.989564,0,-0.144094;
+	  p position = -3.43699,0,-1.06097,0x2395e412;
+	}
+}
+[t:seashell_glb_01,n:0x00100012]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.02781;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.50548,0,0.862838;
+	  p position = 0.655759,0,-0.0981449,0xf08abe94;
+	}
+}
+[t:seashell_glb_01,n:0x0010003e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.10071;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.808021,0,-0.589153;
+	  p position = 0.58503,0,1.164,0xf08abe94;
+	}
+}
+[t:seashell_glb_01,n:0x00100098]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.905695;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.180724,0,0.983534;
+	  p position = -1.40821,0,-0.321149,0x7505bdbb;
+	}
+}
+[t:seashell_glb_01,n:0x00100027]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.17147;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.473599,0,-0.88074;
+	  p position = 0.207024,0,-0.116576,0xe3e1e3c6;
+	}
+}
+[t:seashell_glb_01,n:0x00100061]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.94925;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.532538,0,0.846406;
+	  p position = 0.173617,0,-0.379587,0xe9ea938a;
+	}
+}
+[t:seashell_glb_01,n:0x00100031]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.919062;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.688753,0,0.724996;
+	  p position = 0.141671,0,-1.71538,0x8bc45667;
+	}
+}
+[t:seashell_glb_03,n:0x001000c5]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.18547;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.251774,0,0.967786;
+	  p position = -0.164352,0,1.71942,0xa0aef7ab;
+	}
+}
+[t:seashell_glb_01,n:0x0010006e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.831646;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.99001,0,-0.141;
+	  p position = -1.7134,0,-1.54039,0x015268ce;
+	}
+}
+[t:seashell_glb_01,n:0x00100088]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.10965;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.931606,0,-0.363469;
+	  p position = -1.69316,0,-1.47517,0x29bc2159;
+	}
+}
+[t:seashell_glb_01,n:0x00100025]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.0328;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.608441,0,0.793599;
+	  p position = 3.20686,0,-1.56649,0x933a0592;
 	}
 }
 [t:flowers_grs_red,n:0x0010be36]
@@ -157870,6 +162702,38 @@
 	  p position = -1.69454,0,-2.35932,0x6a159e78;
 	}
 }
+[t:seashell_glb_01,n:0x0010005b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01085;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.599523,0,-0.800357;
+	  p position = -3.49137,0,-1.14592,0x0a98cd02;
+	}
+}
+[t:seashell_glb_03,n:0x0010014c]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16235;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.995056,0,0.099318;
+	  p position = -0.248168,0,-0.159591,0x651492da;
+	}
+}
 [t:flowers_grs_red,n:0x0010b46c]
 {
 	[aspect]
@@ -158462,6 +163326,22 @@
 	  p position = -3.26723,0,3.09509,0x5d4fdcdf;
 	}
 }
+[t:seashell_glb_01,n:0x0010006b]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.85727;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.842473,0,0.538739;
+	  p position = 0.471857,0,-1.79238,0x9065d7e1;
+	}
+}
 [t:flowers_grs_red,n:0x0010b155]
 {
 	[aspect]
@@ -158684,6 +163564,390 @@
 	{
 	  q orientation = 0,0.802916,0,-0.596092;
 	  p position = -1.93947,0,-0.486476,0x3b2d8e85;
+	}
+}
+[t:seashell_glb_01,n:0x00100034]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.18769;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.362159,0,-0.932116;
+	  p position = 0.342301,0,1.3564,0xc6bc13c7;
+	}
+}
+[t:seashell_glb_01,n:0x0010009d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.12344;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.033924,0,-0.999424;
+	  p position = 0.0689811,0,1.01379,0xd74e6e2b;
+	}
+}
+[t:seashell_glb_01,n:0x00100044]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01257;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999883,0,0.015316;
+	  p position = 1.29661,0,-1.53248,0xe9583433;
+	}
+}
+[t:seashell_glb_03,n:0x001000ee]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.805301;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.913633,0,0.40654;
+	  p position = -0.76592,0,-1.97948,0xe9583433;
+	}
+}
+[t:seashell_glb_01,n:0x00100037]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.18881;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.507716,0,0.861524;
+	  p position = 2.48872,0,1.92949,0x5017f818;
+	}
+}
+[t:seashell_glb_01,n:0x00100032]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.09126;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.96422,0,-0.265102;
+	  p position = -2.51342,0,1.23589,0x82799398;
+	}
+}
+[t:seashell_glb_01,n:0x00100093]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.18062;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.897071,0,0.441887;
+	  p position = 2.69105,0,1.53797,0x82799398;
+	}
+}
+[t:seashell_glb_01,n:0x0010009e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15868;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.891529,0,-0.452964;
+	  p position = -1.99197,0,-0.541857,0xee00362e;
+	}
+}
+[t:seashell_glb_01,n:0x00100018]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05211;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.882445,0,-0.470416;
+	  p position = 0.807114,0,1.36325,0xb314401d;
+	}
+}
+[t:seashell_glb_03,n:0x00100147]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.847837;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.186037,0,0.982543;
+	  p position = 3.95912,0,-1.78428,0x27085be6;
+	}
+}
+[t:seashell_glb_01,n:0x00100048]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07465;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.41041,0,0.911901;
+	  p position = 0.903181,0,1.77158,0xdfe22dbc;
+	}
+}
+[t:seashell_glb_01,n:0x00100083]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.12117;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.027851,0,0.999612;
+	  p position = 3.51933,0,-0.560076,0x31d18d4a;
+	}
+}
+[t:seashell_glb_03,n:0x001000e1]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.09805;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.371509,0,-0.928429;
+	  p position = 0.937534,0,-0.330489,0x530578ee;
+	}
+}
+[t:seashell_glb_03,n:0x001000d6]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.17043;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.556123,0,-0.8311;
+	  p position = 3.69733,0,0.18437,0xcc541a62;
+	}
+}
+[t:seashell_glb_03,n:0x00100155]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.10082;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.962141,0,-0.272554;
+	  p position = -3.6439,0,0.876286,0xb2008713;
+	}
+}
+[t:seashell_glb_03,n:0x001000ce]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1967;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.69774,0,0.716351;
+	  p position = 2.73387,0,-0.9153,0x1bb32331;
+	}
+}
+[t:seashell_glb_03,n:0x0010011f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.924828;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.991313,0,-0.131522;
+	  p position = -3.39581,0,1.98138,0x7f19b50a;
+	}
+}
+[t:seashell_glb_01,n:0x0010005d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15408;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.1578,0,-0.987471;
+	  p position = -1.22372,0,1.07813,0x7111fa41;
+	}
+}
+[t:seashell_glb_03,n:0x00100139]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.16143;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.772747,0,0.634714;
+	  p position = 3.85791,0,-1.52242,0xea8d0ded;
+	}
+}
+[t:seashell_glb_03,n:0x001000e6]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.01534;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.714754,0,-0.699376;
+	  p position = -3.99599,0,1.46663,0xcd2eb7af;
+	}
+}
+[t:seashell_glb_03,n:0x00100101]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.14956;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.941238,0,-0.337745;
+	  p position = -0.578683,0,-0.123483,0xcbe5132b;
+	}
+}
+[t:seashell_glb_03,n:0x00100153]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.805027;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.205619,0,-0.978632;
+	  p position = -2.90009,0,1.60989,0xcbe5132b;
+	}
+}
+[t:seashell_glb_01,n:0x0010008f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.00363;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.984116,0,0.177528;
+	  p position = -0.866462,0,-0.521862,0xa2c54c65;
+	}
+}
+[t:seashell_glb_01,n:0x00100090]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.962966;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.092382,0,0.995724;
+	  p position = 1.15226,0,0.361226,0x9af92512;
 	}
 }
 [t:flowers_grs_red,n:0x0010b620]
@@ -225230,6 +230494,86 @@
 	  p position = -2.34723,0,-0.371676,0xf2f75a01;
 	}
 }
+[t:seashell_glb_03,n:0x00100164]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.10854;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.922432,0,0.38616;
+	  p position = 3.61651,0,-0.0246366,0x89438c70;
+	}
+}
+[t:seashell_glb_01,n:0x0010000e]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.843172;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.646982,0,-0.762505;
+	  p position = 1.23748,0,-1.28372,0x60ab2dd5;
+	}
+}
+[t:seashell_glb_01,n:0x00100057]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.07053;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.778167,0,-0.628058;
+	  p position = 2.21442,0,-0.239218,0x60ab2dd5;
+	}
+}
+[t:seashell_glb_03,n:0x00100111]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.876872;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.132058,0,-0.991242;
+	  p position = 2.64605,0,-0.650614,0x60ab2dd5;
+	}
+}
+[t:seashell_glb_01,n:0x00100017]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.915896;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.991844,0,0.127457;
+	  p position = -1.12401,0,-0.0447028,0x9be30d16;
+	}
+}
 [t:flowers_grs_red,n:0x0010c0ab]
 {
 	[aspect]
@@ -225564,6 +230908,54 @@
 	{
 	  q orientation = 0,0.993819,0,-0.111015;
 	  p position = -3.29055,0,-0.590477,0xe2e1bd37;
+	}
+}
+[t:seashell_glb_01,n:0x00100089]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05735;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.152374,0,-0.988323;
+	  p position = -0.607168,0,-1.01721,0xaceb18e9;
+	}
+}
+[t:seashell_glb_01,n:0x00100055]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.09893;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.959235,0,0.282609;
+	  p position = -1.48768,0,-1.79538,0x497e19a8;
+	}
+}
+[t:seashell_glb_01,n:0x0010000a]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.05759;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.99415,0,-0.108004;
+	  p position = -1.90137,0,-1.1475,0x5f792a28;
 	}
 }
 [t:flowers_grs_red,n:0x0010b1fe]
@@ -236510,6 +241902,38 @@
 	  p position = 3.61314,0,0.251449,0xec8c2c4d;
 	}
 }
+[t:seashell_glb_01,n:0x001000a8]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.10703;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.684188,0,-0.729306;
+	  p position = 1.175,0,-1.87637,0xb153bdd0;
+	}
+}
+[t:seashell_glb_01,n:0x00100077]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.13759;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.574411,0,-0.818567;
+	  p position = -0.869311,0,0.223348,0x14cd9ef5;
+	}
+}
 [t:flowers_grs_red,n:0x0010c487]
 {
 	[aspect]
@@ -236796,6 +242220,22 @@
 	{
 	  q orientation = 0,0.999889,0,-0.01487;
 	  p position = 1.18492,0,0.53219,0xfbf1e080;
+	}
+}
+[t:seashell_glb_03,n:0x0010014d]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.982145;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.499401,0,0.866371;
+	  p position = 1.4596,0,-1.91188,0xf50692f9;
 	}
 }
 [t:flowers_grs_red,n:0x0010b33b]
@@ -240046,6 +245486,166 @@
 	  p position = 3.59658,0,-0.380954,0x265d81e3;
 	}
 }
+[t:seashell_glb_03,n:0x001000f8]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.935716;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.934465,0,-0.356055;
+	  p position = 2.93575,0,-0.0174196,0x0a3e2a44;
+	}
+}
+[t:seashell_glb_01,n:0x00100021]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.10978;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.744515,0,0.667606;
+	  p position = 1.90966,0,0.0532298,0x714ca805;
+	}
+}
+[t:seashell_glb_03,n:0x001000b3]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.08469;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.916276,0,-0.400547;
+	  p position = 2.44175,0,-0.390654,0x77548b22;
+	}
+}
+[t:seashell_glb_03,n:0x001000f7]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.02114;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.622492,0,-0.782627;
+	  p position = -1.40755,0,-0.76252,0x77548b22;
+	}
+}
+[t:seashell_glb_03,n:0x00100149]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.13278;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.72994,0,-0.683512;
+	  p position = 0.040493,0,-0.691615,0x32e1c67f;
+	}
+}
+[t:seashell_glb_03,n:0x001000c3]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.1126;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.572414,0,-0.819965;
+	  p position = -1.2255,0,-1.9313,0x6e6d1dad;
+	}
+}
+[t:seashell_glb_03,n:0x001000d2]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.17739;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.438242,0,0.898857;
+	  p position = 2.89801,0,-1.96754,0xaa082c8b;
+	}
+}
+[t:seashell_glb_03,n:0x001000ec]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.13541;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.908948,0,0.416909;
+	  p position = -0.806128,0,-1.42768,0xaa082c8b;
+	}
+}
+[t:seashell_glb_03,n:0x00100100]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.807811;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.539137,0,0.842218;
+	  p position = 0.272485,0,-0.479886,0xaa082c8b;
+	}
+}
+[t:seashell_glb_03,n:0x0010012f]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.02453;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.237339,0,-0.971427;
+	  p position = -0.794248,0,-0.757136,0xccffe81e;
+	}
+}
 [t:flowers_grs_red,n:0x0010b20a]
 {
 	[aspect]
@@ -240844,6 +246444,54 @@
 	{
 	  q orientation = 0,0.381416,0,0.924403;
 	  p position = -1.88467,0,-1.75586,0xa4127893;
+	}
+}
+[t:seashell_glb_01,n:0x00100045]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 1.15319;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.958539,0,0.284962;
+	  p position = 1.37904,-13.2,-31.6792,0x7f991aae;
+	}
+}
+[t:seashell_glb_01,n:0x00100097]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.812372;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.979675,0,-0.200591;
+	  p position = -0.977141,0,1.12364,0x43aa5afb;
+	}
+}
+[t:seashell_glb_03,n:0x001000f6]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.912354;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.979522,0,0.201337;
+	  p position = -1.51448,0,-1.59212,0x43aa5afb;
 	}
 }
 [t:flowers_grs_red,n:0x0010b7e2]

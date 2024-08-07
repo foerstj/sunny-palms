@@ -1,0 +1,13 @@
+// seed: factor (seeds/m²), perlin offset, perlin spread
+// templates: space-separated
+// size: from, to, additional perlin factor
+
+[perlin_plant_profile]
+{
+    // defaults
+    size = 0.8 1.2;
+
+    // seashells
+    [*] { seed = 0.02, -0.1,  1; templates = seashell_glb_01; }  // starfish
+    [*] { seed = 0.02,  0.1, -1; templates = seashell_glb_03; }  // seashell
+}
