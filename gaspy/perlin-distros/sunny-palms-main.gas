@@ -16,4 +16,7 @@
 
     // butterflies
     [*] { seed = 0.01, 0, 1; templates = butterfly_mp; size = 1; }
+
+    // glowworms
+    [*] { seed = 0.01, -0.05, 1; templates = emt_glowworms_nightly; size = 1; }
 }
