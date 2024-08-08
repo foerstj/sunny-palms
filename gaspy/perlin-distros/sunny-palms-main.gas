@@ -19,4 +19,7 @@
 
     // glowworms
     [*] { seed = 0.01, -0.05, 1; templates = emt_glowworms_nightly; size = 1; }
+
+    // sounds
+    [*] { seed = 0.001, 0, 1; templates = emt_sound_crickets_nightly; size = 1; }
 }

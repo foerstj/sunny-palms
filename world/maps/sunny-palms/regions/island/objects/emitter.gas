@@ -310,6 +310,30 @@
 	  p position = 1.67599,0,-0.329224,0x43637f1f;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x00100422]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.910952,0,0.412512;
+	  p position = 0.660077,0,-1.40762,0x43637f1f;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x0010041d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.49888,0,-0.866671;
+	  p position = -3.44967,0,-1.02286,0x47600e3b;
+	}
+}
 [t:emt_glowworms_nightly,n:0x001003db]
 {
 	[common]
@@ -430,6 +454,18 @@
 	  p position = -3.0291,0,-1.19608,0x6b55173a;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x0010040c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.979073,0,0.203509;
+	  p position = 2.00702,0,1.07439,0x6b55173a;
+	}
+}
 [t:emt_glowworms_nightly,n:0x00100400]
 {
 	[common]
@@ -476,6 +512,18 @@
 	{
 	  q orientation = 0,0.990784,0,0.135452;
 	  p position = 1.78851,0,-3.18968,0x6c65fb2f;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x0010040b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.422642,0,-0.906297;
+	  p position = 3.97861,0,-2.89335,0x37ff368f;
 	}
 }
 [t:emt_glowworms_nightly,n:0x0010033c]
@@ -778,6 +826,18 @@
 	  p position = -3.19594,0,-2.66908,0x54471441;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x00100412]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.897055,0,0.44192;
+	  p position = 2.45998,0,-2.47672,0x54471441;
+	}
+}
 [t:emt_glowworms_nightly,n:0x00100349]
 {
 	[common]
@@ -994,6 +1054,18 @@
 	  p position = 2.41546,0,-1.12398,0xb3a7b87a;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x0010041b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.837832,0,0.545928;
+	  p position = -1.87508,0,-1.47649,0xb3a7b87a;
+	}
+}
 [t:emt_glowworms_nightly,n:0x0010032b]
 {
 	[common]
@@ -1028,6 +1100,18 @@
 	{
 	  q orientation = 0,0.410768,0,-0.91174;
 	  p position = -1.86262,0,-3.97948,0x82251ba4;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x0010040e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.952076,0,-0.305862;
+	  p position = -2.40871,0,-1.00869,0x82251ba4;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001003b3]
@@ -1112,6 +1196,18 @@
 	{
 	  q orientation = 0,0.459631,0,-0.88811;
 	  p position = 0.0832959,0,-0.825719,0xc1294f9a;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100424]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.932686,0,0.360689;
+	  p position = 2.91251,0,1.243,0x5f6e0ad7;
 	}
 }
 [t:emt_glowworms_nightly,n:0x0010031c]
@@ -1294,6 +1390,18 @@
 	  p position = 1.70487,0,-1.67185,0x3a144ee6;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x0010041c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.404219,0,0.914662;
+	  p position = 3.96877,0,-1.70696,0x3a144ee6;
+	}
+}
 [t:emt_glowworms_nightly,n:0x001002d8]
 {
 	[common]
@@ -1328,6 +1436,18 @@
 	{
 	  q orientation = 0,0.675322,0,0.737523;
 	  p position = 0.860583,0,1.12525,0xba3133d3;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x0010040f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.265853,0,0.964014;
+	  p position = 2.4542,0,-1.04219,0x3222a40b;
 	}
 }
 [t:emt_glowworms_nightly,n:0x00100388]
@@ -1378,6 +1498,18 @@
 	  p position = -3.19208,0,-0.855629,0xb6d0f0ba;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x00100425]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.413366,0,-0.910565;
+	  p position = -2.21661,0,0.640133,0x8fa37f24;
+	}
+}
 [t:emt_glowworms_nightly,n:0x00100353]
 {
 	[common]
@@ -1412,6 +1544,18 @@
 	{
 	  q orientation = 0,0.999411,0,-0.034307;
 	  p position = 2.91873,0,0.969651,0x4b9d6f65;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x0010042b]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.934871,0,-0.354988;
+	  p position = -2.46528,0,1.31944,0xf0fa62c2;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001003c9]
@@ -1474,6 +1618,18 @@
 	  p position = 2.8481,0,-0.713799,0x8d9c09dc;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x00100410]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.996223,0,-0.08683;
+	  p position = -2.97287,0,-0.197741,0x8d9c09dc;
+	}
+}
 [t:emt_glowworms_nightly,n:0x00100310]
 {
 	[common]
@@ -1532,6 +1688,18 @@
 	{
 	  q orientation = 0,0.983849,0,-0.179002;
 	  p position = 2.44621,0,3.31793,0xe5a6a888;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100420]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.486103,0,0.873902;
+	  p position = -3.64731,0,-0.665774,0x5c1714c6;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001003c0]
@@ -1678,6 +1846,18 @@
 	  p position = 2.57471,0,1.94009,0x7769ed0b;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x00100417]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.178626,0,0.983917;
+	  p position = -3.53213,0,1.8859,0x8e74f915;
+	}
+}
 [t:emt_glowworms_nightly,n:0x001002eb]
 {
 	[common]
@@ -1774,6 +1954,18 @@
 	  p position = 0.922786,0,1.62343,0xa7f3a14a;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x0010042c]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.62338,0,-0.781919;
+	  p position = 0.383498,0,-1.99838,0xe031d7a4;
+	}
+}
 [t:emt_glowworms_nightly,n:0x00100315]
 {
 	[common]
@@ -1784,6 +1976,18 @@
 	{
 	  q orientation = 0,0.52694,0,-0.849903;
 	  p position = 1.73547,0,-0.0853396,0x3ef40735;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100419]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.93049,0,-0.366317;
+	  p position = 1.76638,0,0.278702,0xdd2e7e9e;
 	}
 }
 [t:emt_glowworms_nightly,n:0x00100320]
@@ -1966,6 +2170,18 @@
 	  p position = -3.12059,0,1.46579,0x4e4163eb;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x00100429]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.159926,0,-0.987129;
+	  p position = 1.9356,0,0.682514,0x4e4163eb;
+	}
+}
 [t:emt_glowworms_nightly,n:0x0010039b]
 {
 	[common]
@@ -2024,6 +2240,18 @@
 	{
 	  q orientation = 0,0.707603,0,-0.70661;
 	  p position = 2.2639,0,0.883062,0x821bedb3;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100416]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.78092,0,0.624631;
+	  p position = -2.6829,0,-1.99138,0x8a8f11fb;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001003ac]
@@ -2254,6 +2482,30 @@
 	  p position = 3.84196,0,-1.02508,0x08356856;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x0010040d]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.999709,0,-0.02413;
+	  p position = 3.63053,0,1.50341,0x08356856;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100414]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.15826,0,0.987398;
+	  p position = -0.298975,0,1.49794,0x9b09822e;
+	}
+}
 [t:emt_glowworms_nightly,n:0x001003bb]
 {
 	[common]
@@ -2398,6 +2650,18 @@
 	  p position = 0.0904376,0,-2.37442,0x98c0a93a;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x0010041f]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.774018,0,0.633163;
+	  p position = -3.07657,0,-1.57186,0x1c27377a;
+	}
+}
 [t:emt_glowworms_nightly,n:0x0010039c]
 {
 	[common]
@@ -2468,6 +2732,18 @@
 	{
 	  q orientation = 0,0.877659,0,0.479285;
 	  p position = -3.26594,0,0.243862,0x123c1e74;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100427]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.980101,0,0.198497;
+	  p position = -1.87627,0,-1.56639,0xc61b3159;
 	}
 }
 [t:emt_glowworms_nightly,n:0x00100407]
@@ -2600,6 +2876,18 @@
 	{
 	  q orientation = 0,0.856283,0,-0.516506;
 	  p position = 0.105983,0,-0.172806,0x1d748dac;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x0010041e]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.190682,0,-0.981652;
+	  p position = -3.93742,0,1.26842,0x3b2d8e85;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001003d2]
@@ -2758,6 +3046,18 @@
 	  p position = -2.87999,0,0.154472,0x935743a0;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x00100413]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.426297,0,0.904583;
+	  p position = 2.40474,0,-1.56292,0xd8706c3d;
+	}
+}
 [t:emt_glowworms_nightly,n:0x001002c2]
 {
 	[common]
@@ -2780,6 +3080,18 @@
 	{
 	  q orientation = 0,0.80897,0,0.58785;
 	  p position = -1.01559,0,-0.37589,0x06eb35e6;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x0010040a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.713709,0,-0.700442;
+	  p position = -0.329185,0,-0.940479,0x06eb35e6;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001003a1]
@@ -2816,6 +3128,18 @@
 	{
 	  q orientation = 0,0.941938,0,-0.335786;
 	  p position = -3.05812,0,-3.0879,0x37bfe940;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100411]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.961762,0,-0.273885;
+	  p position = -0.388111,0,-1.00838,0x02045d3b;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001002e9]
@@ -2902,6 +3226,30 @@
 	  p position = -1.40983,0,-2.60603,0x437a6cd7;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x0010042a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.99975,0,-0.022374;
+	  p position = 0.985243,0,1.3071,0x437a6cd7;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100423]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.074681,0,-0.997207;
+	  p position = 0.99791,0,1.70306,0x2bcd10c9;
+	}
+}
 [t:emt_glowworms_nightly,n:0x00100357]
 {
 	[common]
@@ -2960,6 +3308,18 @@
 	{
 	  q orientation = 0,0.647676,0,-0.761916;
 	  p position = 3.78882,0,3.28494,0x93b6320d;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x0010041a]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.86118,0,-0.5083;
+	  p position = 0.669378,0,0.182262,0x93b6320d;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001002e1]
@@ -3080,6 +3440,30 @@
 	{
 	  q orientation = 0,0.991256,0,-0.131952;
 	  p position = 0.508852,0,0.252436,0x9fad5fc3;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100418]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.450228,0,-0.892913;
+	  p position = 0.0228031,0,2.82176,0xd4271699;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100415]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.412515,0,-0.910951;
+	  p position = 2.78957,0,-2.66951,0xba3d082a;
 	}
 }
 [t:emt_glowworms_nightly,n:0x00100375]
@@ -3454,6 +3838,18 @@
 	  p position = 0.631206,0,2.1536,0xffbb46f2;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x00100428]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.792488,0,-0.609887;
+	  p position = -3.07483,0,3.19604,0x3a9d3a37;
+	}
+}
 [t:emt_glowworms_nightly,n:0x0010031a]
 {
 	[common]
@@ -3670,6 +4066,18 @@
 	  p position = -3.26661,0,-1.15158,0xaee088dd;
 	}
 }
+[t:emt_sound_crickets_nightly,n:0x00100426]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.189735,0,-0.981835;
+	  p position = -1.767,0,0.565927,0xaee088dd;
+	}
+}
 [t:emt_glowworms_nightly,n:0x001003f5]
 {
 	[common]
@@ -3884,6 +4292,18 @@
 	{
 	  q orientation = 0,0.252409,0,0.967621;
 	  p position = -1.29904,0,1.69572,0xec8c2c4d;
+	}
+}
+[t:emt_sound_crickets_nightly,n:0x00100421]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.989761,0,-0.142737;
+	  p position = 1.64534,0,0.243627,0x35656d98;
 	}
 }
 [t:emt_glowworms_nightly,n:0x00100391]
