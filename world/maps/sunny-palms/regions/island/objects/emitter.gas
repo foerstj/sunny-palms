@@ -4366,8 +4366,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.72242,0,0.691455;
-	  p position = -1.23197,0,-1.28865,0x89ddce24;
+	  q orientation = 0,0.0218955,0,0.99976;
+	  p position = -1.43874,-6.19888e-006,0.716379,0x453ab592;
 	}
 }
 [t:emt_glowworms_nightly,n:0x00100325]
@@ -4498,8 +4498,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.168024,0,-0.985783;
-	  p position = 1.60862,0,1.19392,0x9c71217d;
+	  q orientation = 0,-0.168024,0,0.985783;
+	  p position = -0.15377,-2.86102e-006,3.29196,0x9c71217d;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001002f7]

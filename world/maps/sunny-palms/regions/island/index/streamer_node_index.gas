@@ -179,7 +179,6 @@
   x * = 0x09E4A1E0;
   x * = 0x09F0EDAA;
   x * = 0x09F29F34;
-  x * = 0x0A15EEF7;
   x * = 0x0A3035FF;
   x * = 0x0A32F11C;
   x * = 0x0A3963CC;
@@ -412,7 +411,6 @@
   x * = 0x17C87A1C;
   x * = 0x18048687;
   x * = 0x180A72B1;
-  x * = 0x181F96E9;
   x * = 0x181FD975;
   x * = 0x182E95B4;
   x * = 0x1842C3FF;
@@ -551,7 +549,6 @@
   x * = 0x2005BF41;
   x * = 0x201C01B9;
   x * = 0x2039A4DF;
-  x * = 0x203DDEB7;
   x * = 0x2045D686;
   x * = 0x20507B14;
   x * = 0x2051083D;
@@ -644,6 +641,7 @@
   x * = 0x24DD3EEB;
   x * = 0x24DFBEBA;
   x * = 0x24E60BB6;
+  x * = 0x24E943AF;
   x * = 0x24F1607A;
   x * = 0x24F1D9F3;
   x * = 0x24F799E2;
@@ -791,7 +789,6 @@
   x * = 0x2C0F9E6E;
   x * = 0x2C10C6C2;
   x * = 0x2C18B239;
-  x * = 0x2C371666;
   x * = 0x2C392155;
   x * = 0x2C53EDAD;
   x * = 0x2C6E3E78;
@@ -1536,7 +1533,6 @@
   x * = 0x5534FF65;
   x * = 0x556A7B41;
   x * = 0x556E4455;
-  x * = 0x5573BE4C;
   x * = 0x55754856;
   x * = 0x5581E8F5;
   x * = 0x5583DB5E;
@@ -1759,7 +1755,6 @@
   x * = 0x62222612;
   x * = 0x6235ABCE;
   x * = 0x625F3392;
-  x * = 0x626577A4;
   x * = 0x628076E8;
   x * = 0x629960C6;
   x * = 0x629EFE6F;
@@ -2345,7 +2340,6 @@
   x * = 0x8242002E;
   x * = 0x82503C61;
   x * = 0x8250D5D7;
-  x * = 0x82569C2B;
   x * = 0x8265B837;
   x * = 0x8265E482;
   x * = 0x826FCEA9;
@@ -2457,6 +2451,7 @@
   x * = 0x88383E75;
   x * = 0x885B7AC6;
   x * = 0x885CDFB8;
+  x * = 0x885E6A97;
   x * = 0x8868BBA4;
   x * = 0x886B751C;
   x * = 0x886B8C9C;
@@ -2483,7 +2478,6 @@
   x * = 0x89964C35;
   x * = 0x89CCF314;
   x * = 0x89DBDE50;
-  x * = 0x89DDCE24;
   x * = 0x8A028692;
   x * = 0x8A117B96;
   x * = 0x8A161AC6;
@@ -2532,6 +2526,7 @@
   x * = 0x8D07EA94;
   x * = 0x8D0ABD35;
   x * = 0x8D0CBBC7;
+  x * = 0x8D12617A;
   x * = 0x8D1351F6;
   x * = 0x8D393687;
   x * = 0x8D3E3FAC;
@@ -2738,9 +2733,11 @@
   x * = 0x96A3EDE3;
   x * = 0x96A602DC;
   x * = 0x96C3E274;
+  x * = 0x96C8BD41;
   x * = 0x96CF8329;
   x * = 0x96DAC43B;
   x * = 0x97076A7E;
+  x * = 0x970C6709;
   x * = 0x97183939;
   x * = 0x972A3D24;
   x * = 0x972D164B;
@@ -2768,6 +2765,7 @@
   x * = 0x98B1BA7B;
   x * = 0x98C0A93A;
   x * = 0x98CFDC3B;
+  x * = 0x98D53A92;
   x * = 0x98D64393;
   x * = 0x98D87D18;
   x * = 0x9906A0B7;
@@ -2954,6 +2952,7 @@
   x * = 0xA30ACA5F;
   x * = 0xA3287271;
   x * = 0xA32CA2C1;
+  x * = 0xA3427AD3;
   x * = 0xA352B6FD;
   x * = 0xA36507B3;
   x * = 0xA368F5C8;
@@ -3122,6 +3121,7 @@
   x * = 0xACF09DA5;
   x * = 0xACF2E2DD;
   x * = 0xACFC0891;
+  x * = 0xAD244270;
   x * = 0xAD2948D1;
   x * = 0xAD6D6B91;
   x * = 0xAD880DF3;
@@ -3258,6 +3258,7 @@
   x * = 0xB492810B;
   x * = 0xB49703C4;
   x * = 0xB49795E1;
+  x * = 0xB498D3B9;
   x * = 0xB49C050F;
   x * = 0xB4C9C270;
   x * = 0xB4D619B0;
@@ -3406,6 +3407,7 @@
   x * = 0xBC3A3118;
   x * = 0xBC44573A;
   x * = 0xBC5E58C4;
+  x * = 0xBC7D4541;
   x * = 0xBC8190A8;
   x * = 0xBC8AB287;
   x * = 0xBC8C757F;
@@ -3418,12 +3420,10 @@
   x * = 0xBD0FF618;
   x * = 0xBD23CECB;
   x * = 0xBD2E6C36;
-  x * = 0xBD36E292;
   x * = 0xBD4502C2;
   x * = 0xBD5AB81D;
   x * = 0xBD60D0A2;
   x * = 0xBD7256E4;
-  x * = 0xBD8FC51C;
   x * = 0xBDAD4CDD;
   x * = 0xBDBCF8C0;
   x * = 0xBDC0FE27;
@@ -3438,7 +3438,6 @@
   x * = 0xBE1B9CFB;
   x * = 0xBE3A1350;
   x * = 0xBE3A2A8E;
-  x * = 0xBE428572;
   x * = 0xBE4CB0C6;
   x * = 0xBE5980E0;
   x * = 0xBE5CA668;
@@ -3517,6 +3516,7 @@
   x * = 0xC21CBB8B;
   x * = 0xC21FC690;
   x * = 0xC2265977;
+  x * = 0xC22DBD31;
   x * = 0xC2735205;
   x * = 0xC2748292;
   x * = 0xC275C35A;
@@ -3548,6 +3548,7 @@
   x * = 0xC3BC67EF;
   x * = 0xC3CBA73E;
   x * = 0xC3D35A92;
+  x * = 0xC3F5F8EF;
   x * = 0xC3F97A3B;
   x * = 0xC3FA225C;
   x * = 0xC40E5428;
@@ -3656,6 +3657,7 @@
   x * = 0xC951F6DF;
   x * = 0xC955884C;
   x * = 0xC9641DD8;
+  x * = 0xC99528AE;
   x * = 0xC99872A7;
   x * = 0xC9A3CDCC;
   x * = 0xC9B1F834;
@@ -3676,6 +3678,7 @@
   x * = 0xCAA21C5B;
   x * = 0xCAB33BA9;
   x * = 0xCAB6109E;
+  x * = 0xCAB63DD4;
   x * = 0xCAB8FB0F;
   x * = 0xCACFBE5E;
   x * = 0xCADDD3F1;
@@ -3687,7 +3690,6 @@
   x * = 0xCB214F4F;
   x * = 0xCB3BF294;
   x * = 0xCB4593C9;
-  x * = 0xCB60EB2C;
   x * = 0xCB71CE6B;
   x * = 0xCB72FB3D;
   x * = 0xCB7AC331;
@@ -3744,7 +3746,6 @@
   x * = 0xCE0DE4B0;
   x * = 0xCE14DF17;
   x * = 0xCE18B385;
-  x * = 0xCE3723E9;
   x * = 0xCE562514;
   x * = 0xCE639EDA;
   x * = 0xCE727F18;
@@ -3938,7 +3939,6 @@
   x * = 0xD96EC720;
   x * = 0xD970240B;
   x * = 0xD977E5E0;
-  x * = 0xD97A7AF3;
   x * = 0xD97FC981;
   x * = 0xD9947ACE;
   x * = 0xD99BB35E;
@@ -4034,6 +4034,7 @@
   x * = 0xDE3D89F1;
   x * = 0xDE5C3557;
   x * = 0xDE6A29C8;
+  x * = 0xDE70C895;
   x * = 0xDE7629ED;
   x * = 0xDE7CBC60;
   x * = 0xDE7DF18F;
@@ -4082,7 +4083,6 @@
   x * = 0xE1224940;
   x * = 0xE127693A;
   x * = 0xE12ACE72;
-  x * = 0xE130EA77;
   x * = 0xE13A79C3;
   x * = 0xE13C0080;
   x * = 0xE1422495;
@@ -4146,7 +4146,6 @@
   x * = 0xE426B4D7;
   x * = 0xE4370F70;
   x * = 0xE43A60AA;
-  x * = 0xE44266E4;
   x * = 0xE44D9B44;
   x * = 0xE45A5EF2;
   x * = 0xE45D7DF0;
@@ -4227,6 +4226,7 @@
   x * = 0xE7BF4C25;
   x * = 0xE7C15EF8;
   x * = 0xE7C3BF7F;
+  x * = 0xE7E6EFA1;
   x * = 0xE7E73ABB;
   x * = 0xE7EA1161;
   x * = 0xE7EABE9C;
@@ -4390,7 +4390,6 @@
   x * = 0xF0FA62C2;
   x * = 0xF13B8FA0;
   x * = 0xF14BD2E9;
-  x * = 0xF14C3BD8;
   x * = 0xF15E3EE5;
   x * = 0xF164314F;
   x * = 0xF165F5FC;
@@ -4525,11 +4524,11 @@
   x * = 0xF825C1DE;
   x * = 0xF82D62B3;
   x * = 0xF838B488;
-  x * = 0xF8534487;
   x * = 0xF853569B;
   x * = 0xF86DA138;
   x * = 0xF86F5265;
   x * = 0xF88D53DC;
+  x * = 0xF89FBB89;
   x * = 0xF8A1E85D;
   x * = 0xF8AA8D51;
   x * = 0xF8B4B673;
@@ -4601,7 +4600,6 @@
   x * = 0xFD2A3148;
   x * = 0xFD431C1A;
   x * = 0xFD4E53AD;
-  x * = 0xFD6F80C5;
   x * = 0xFD93AD0F;
   x * = 0xFD98EF6E;
   x * = 0xFDB62723;
