@@ -3998,8 +3998,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.391804,0,0.920049;
-	  p position = 0.731783,0,3.52941,0x1b68236f;
+	  q orientation = 0,0.92762,0,0.373526;
+	  p position = -1.56326,0,0.330814,0x7262e12b;
 	}
 }
 [t:flowers_grs_red,n:0x0010bd6b]
@@ -4174,8 +4174,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.145328,0,0.989384;
-	  p position = -2.53498,0,3.49345,0x1b68236f;
+	  q orientation = 0,0.802362,0,0.596837;
+	  p position = 0.400774,0,-0.402439,0x72de13bf;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e3e6]
@@ -4238,8 +4238,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.198633,0,0.980074;
-	  p position = -2.68777,0,-0.128548,0x28042200;
+	  q orientation = 0,0.980074,0,-0.198633;
+	  p position = -3.25591,0,-0.603535,0x181f96e9;
 	}
 }
 [t:flowers_grs_red,n:0x0010cbad]
@@ -4255,7 +4255,7 @@
 	[placement]
 	{
 	  q orientation = 0,-0.419431,0,0.907787;
-	  p position = -2.17485,0,-0.512772,0x2c371666;
+	  p position = -3.99964,0,-1.96763,0x2c371666;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e461]
@@ -4270,8 +4270,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-0.001472,0,0.999999;
-	  p position = 0.478756,0,-2.74837,0x2c371666;
+	  q orientation = 0,0.999999,0,0.001472;
+	  p position = 0.858593,0,-1.92431,0x181f96e9;
 	}
 }
 [t:flowers_grs_red,n:0x0010b404]
@@ -4287,7 +4287,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.985786,0,0.168008;
-	  p position = 0.792617,0,-2.75139,0xca7c1c71;
+	  p position = 3.69997,0,-1.68879,0x7262e12b;
 	}
 }
 [t:flowers_grs_red,n:0x0010c12e]
@@ -4302,8 +4302,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.38897,0,0.92125;
-	  p position = -1.15262,0,-0.510963,0xca7c1c71;
+	  q orientation = 0,0.92125,0,-0.38897;
+	  p position = 1.99938,-7.45058e-009,1.47517,0x6ee5ebd9;
 	}
 }
 [t:flowers_grs_red,n:0x0010ce35]
@@ -4318,8 +4318,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.716281,0,0.697812;
-	  p position = -0.209914,0,0.967145,0xca7c1c71;
+	  q orientation = 0,-0.697812,0,0.716281;
+	  p position = 0.0457535,0,-0.325508,0x6ee5ebd9;
 	}
 }
 [t:foliage_grs_01,n:0x0010d7a1]
@@ -4335,7 +4335,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.937079,0,0.349116;
-	  p position = -3.18747,0,-2.22503,0xca7c1c71;
+	  p position = -0.0342407,0,0.810764,0x7262e12b;
 	}
 }
 [t:foliage_grs_01,n:0x0010e00f]
@@ -4350,8 +4350,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.470658,0,-0.882316;
-	  p position = 3.83646,0,-1.40966,0xca7c1c71;
+	  q orientation = 0,0.956697,0,-0.291086;
+	  p position = 2.34706,0,-1.25621,0xe293a32c;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e2d8]
@@ -4367,7 +4367,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.124842,0,0.992177;
-	  p position = 0.237808,0,-1.61543,0xca7c1c71;
+	  p position = 3.14516,0,-0.552837,0x7262e12b;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010ebbc]
@@ -4383,7 +4383,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.596589,0,0.802547;
-	  p position = -2.0993,0,-0.187201,0xca7c1c71;
+	  p position = 0.808041,0,0.875391,0x7262e12b;
 	}
 }
 [t:flowers_grs_red,n:0x0010b18b]
@@ -4431,7 +4431,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.916127,0,-0.400888;
-	  p position = 3.3072,0,-3.74747,0x88f9da57;
+	  p position = 0.39986,0,-2.81007,0x88f9da57;
 	}
 }
 [t:flowers_grs_red,n:0x0010b767]
@@ -4639,7 +4639,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.391946,0,0.919988;
-	  p position = 2.4797,0,-2.82447,0x88f9da57;
+	  p position = -0.427647,0,-1.88707,0x88f9da57;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e2ae]
@@ -4751,7 +4751,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.382435,0,0.923982;
-	  p position = 3.24411,0,-3.09376,0xe293a32c;
+	  p position = -3.81849,0,-0.18642,0x9f0bcba9;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e910]
@@ -4992,18 +4992,6 @@
 	{
 	  q orientation = 0,0.478827,0,-0.877909;
 	  p position = -2.75821,0,-2.32321,0x9f0bcba9;
-	}
-}
-[t:butterfly_mp,n:0x001001ca]
-{
-	[common]
-	{
-		dev_instance_text = "gaspy sunny-palms";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.56412,0,0.825693;
-	  p position = -2.81779,0,1.44582,0x1698ff3f;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e8a3]
@@ -250977,5 +250965,17 @@
 	{
 	  q orientation = 0,0.889281,0,0.457362;
 	  p position = -2.18004,0,0.743835,0x9c71217d;
+	}
+}
+[t:butterfly_mp,n:0x001001ca]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.18496,0,0.982746;
+	  p position = 1.9884,0,1.12823,0x4fa3c07b;
 	}
 }

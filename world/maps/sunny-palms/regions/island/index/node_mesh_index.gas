@@ -21,6 +21,12 @@
 	0x00100621 = t_xxx_flr_08x08-v3;
 	0x00100625 = t_xxx_flr_bigstatue-head-12x16;
 	0x00100626 = t_xxx_flr_bigstatue-head-20x20;
+	0x00100639 = t_xxx_flr_gravestone-1-a;
+	0x0010063a = t_xxx_flr_gravestone-2-a;
+	0x0010063b = t_xxx_flr_gravestone-3-a;
+	0x0010063c = t_xxx_flr_gravestone-4-a;
+	0x0010066f = t_xxx_flr_sundial-a;
+	0x00100670 = t_xxx_flr_well-a;
 	0x00100749 = t_xxx_ledg_08-thck-b;
 	0x0010074a = t_xxx_ledg_08-thck-t;
 	0x00100772 = t_xxx_ledg_tx-wal-08-l-b;

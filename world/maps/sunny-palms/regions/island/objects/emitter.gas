@@ -67,7 +67,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.72242,0,0.691455;
-	  p position = -1.07314,0,0.0143581,0x1698ff3f;
+	  p position = -1.23197,0,-1.28865,0x89ddce24;
 	}
 }
 [t:emt_glowworms_nightly,n:0x00100325]
