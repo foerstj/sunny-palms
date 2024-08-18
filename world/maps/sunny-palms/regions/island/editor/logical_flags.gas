@@ -5931,18 +5931,6 @@
 			* = lf_dirt;
 		}
 	}
-	[t:lf_snode,n:0x1e1f752a]
-	{
-		[t:lf_lnode,n:0]
-		{
-			* = lf_human_player;
-			* = lf_computer_player;
-			* = lf_dirt;
-		}
-		[t:lf_lnode,n:1]
-		{
-		}
-	}
 	[t:lf_snode,n:0x1e3f84f1]
 	{
 		[t:lf_lnode,n:0]
@@ -9148,15 +9136,6 @@
 		}
 	}
 	[t:lf_snode,n:0x2c04528f]
-	{
-		[t:lf_lnode,n:0]
-		{
-			* = lf_human_player;
-			* = lf_computer_player;
-			* = lf_dirt;
-		}
-	}
-	[t:lf_snode,n:0x2c04f9ca]
 	{
 		[t:lf_lnode,n:0]
 		{
@@ -12742,15 +12721,6 @@
 		}
 	}
 	[t:lf_snode,n:0x3de82424]
-	{
-		[t:lf_lnode,n:0]
-		{
-			* = lf_human_player;
-			* = lf_computer_player;
-			* = lf_dirt;
-		}
-	}
-	[t:lf_snode,n:0x3de8c207]
 	{
 		[t:lf_lnode,n:0]
 		{
@@ -26898,6 +26868,15 @@
 			* = lf_dirt;
 		}
 	}
+	[t:lf_snode,n:0x82569c2b]
+	{
+		[t:lf_lnode,n:0]
+		{
+			* = lf_human_player;
+			* = lf_computer_player;
+			* = lf_dirt;
+		}
+	}
 	[t:lf_snode,n:0x8265b837]
 	{
 		[t:lf_lnode,n:0]
@@ -34923,15 +34902,6 @@
 			* = lf_dirt;
 		}
 	}
-	[t:lf_snode,n:0xa8bf7e1f]
-	{
-		[t:lf_lnode,n:0]
-		{
-			* = lf_human_player;
-			* = lf_computer_player;
-			* = lf_dirt;
-		}
-	}
 	[t:lf_snode,n:0xa8c0ddcd]
 	{
 		[t:lf_lnode,n:0]
@@ -36390,6 +36360,15 @@
 		{
 		}
 	}
+	[t:lf_snode,n:0xafca8ff0]
+	{
+		[t:lf_lnode,n:0]
+		{
+			* = lf_human_player;
+			* = lf_computer_player;
+			* = lf_dirt;
+		}
+	}
 	[t:lf_snode,n:0xaff11aa2]
 	{
 		[t:lf_lnode,n:0]
@@ -36661,6 +36640,15 @@
 		}
 	}
 	[t:lf_snode,n:0xb0e5c87e]
+	{
+		[t:lf_lnode,n:0]
+		{
+			* = lf_human_player;
+			* = lf_computer_player;
+			* = lf_dirt;
+		}
+	}
+	[t:lf_snode,n:0xb0eb15a4]
 	{
 		[t:lf_lnode,n:0]
 		{
@@ -39502,6 +39490,15 @@
 	{
 		[t:lf_lnode,n:0]
 		{
+		}
+	}
+	[t:lf_snode,n:0xbe428572]
+	{
+		[t:lf_lnode,n:0]
+		{
+			* = lf_human_player;
+			* = lf_computer_player;
+			* = lf_dirt;
 		}
 	}
 	[t:lf_snode,n:0xbe4cb0c6]
@@ -45304,6 +45301,15 @@
 		}
 	}
 	[t:lf_snode,n:0xd977e5e0]
+	{
+		[t:lf_lnode,n:0]
+		{
+			* = lf_human_player;
+			* = lf_computer_player;
+			* = lf_dirt;
+		}
+	}
+	[t:lf_snode,n:0xd97a7af3]
 	{
 		[t:lf_lnode,n:0]
 		{

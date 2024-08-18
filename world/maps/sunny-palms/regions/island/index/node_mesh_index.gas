@@ -126,7 +126,7 @@
 	0x00100b58 = t_grs01_houses_generic-b-stone;
 	0x00100b8a = t_grs01_houses_stable-base-a;
 	0x00100b8b = t_grs01_houses_stable-roof-a;
-	0x00100bf8 = t_grs01_heal-area-8x8;
+	0x00100bcc = t_grs01_brickplatform;
 	0x00100c07 = t_grs01_statue-generic-flr-a;
 	0x00100c08 = t_grs01_statue-generic-flr-b;
 	0x00100c09 = t_grs01_statue-generic-flr-c;
