@@ -1,5 +1,9 @@
 [t:mp_townfolk_m_05,n:0x00200b91]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.92388,0,0.382683;

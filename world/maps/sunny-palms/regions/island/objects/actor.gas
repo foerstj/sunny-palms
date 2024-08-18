@@ -1,5 +1,9 @@
 [t:mp_townfolk_m_05,n:0x001004c0]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
@@ -113,6 +117,10 @@
 }
 [t:mp_townfolk_f_06,n:0x001004b9]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.92388,0,0.382683;
@@ -226,6 +234,10 @@
 }
 [t:mp_townfolk_m_05,n:0x001004c1]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,1,0,-1.66939e-007;
@@ -318,6 +330,10 @@
 }
 [t:mp_townfolk_f_06,n:0x001004bb]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  p position = -2.84983,0,3.09928,0xc1ac8181;
@@ -325,6 +341,10 @@
 }
 [t:mp_townfolk_f_06,n:0x001004bc]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -333,6 +353,10 @@
 }
 [t:mp_townfolk_m_05,n:0x001004be]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  p position = 2.21836,0,1.05322,0xecfbd21f;
@@ -340,6 +364,10 @@
 }
 [t:mp_townfolk_m_05,n:0x001004bd]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,1,0,-1.66939e-007;
@@ -376,6 +404,10 @@
 }
 [t:mp_townfolk_f_06,n:0x001004bf]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
@@ -536,6 +568,10 @@
 }
 [t:mp_townfolk_f_06,n:0x001004ba]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,1,0,-1.66939e-007;
@@ -565,6 +601,10 @@
 }
 [t:mp_townfolk_f_06,n:0x001004b6]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
@@ -573,6 +613,10 @@
 }
 [t:mp_townfolk_m_05,n:0x001004b7]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.923879,0,-0.382684;
@@ -581,6 +625,10 @@
 }
 [t:mp_townfolk_m_05,n:0x001004b8]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -589,6 +637,10 @@
 }
 [t:mp_townfolk_f_06,n:0x001004b4]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -597,6 +649,10 @@
 }
 [t:mp_townfolk_m_05,n:0x001004b5]
 {
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
