@@ -73087,8 +73087,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.955072,0,-0.296372;
-	  p position = 3.66958,0,0.212842,0xd79f09c2;
+	  q orientation = 0,0.884905,0,0.465771;
+	  p position = -0.226273,0,-3.67527,0x5262f79a;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e96f]
@@ -73103,8 +73103,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.761206,0,0.648511;
-	  p position = 3.71038,0,2.81692,0xd79f09c2;
+	  q orientation = 0,-0.648511,0,0.761206;
+	  p position = 1.33224,0,2.22176,0x46728ec7;
 	}
 }
 [t:butterfly_mp,n:0x00100205]
@@ -118548,8 +118548,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.674391,0,-0.738374;
-	  p position = -2.56312,0,1.22399,0x0a76de1d;
+	  q orientation = 0,-0.674391,0,0.738374;
+	  p position = 3.56499,0,-0.130066,0x5efb2b3f;
 	}
 }
 [t:flowers_grs_red,n:0x0010bf58]

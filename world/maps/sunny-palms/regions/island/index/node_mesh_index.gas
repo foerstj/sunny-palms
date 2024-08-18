@@ -111,12 +111,15 @@
 	0x001009c3 = t_xxx_wal_cave-tx-abc-base-front-a;
 	0x001009c5 = t_xxx_wal_cave-tx-abc-sides-front-a;
 	0x001009c7 = t_xxx_wal_cave-tx-abc-top-front-a;
+	0x00100b49 = t_grs01_houses_coop-a;
 	0x00100b4c = t_grs01_houses_generic-a-roof-shingle;
 	0x00100b4e = t_grs01_houses_generic-a-stone-door-top;
 	0x00100b4f = t_grs01_houses_generic-a-stone;
 	0x00100b52 = t_grs01_houses_generic-b-roof-shingle;
 	0x00100b57 = t_grs01_houses_generic-b-stone-door-top;
 	0x00100b58 = t_grs01_houses_generic-b-stone;
+	0x00100b8a = t_grs01_houses_stable-base-a;
+	0x00100b8b = t_grs01_houses_stable-roof-a;
 	0x00100bf8 = t_grs01_heal-area-8x8;
 	0x00100c07 = t_grs01_statue-generic-flr-a;
 	0x00100c08 = t_grs01_statue-generic-flr-b;
