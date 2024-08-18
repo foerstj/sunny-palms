@@ -142,6 +142,63 @@
 	  p position = -0.801617,1.84549,3.25421,0x5c162ad5;
 	}
 }
+[t:trigger_change_mood_box,n:0x00100003]
+{
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = mood_change("sunny-palms-island-b-quick");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(4.000000,1.000000,2.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  p position = -0.275558,-11.5433,-6.14906,0x89030643;
+	}
+}
+[t:trigger_change_mood_box,n:0x00100456]
+{
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = mood_change("sunny-palms-island-a");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(8.000000,1.000000,4.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,0;
+	  p position = 1.31381,0,0.855019,0x4e07d361;
+	}
+}
 [t:trigger_change_mood_box,n:0x00100451]
 {
 	[common]
@@ -169,35 +226,6 @@
 	{
 	  q orientation = 0,1,0,2.98023e-008;
 	  p position = -3.91504,0,0.923019,0xfca749ac;
-	}
-}
-[t:trigger_change_mood_box,n:0x00100001]
-{
-	[common]
-	{
-		[instance_triggers]
-		{
-			[*]
-			{
-				action* = mood_change("sunny-palms-island-a");
-			  b can_self_destruct = true;
-				condition* = party_member_within_bounding_box(2.000000,1.000000,2.000000,"on_every_enter");
-			  f delay = 0.000000;
-			  b flip_flop = false;
-			  b multi_player = true;
-			  b no_trig_bits = false;
-				occupants_group = ;
-			  f reset_duration = 0.000000;
-			  b single_player = true;
-			  b single_shot = false;
-			  b start_active = true;
-			}
-		}
-	}
-	[placement]
-	{
-	  q orientation = 0,0.707107,0,0.707107;
-	  p position = 1.20026,0,0.494522,0x8457bc65;
 	}
 }
 [t:trigger_change_mood_box,n:0x00100452]
@@ -258,6 +286,35 @@
 	  p position = -1.23611,1.83227,3.08978,0x99583752;
 	}
 }
+[t:trigger_change_mood_box,n:0x00100001]
+{
+	[common]
+	{
+		[instance_triggers]
+		{
+			[*]
+			{
+				action* = mood_change("sunny-palms-island-a");
+			  b can_self_destruct = true;
+				condition* = party_member_within_bounding_box(2.000000,1.000000,2.000000,"on_every_enter");
+			  f delay = 0.000000;
+			  b flip_flop = false;
+			  b multi_player = true;
+			  b no_trig_bits = false;
+				occupants_group = ;
+			  f reset_duration = 0.000000;
+			  b single_player = true;
+			  b single_shot = false;
+			  b start_active = true;
+			}
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.20026,0,0.494522,0x8457bc65;
+	}
+}
 [t:trigger_change_mood_box,n:0x00100450]
 {
 	[common]
@@ -314,62 +371,5 @@
 	{
 	  q orientation = 0,1.59522e-008,0,1;
 	  p position = 0.773087,1.57043,2.56703,0xc093e863;
-	}
-}
-[t:trigger_change_mood_box,n:0x00100456]
-{
-	[common]
-	{
-		[instance_triggers]
-		{
-			[*]
-			{
-				action* = mood_change("sunny-palms-island-a");
-			  b can_self_destruct = true;
-				condition* = party_member_within_bounding_box(8.000000,1.000000,4.000000,"on_every_enter");
-			  f delay = 0.000000;
-			  b flip_flop = false;
-			  b multi_player = true;
-			  b no_trig_bits = false;
-				occupants_group = ;
-			  f reset_duration = 0.000000;
-			  b single_player = true;
-			  b single_shot = false;
-			  b start_active = true;
-			}
-		}
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,0;
-	  p position = 1.31381,0,0.855019,0x4e07d361;
-	}
-}
-[t:trigger_change_mood_box,n:0x00100003]
-{
-	[common]
-	{
-		[instance_triggers]
-		{
-			[*]
-			{
-				action* = mood_change("sunny-palms-island-b-quick");
-			  b can_self_destruct = true;
-				condition* = party_member_within_bounding_box(4.000000,1.000000,2.000000,"on_every_enter");
-			  f delay = 0.000000;
-			  b flip_flop = false;
-			  b multi_player = true;
-			  b no_trig_bits = false;
-				occupants_group = ;
-			  f reset_duration = 0.000000;
-			  b single_player = true;
-			  b single_shot = false;
-			  b start_active = true;
-			}
-		}
-	}
-	[placement]
-	{
-	  p position = -0.275558,-11.5433,-6.14906,0x89030643;
 	}
 }
