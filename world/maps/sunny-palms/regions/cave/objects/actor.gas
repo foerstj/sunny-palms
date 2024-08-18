@@ -1,0 +1,8 @@
+[t:mp_townfolk_m_05,n:0x00200b91]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.92388,0,0.382683;
+	  p position = 0.115282,0,-0.052995,0x78f67354;
+	}
+}
