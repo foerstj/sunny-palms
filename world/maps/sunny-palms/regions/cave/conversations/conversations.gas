@@ -1,0 +1,8 @@
+[crystals]
+{
+	[text*]
+	{
+		screen_text = "Aren't these crystals just super awesome! I could spend hours just looking at them! Sometimes I do.";
+	  f scroll_rate = 10.000000;
+	}
+}

@@ -1,5 +1,12 @@
 [t:mp_townfolk_m_05,n:0x001004c0]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = fishing;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -404,6 +411,13 @@
 }
 [t:mp_townfolk_f_06,n:0x001004bf]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = south_beach;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;

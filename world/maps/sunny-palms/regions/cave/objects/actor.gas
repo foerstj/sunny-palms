@@ -1,5 +1,12 @@
 [t:mp_townfolk_m_05,n:0x00200b91]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = crystals;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
