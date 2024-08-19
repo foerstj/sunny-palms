@@ -1,3 +1,28 @@
+[bar1]
+{
+	[text*]
+	{
+		screen_text = "Carving driftwood is a favorite pastime of mine. Each piece tells its own story.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[bar2]
+{
+	[text*]
+	{
+		screen_text = "I spent all morning crafting this seashell necklace. Isn’t it beautiful?";
+	  f scroll_rate = 10.000000;
+	}
+}
+[barkeep]
+{
+	[text*]
+	{
+		screen_text = "Welcome to the Three Saints Bar. It's named after the three saints statues here, of course.
+Fancy something to eat or drink? Have a look at the menu!";
+	  f scroll_rate = 10.000000;
+	}
+}
 [fishing]
 {
 	[text*]
@@ -19,6 +44,36 @@
 	  f scroll_rate = 10.000000;
 	}
 }
+[flowers]
+{
+	[text*]
+	{
+		screen_text = "The flowers bloom in a special way around here. Some say they have magical properties.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[gratitude]
+{
+	[text*]
+	{
+	  i order = 0;
+		screen_text = "Thanks for stopping by! It’s always nice to see a new face on the island.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "I’m so glad you’re here. Life’s simple, but full of little joys.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[midsummer]
+{
+	[text*]
+	{
+		screen_text = "We celebrate Midsummer with a big feast every year. You should join us if you're still around!";
+	  f scroll_rate = 10.000000;
+	}
+}
 [south_beach]
 {
 	[text*]
@@ -30,6 +85,82 @@
 	{
 	  i order = 1;
 		screen_text = "If you're looking to fish, the best spot is on the North Beach. The fish practically jump into your hands!";
+	  f scroll_rate = 10.000000;
+	}
+}
+[welcome1]
+{
+	[text*]
+	{
+		choice = more;
+	  i order = 0;
+		screen_text = "How nice to meet you, Visitor! Welcome to the Island of Sunny Palms!";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "Is it your first time visiting Sunny Palms? You should go for a walk around the island to see all the places and meet everyone! Most people will be here in the village, or down at the South Beach.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[welcome2]
+{
+	[text*]
+	{
+	  i order = 0;
+		screen_text = "Welcome to our peaceful little island. Make yourself at home!";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "I've lived on this island my whole life. There’s no place I'd rather be.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "Welcome to our peaceful little island. Make yourself at home!";
+	  f scroll_rate = 10.000000;
+	}
+}
+[west_cliff]
+{
+	[text*]
+	{
+	  i order = 0;
+		screen_text = "Nice view, huh? You should come here at sunset. The view is breathtaking!";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "The West Beach, as well as the East Beach, is not accessible. They are left alone for the birds and animals of the island. You can visit the North Beach and the South Beach, though. On the South Beach, there's the Three Saints Bar; the North Beach is more quiet.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[saints]
+{
+	[text*]
+	{
+		choice = more;
+	  i order = 0;
+		screen_text = "The Three Saints Bar is named after the three stone heads over here. We call them our saints.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		choice = more;
+	  i order = 1;
+		screen_text = "The saints were all built by our ancestors. The one on the mountain top is the newest one, it was built when I was a kid! There are sixteen saints altogether on Sunny Palms.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+	  i order = 2;
+		screen_text = "There are also two huge stone heads on this island, maybe you've seen them already? They are called the Guardian and the Dreamer. They were already there when our first ancestors arrived here. Naturally, a lot of legends are told about them, but it's all just stories. Nobody knows who made them.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "You should try the fish coconut curry, here, it's delicious!";
 	  f scroll_rate = 10.000000;
 	}
 }

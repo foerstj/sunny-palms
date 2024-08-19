@@ -124,6 +124,13 @@
 }
 [t:mp_townfolk_f_06,n:0x001004b9]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = gratitude;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -337,6 +344,13 @@
 }
 [t:mp_townfolk_f_06,n:0x001004bb]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = saints;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -348,6 +362,13 @@
 }
 [t:mp_townfolk_f_06,n:0x001004bc]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = bar1;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -360,6 +381,13 @@
 }
 [t:mp_townfolk_m_05,n:0x001004be]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = bar2;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -371,6 +399,13 @@
 }
 [t:mp_townfolk_m_05,n:0x001004bd]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = barkeep;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -615,6 +650,13 @@
 }
 [t:mp_townfolk_f_06,n:0x001004b6]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = west_cliff;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -627,6 +669,13 @@
 }
 [t:mp_townfolk_m_05,n:0x001004b7]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = midsummer;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -639,6 +688,13 @@
 }
 [t:mp_townfolk_m_05,n:0x001004b8]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = flowers;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -651,6 +707,13 @@
 }
 [t:mp_townfolk_f_06,n:0x001004b4]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = welcome1;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -663,6 +726,13 @@
 }
 [t:mp_townfolk_m_05,n:0x001004b5]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = welcome2;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
