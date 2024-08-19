@@ -99,12 +99,18 @@ When the first settlers, our ancestors, arrived on this island, they found these
 {
 	[text*]
 	{
+		choice = more;
+	  i order = 0;
 		screen_text = "Between the two Giants, there's a path leading up to a viewpoint over the South Beach. It's a perfect spot for a quiet moment.";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]
 	{
-		screen_text = "On clear nights, the sky is filled with stars. It’s like the universe is watching over us.";
+		choice = more;
+	  i order = 1;
+		screen_text = "The nights on this island are beautiful. There are all these fireflies just floating in the air, and when you've drunk a little Cocofenny you feel like you're walking amid the stars...
+Except for about one month a year, when they hatch into nasty bugs! I'm not kidding, Bug Season is dangerous! The young men go out hunting, the rest of us just stays at home until it's over.
+Then, about another month of dark nights. Then, new fireflies.";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]
@@ -117,7 +123,7 @@ When the first settlers, our ancestors, arrived on this island, they found these
 {
 	[text*]
 	{
-		screen_text = "We celebrate Midsummer with a big feast every year. You should join us if you're still around!";
+		screen_text = "About once a year, all the fireflies on this island hatch into big, biting bugs. It's called Bug Season. We go out hunting, it's great fun - you should join us if you're still around!";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -139,8 +145,9 @@ When the first settlers, our ancestors, arrived on this island, they found these
 	}
 	[text*]
 	{
+		choice = more;
 	  i order = 2;
-		screen_text = "There are also two huge stone heads on this island, maybe you've seen them already? They are called the Guardian and the Dreamer. They were already there when our first ancestors arrived here. Naturally, a lot of legends are told about them, but it's all just stories. Nobody knows who made them.";
+		screen_text = "There are also two huge stone heads on this island, maybe you've seen them already? They are called the Guardian and the Dreamer. They were already there when our first ancestors arrived here. Naturally, a lot of legends are told about them, but it's all just stories.";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]
@@ -188,12 +195,14 @@ When the first settlers, our ancestors, arrived on this island, they found these
 {
 	[text*]
 	{
+		choice = more;
 	  i order = 0;
 		screen_text = "Welcome to our peaceful little island. Make yourself at home!";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]
 	{
+	  i order = 1;
 		screen_text = "I've lived on this island my whole life. There’s no place I'd rather be.";
 	  f scroll_rate = 10.000000;
 	}
@@ -207,13 +216,14 @@ When the first settlers, our ancestors, arrived on this island, they found these
 {
 	[text*]
 	{
+		choice = more;
 	  i order = 0;
 		screen_text = "Nice view, huh? You should come here at sunset. The view is breathtaking!";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]
 	{
-		screen_text = "The West Beach, as well as the East Beach, is not accessible. They are left alone for the birds and animals of the island. You can visit the North Beach and the South Beach, though. On the South Beach, there's the Three Saints Bar; the North Beach is more quiet.";
+		screen_text = "The West Beach and the East Beach are not accessible. They are left alone for the birds and animals of the island. You can visit the North Beach and the South Beach, though. On the South Beach, there's the Three Saints Bar; the North Beach is more quiet.";
 	  f scroll_rate = 10.000000;
 	}
 }
