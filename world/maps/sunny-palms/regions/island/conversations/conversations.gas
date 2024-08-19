@@ -66,11 +66,86 @@ Fancy something to eat or drink? Have a look at the menu!";
 	  f scroll_rate = 10.000000;
 	}
 }
+[guardian]
+{
+	[text*]
+	{
+		choice = more;
+	  i order = 0;
+		screen_text = "This giant stone head is called the Guardian, because it guards us from all the dangerous things that might come across the water. That's why this island is so safe and peaceful...";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		choice = more;
+	  i order = 1;
+		screen_text = "There's a second one like this, just across this hill to the south, which is called the Dreamer. It dreams of peace and happiness, and these dreams radiate across the entire island.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+	  i order = 2;
+		screen_text = "Together, we call them the Giants.
+When the first settlers, our ancestors, arrived on this island, they found these Giants already here. They built temples around them to worship them, but the Giants apparently didn't like it, because one day there was an earthquake and the temples got destroyed...";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "The Guardian and the Dreamer are the reasons why our lives on Sunny Palms are so full of happiness. They don't want temples built for them, but when we pass by them on strolls around the island, we all like to stop by for a moment and give a silent prayer of thanks.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[house_cave]
+{
+	[text*]
+	{
+		screen_text = "Between the two Giants, there's a path leading up to a viewpoint over the South Beach. It's a perfect spot for a quiet moment.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "On clear nights, the sky is filled with stars. It’s like the universe is watching over us.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "The fish stew I made last night was a hit! I'll have to give you the recipe.";
+	  f scroll_rate = 10.000000;
+	}
+}
 [midsummer]
 {
 	[text*]
 	{
 		screen_text = "We celebrate Midsummer with a big feast every year. You should join us if you're still around!";
+	  f scroll_rate = 10.000000;
+	}
+}
+[saints]
+{
+	[text*]
+	{
+		choice = more;
+	  i order = 0;
+		screen_text = "The Three Saints Bar is named after the three stone heads over here. We call them our saints.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		choice = more;
+	  i order = 1;
+		screen_text = "The saints were all built by our ancestors. The one on the mountain top is the newest one, it was built when I was a kid! There are sixteen saints altogether on Sunny Palms.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+	  i order = 2;
+		screen_text = "There are also two huge stone heads on this island, maybe you've seen them already? They are called the Guardian and the Dreamer. They were already there when our first ancestors arrived here. Naturally, a lot of legends are told about them, but it's all just stories. Nobody knows who made them.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "You should try the fish coconut curry, here, it's delicious!";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -99,7 +174,13 @@ Fancy something to eat or drink? Have a look at the menu!";
 	}
 	[text*]
 	{
+	  i order = 1;
 		screen_text = "Is it your first time visiting Sunny Palms? You should go for a walk around the island to see all the places and meet everyone! Most people will be here in the village, or down at the South Beach.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "This island is a haven of peace. It's the perfect place to escape from the world.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -136,31 +217,17 @@ Fancy something to eat or drink? Have a look at the menu!";
 	  f scroll_rate = 10.000000;
 	}
 }
-[saints]
+[mountain]
 {
 	[text*]
 	{
-		choice = more;
 	  i order = 0;
-		screen_text = "The Three Saints Bar is named after the three stone heads over here. We call them our saints.";
+		screen_text = "Hey, found a way through that little thicket? Yeah the view is quite nice here, but you should continue upwards, you'll get to a great viewpoint above the South Beach!";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]
 	{
-		choice = more;
-	  i order = 1;
-		screen_text = "The saints were all built by our ancestors. The one on the mountain top is the newest one, it was built when I was a kid! There are sixteen saints altogether on Sunny Palms.";
-	  f scroll_rate = 10.000000;
-	}
-	[text*]
-	{
-	  i order = 2;
-		screen_text = "There are also two huge stone heads on this island, maybe you've seen them already? They are called the Guardian and the Dreamer. They were already there when our first ancestors arrived here. Naturally, a lot of legends are told about them, but it's all just stories. Nobody knows who made them.";
-	  f scroll_rate = 10.000000;
-	}
-	[text*]
-	{
-		screen_text = "You should try the fish coconut curry, here, it's delicious!";
+		screen_text = "Life on this island is so peaceful. I can't imagine living anywhere else.";
 	  f scroll_rate = 10.000000;
 	}
 }

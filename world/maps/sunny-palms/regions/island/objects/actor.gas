@@ -248,6 +248,13 @@
 }
 [t:mp_townfolk_m_05,n:0x001004c1]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = mountain;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -584,6 +591,13 @@
 }
 [t:mp_townfolk_f_06,n:0x001004c2]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = guardian;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
@@ -617,6 +631,13 @@
 }
 [t:mp_townfolk_f_06,n:0x001004ba]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = house_cave;
+		}
+	}
 	[mind]
 	{
 		jat_talk = world\ai\jobs\common\job_talk.skrit;
