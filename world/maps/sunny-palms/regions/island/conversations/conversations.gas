@@ -119,7 +119,7 @@ Then, about another month of dark nights. Then, new fireflies.";
 	  f scroll_rate = 10.000000;
 	}
 }
-[midsummer]
+[bug_season]
 {
 	[text*]
 	{

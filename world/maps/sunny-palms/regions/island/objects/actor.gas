@@ -1,4 +1,4 @@
-[t:mp_townfolk_m_05,n:0x001004c0]
+[t:sup_npc_fb_07,n:0x001004c0]
 {
 	[conversation]
 	{
@@ -6,10 +6,6 @@
 		{
 			* = fishing;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{
@@ -122,7 +118,7 @@
 	  p position = 1.37393,3.9769,2.78998,0x8d0288a0;
 	}
 }
-[t:mp_townfolk_f_06,n:0x001004b9]
+[t:sup_npc_fg_03,n:0x001004b9]
 {
 	[conversation]
 	{
@@ -130,10 +126,6 @@
 		{
 			* = gratitude;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{
@@ -550,7 +542,7 @@
 	  p position = 0.717086,0,-1.11505,0x2897bbe4;
 	}
 }
-[t:mp_townfolk_m_05,n:0x001004c1]
+[t:sup_npc_fb_08,n:0x001004c1]
 {
 	[conversation]
 	{
@@ -558,10 +550,6 @@
 		{
 			* = mountain;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{
@@ -669,7 +657,7 @@
 	  p position = -1.37542,-7.62939e-006,-1.07538,0x494b1189;
 	}
 }
-[t:mp_townfolk_f_06,n:0x001004bb]
+[t:sup_npc_fg_05,n:0x001004bb]
 {
 	[conversation]
 	{
@@ -678,16 +666,12 @@
 			* = saints;
 		}
 	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
-	}
 	[placement]
 	{
 	  p position = -2.84983,0,3.09928,0xc1ac8181;
 	}
 }
-[t:mp_townfolk_f_06,n:0x001004bc]
+[t:sup_npc_fg_06,n:0x001004bc]
 {
 	[conversation]
 	{
@@ -696,17 +680,13 @@
 			* = bar1;
 		}
 	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
-	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
 	  p position = 0.6642,0,2.80365,0xecfbd21f;
 	}
 }
-[t:mp_townfolk_m_05,n:0x001004be]
+[t:sup_npc_fb_06,n:0x001004be]
 {
 	[conversation]
 	{
@@ -715,16 +695,12 @@
 			* = bar2;
 		}
 	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
-	}
 	[placement]
 	{
 	  p position = 2.21836,0,1.05322,0xecfbd21f;
 	}
 }
-[t:mp_townfolk_m_05,n:0x001004bd]
+[t:sup_npc_fb_05,n:0x001004bd]
 {
 	[conversation]
 	{
@@ -732,10 +708,6 @@
 		{
 			* = barkeep;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{
@@ -771,7 +743,7 @@
 	  p position = 3.78246,0,1.47632,0x530578ee;
 	}
 }
-[t:mp_townfolk_f_06,n:0x001004bf]
+[t:sup_npc_fg_07,n:0x001004bf]
 {
 	[conversation]
 	{
@@ -779,10 +751,6 @@
 		{
 			* = south_beach;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{
@@ -909,7 +877,7 @@
 	  p position = 1.99232,-7.62939e-006,-1.47686,0x7ff66079;
 	}
 }
-[t:mp_townfolk_f_06,n:0x001004c2]
+[t:sup_npc_fg_08,n:0x001004c2]
 {
 	[conversation]
 	{
@@ -917,10 +885,6 @@
 		{
 			* = guardian;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{
@@ -949,7 +913,7 @@
 	  p position = 0.728182,0,0.432194,0x3f34a3c6;
 	}
 }
-[t:mp_townfolk_f_06,n:0x001004ba]
+[t:sup_npc_fg_04,n:0x001004ba]
 {
 	[conversation]
 	{
@@ -957,10 +921,6 @@
 		{
 			* = house_cave;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{
@@ -989,7 +949,7 @@
 	  p position = 3.56903,-7.62939e-006,-0.576126,0xd16f148f;
 	}
 }
-[t:mp_townfolk_f_06,n:0x001004b6]
+[t:sup_npc_fg_02,n:0x001004b6]
 {
 	[conversation]
 	{
@@ -998,28 +958,20 @@
 			* = west_cliff;
 		}
 	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
-	}
 	[placement]
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = -0.243343,0,1.41824,0xf3bfacf8;
 	}
 }
-[t:mp_townfolk_m_05,n:0x001004b7]
+[t:sup_npc_fb_03,n:0x001004b7]
 {
 	[conversation]
 	{
 		[conversations]
 		{
-			* = midsummer;
+			* = bug_season;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{
@@ -1027,7 +979,7 @@
 	  p position = 3.71314,0,0.992122,0x24e943af;
 	}
 }
-[t:mp_townfolk_m_05,n:0x001004b8]
+[t:sup_npc_fb_02,n:0x001004b8]
 {
 	[conversation]
 	{
@@ -1036,17 +988,13 @@
 			* = flowers;
 		}
 	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
-	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
 	  p position = 0.422409,0,0.223476,0x24e943af;
 	}
 }
-[t:mp_townfolk_f_06,n:0x001004b4]
+[t:sup_npc_fg_01,n:0x001004b4]
 {
 	[conversation]
 	{
@@ -1055,17 +1003,13 @@
 			* = welcome1;
 		}
 	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
-	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
 	  p position = -1.63208,-1.90735e-006,0.430214,0x088be2c5;
 	}
 }
-[t:mp_townfolk_m_05,n:0x001004b5]
+[t:sup_npc_fb_01,n:0x001004b5]
 {
 	[conversation]
 	{
@@ -1073,10 +1017,6 @@
 		{
 			* = welcome2;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{

@@ -1,4 +1,4 @@
-[t:mp_townfolk_m_05,n:0x00200b91]
+[t:sup_npc_fb_04,n:0x00200b91]
 {
 	[conversation]
 	{
@@ -6,10 +6,6 @@
 		{
 			* = crystals;
 		}
-	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
 	}
 	[placement]
 	{

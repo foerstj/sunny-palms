@@ -1,0 +1,120 @@
+[t:template,n:sup_npc_fg_base]
+{
+	specializes = base_npc_fg_multiplayer;
+
+	category_name = "1W_townsperson";
+	doc = "sunny palms resident f";
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_07;
+			1 = b_c_pos_a1_061;
+		}
+	}
+	[common]
+	{
+		screen_name = "Townsperson";
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
+}
+
+[t:template,n:sup_npc_fg_01]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_07;
+			1 = b_c_pos_a1_061;
+		}
+	}
+}
+[t:template,n:sup_npc_fg_02]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_07;
+			1 = b_c_pos_a1_061;
+		}
+	}
+}
+[t:template,n:sup_npc_fg_03]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_07;
+			1 = b_c_pos_a1_061;
+		}
+	}
+}
+[t:template,n:sup_npc_fg_04]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_07;
+			1 = b_c_pos_a1_061;
+		}
+	}
+}
+[t:template,n:sup_npc_fg_05]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_07;
+			1 = b_c_pos_a1_061;
+		}
+	}
+}
+[t:template,n:sup_npc_fg_06]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_07;
+			1 = b_c_pos_a1_061;
+		}
+	}
+}
+[t:template,n:sup_npc_fg_07]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_07;
+			1 = b_c_pos_a1_061;
+		}
+	}
+}
+[t:template,n:sup_npc_fg_08]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_07;
+			1 = b_c_pos_a1_061;
+		}
+	}
+}
