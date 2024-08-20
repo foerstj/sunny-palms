@@ -14458,6 +14458,30 @@
 	  p position = 2.01894,0,0.0601481,0xa739e21a;
 	}
 }
+[t:trough_grs_fish,n:0x001004e7]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.569545,0,0.82196;
+	  p position = -1.76506,9.53674e-007,-0.273697,0x71d24a80;
+	}
+}
+[t:stool_glb_01,n:0x001004e9]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.480549,0,0.876968;
+	  p position = -2.18462,-1.90735e-006,1.30843,0x71d24a80;
+	}
+}
+[t:bucket_grs_01,n:0x001004e8]
+{
+	[placement]
+	{
+	  q orientation = 0,0.982711,0,0.185148;
+	  p position = 1.50702,-9.53674e-007,1.86405,0xd96ec720;
+	}
+}
 [t:seashell_glb_01,n:0x0010007d]
 {
 	[aspect]
@@ -14536,6 +14560,14 @@
 	{
 	  q orientation = 0,0.935362,0,0.353692;
 	  p position = -0.80419,-13.6243,-35.6512,0xa9380d0f;
+	}
+}
+[t:clothesline_glb,n:0x001004e6]
+{
+	[placement]
+	{
+	  q orientation = 0.197421,-0.136611,-0.0277938,-0.970356;
+	  p position = -1.82629,-15.1703,-36.6351,0xa9380d0f;
 	}
 }
 [t:seashell_glb_01,n:0x0010006a]
@@ -52089,6 +52121,14 @@
 	{
 	  q orientation = 0,-0.493527,0,0.86973;
 	  p position = 5.33043,-5,6.30462,0x9d00da23;
+	}
+}
+[t:dog_sleeping_mp,n:0x001004ed]
+{
+	[placement]
+	{
+	  q orientation = 0,0.0705409,0,0.997509;
+	  p position = -2.10575,-3,-5.90506,0x9d00da23;
 	}
 }
 [t:flowers_grs_red,n:0x0010c04d]
@@ -164446,6 +164486,14 @@
 	  p position = 3.98031,0,-0.0910975,0xc1ac8181;
 	}
 }
+[t:dog_sleeping_mp,n:0x001004ee]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.157562,0,0.987509;
+	  p position = 3.72186,0,0.076931,0xecfbd21f;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010eb80]
 {
 	[aspect]
@@ -231839,6 +231887,14 @@
 	  p position = -0.193888,-6.67572e-006,-1.06588,0xbc7d4541;
 	}
 }
+[t:dog_mp,n:0x001004eb]
+{
+	[placement]
+	{
+	  q orientation = 0,0.146522,0,0.989207;
+	  p position = -0.0985355,0,1.44423,0xc22dbd31;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e98a]
 {
 	[aspect]
@@ -232269,6 +232325,14 @@
 	{
 	  q orientation = 0,0.995792,0,0.09164;
 	  p position = -2.36631,-6.67572e-006,-2.47357,0x9c71217d;
+	}
+}
+[t:dog_mp,n:0x001004ec]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.103948,0,0.994583;
+	  p position = -0.584462,0,-0.782301,0x088be2c5;
 	}
 }
 [t:flowers_grs_red,n:0x0010c9c7]
