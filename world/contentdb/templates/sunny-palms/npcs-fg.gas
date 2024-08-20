@@ -1,6 +1,6 @@
 [t:template,n:sup_npc_fg_base]
 {
-	specializes = base_npc_fg_multiplayer;
+	specializes = base_npc_fg_talk;
 
 	category_name = "1W_townsperson";
 	doc = "sunny palms resident f";
