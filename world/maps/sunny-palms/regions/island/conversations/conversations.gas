@@ -127,6 +127,27 @@ Then, about another month of dark nights. Then, new fireflies.";
 	  f scroll_rate = 10.000000;
 	}
 }
+[mountain]
+{
+	[text*]
+	{
+		choice = more;
+	  i order = 0;
+		screen_text = "Hey, found a way through that little thicket? Yeah the view is quite nice here, but you should continue upwards, you'll get to a great viewpoint above the South Beach!";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+	  i order = 1;
+		screen_text = "Don't worry about the cows, they're the most peaceful of all animals. You should take the upper path to reach the top, though.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "Life on this island is so peaceful. I can't imagine living anywhere else.";
+	  f scroll_rate = 10.000000;
+	}
+}
 [saints]
 {
 	[text*]
@@ -224,20 +245,6 @@ Then, about another month of dark nights. Then, new fireflies.";
 	[text*]
 	{
 		screen_text = "The West Beach and the East Beach are not accessible. They are left alone for the birds and animals of the island. You can visit the North Beach and the South Beach, though. On the South Beach, there's the Three Saints Bar; the North Beach is more quiet.";
-	  f scroll_rate = 10.000000;
-	}
-}
-[mountain]
-{
-	[text*]
-	{
-	  i order = 0;
-		screen_text = "Hey, found a way through that little thicket? Yeah the view is quite nice here, but you should continue upwards, you'll get to a great viewpoint above the South Beach!";
-	  f scroll_rate = 10.000000;
-	}
-	[text*]
-	{
-		screen_text = "Life on this island is so peaceful. I can't imagine living anywhere else.";
 	  f scroll_rate = 10.000000;
 	}
 }
