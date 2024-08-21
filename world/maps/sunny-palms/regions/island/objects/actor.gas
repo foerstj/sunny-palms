@@ -958,6 +958,10 @@
 			* = west_cliff;
 		}
 	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_back=true;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
@@ -972,6 +976,10 @@
 		{
 			* = bug_season;
 		}
+	}
+	[mind]
+	{
+	  b actor_auto_fidgets = false;
 	}
 	[placement]
 	{
@@ -988,6 +996,10 @@
 			* = flowers;
 		}
 	}
+	[mind]
+	{
+	  b actor_auto_fidgets = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
@@ -1003,6 +1015,11 @@
 			* = welcome1;
 		}
 	}
+	[mind]
+	{
+	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_back=true;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -1017,6 +1034,11 @@
 		{
 			* = welcome2;
 		}
+	}
+	[mind]
+	{
+	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_back=true;
 	}
 	[placement]
 	{
