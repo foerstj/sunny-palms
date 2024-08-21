@@ -9,7 +9,7 @@
 		[textures]
 		{
 			0 = b_c_gah_fb_skin_27;
-			1 = b_c_pos_a1_061;
+			1 = b_c_pos_a1_008;
 		}
 	}
 	[common]
@@ -19,6 +19,13 @@
 	[mind]
 	{
 		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit;
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			//es_feet = bo_bo_le_light;
+		}
 	}
 }
 
@@ -30,7 +37,7 @@
 		[textures]
 		{
 			0 = b_c_gah_fb_skin_27;
-			1 = b_c_pos_a1_061;
+			1 = b_c_pos_a1_008;
 		}
 	}
 }
@@ -41,8 +48,8 @@
 	{
 		[textures]
 		{
-			0 = b_c_gah_fb_skin_27;
-			1 = b_c_pos_a1_061;
+			0 = b_c_gah_fb_skin_03;
+			1 = b_c_pos_a1_008;
 		}
 	}
 }
@@ -53,8 +60,8 @@
 	{
 		[textures]
 		{
-			0 = b_c_gah_fb_skin_27;
-			1 = b_c_pos_a1_061;
+			0 = b_c_gah_fb_skin_04;
+			1 = b_c_pos_a1_008;
 		}
 	}
 }
@@ -65,8 +72,8 @@
 	{
 		[textures]
 		{
-			0 = b_c_gah_fb_skin_27;
-			1 = b_c_pos_a1_061;
+			0 = b_c_gah_fb_skin_05;
+			1 = b_c_pos_a1_008;
 		}
 	}
 }
@@ -77,8 +84,8 @@
 	{
 		[textures]
 		{
-			0 = b_c_gah_fb_skin_27;
-			1 = b_c_pos_a1_061;
+			0 = b_c_gah_fb_skin_08;
+			1 = b_c_pos_a1_008;
 		}
 	}
 }
@@ -89,8 +96,8 @@
 	{
 		[textures]
 		{
-			0 = b_c_gah_fb_skin_27;
-			1 = b_c_pos_a1_061;
+			0 = b_c_gah_fb_skin_16;
+			1 = b_c_pos_a1_008;
 		}
 	}
 }
@@ -101,8 +108,8 @@
 	{
 		[textures]
 		{
-			0 = b_c_gah_fb_skin_27;
-			1 = b_c_pos_a1_061;
+			0 = b_c_gah_fb_skin_22;
+			1 = b_c_pos_a1_008;
 		}
 	}
 }
@@ -113,8 +120,8 @@
 	{
 		[textures]
 		{
-			0 = b_c_gah_fb_skin_27;
-			1 = b_c_pos_a1_061;
+			0 = b_c_gah_fb_skin_01;
+			1 = b_c_pos_a1_008;
 		}
 	}
 }
