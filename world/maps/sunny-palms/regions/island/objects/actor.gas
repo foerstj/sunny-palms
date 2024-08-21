@@ -666,9 +666,15 @@
 			* = saints;
 		}
 	}
+	[mind]
+	{
+	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_player=false&talk_anim=;
+	}
 	[placement]
 	{
-	  p position = -2.84983,0,3.09928,0xc1ac8181;
+	  q orientation = 0,1,0,0;
+	  p position = 2.79515,0,3.84166,0xecfbd21f;
 	}
 }
 [t:sup_npc_fg_06,n:0x001004bc]
@@ -680,24 +686,15 @@
 			* = bar1;
 		}
 	}
+	[mind]
+	{
+	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_player=false&talk_anim=;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
-	  p position = 0.6642,0,2.80365,0xecfbd21f;
-	}
-}
-[t:sup_npc_fb_06,n:0x001004be]
-{
-	[conversation]
-	{
-		[conversations]
-		{
-			* = bar2;
-		}
-	}
-	[placement]
-	{
-	  p position = 2.21836,0,1.05322,0xecfbd21f;
+	  p position = 1.85837,0,2.89156,0xecfbd21f;
 	}
 }
 [t:sup_npc_fb_05,n:0x001004bd]
@@ -709,10 +706,34 @@
 			* = barkeep;
 		}
 	}
+	[mind]
+	{
+	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_player=false&talk_anim=;
+	}
 	[placement]
 	{
-	  q orientation = 0,1,0,-1.66939e-007;
-	  p position = -0.436325,-1.75,-5.37848,0x2db45ccb;
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 3.60536,0,2.9117,0xecfbd21f;
+	}
+}
+[t:sup_npc_fb_06,n:0x001004be]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = bar2;
+		}
+	}
+	[mind]
+	{
+	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_player=false&talk_anim=;
+	}
+	[placement]
+	{
+	  p position = 2.79379,0,1.98827,0xecfbd21f;
 	}
 }
 [t:gecko,n:0x0010049c]
@@ -958,10 +979,6 @@
 			* = west_cliff;
 		}
 	}
-	[mind]
-	{
-		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_back=true;
-	}
 	[placement]
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
@@ -980,6 +997,7 @@
 	[mind]
 	{
 	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_back=true;
 	}
 	[placement]
 	{
@@ -999,6 +1017,7 @@
 	[mind]
 	{
 	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_back=true;
 	}
 	[placement]
 	{
@@ -1015,11 +1034,6 @@
 			* = welcome1;
 		}
 	}
-	[mind]
-	{
-	  b actor_auto_fidgets = false;
-		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_back=true;
-	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -1034,11 +1048,6 @@
 		{
 			* = welcome2;
 		}
-	}
-	[mind]
-	{
-	  b actor_auto_fidgets = false;
-		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_back=true;
 	}
 	[placement]
 	{

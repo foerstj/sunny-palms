@@ -11,17 +11,56 @@
 	  p position = 2.35543,-4.92892,-7.26085,0x5f8fe175;
 	}
 }
-[t:cmd_animation_command,n:0x001004ea]
+[t:cmd_animation_command,n:0x001004fe]
 {
 	[cmd_animation_command]
 	{
-	  i animation = 1952541803;
-	  x client_scid = 0x001004B4;
+	  i animation = 1936290865;
+	  x client_scid = 0x001004BB;
 	  b initially_active = true;
 	}
 	[placement]
 	{
-	  p position = 3.1156,0,-0.0686522,0x16cdf04f;
+	  p position = -2.56643,0,2.70729,0xc1ac8181;
+	}
+}
+[t:cmd_animation_command,n:0x001004fc]
+{
+	[cmd_animation_command]
+	{
+	  i animation = 1936290865;
+	  x client_scid = 0x001004BE;
+	  b initially_active = true;
+	}
+	[placement]
+	{
+	  p position = 2.70109,0,0.530152,0xecfbd21f;
+	}
+}
+[t:cmd_animation_command,n:0x001004fd]
+{
+	[cmd_animation_command]
+	{
+	  i animation = 1936290865;
+	  x client_scid = 0x001004BC;
+	  b initially_active = true;
+	}
+	[placement]
+	{
+	  p position = 0.456008,-9.53674e-007,2.87326,0xecfbd21f;
+	}
+}
+[t:cmd_animation_command,n:0x001004fb]
+{
+	[cmd_animation_command]
+	{
+	  i animation = 1936290867;
+	  x client_scid = 0x001004BD;
+	  b initially_active = true;
+	}
+	[placement]
+	{
+	  p position = -0.733281,-1.75,-4.94736,0x2db45ccb;
 	}
 }
 [t:cmd_animation_command,n:0x001004f1]
@@ -35,18 +74,5 @@
 	[placement]
 	{
 	  p position = -0.892442,-3.33786e-006,1.98439,0x24e943af;
-	}
-}
-[t:cmd_animation_command,n:0x001004ef]
-{
-	[cmd_animation_command]
-	{
-	  i animation = 1952541803;
-	  x client_scid = 0x001004B5;
-	  b initially_active = true;
-	}
-	[placement]
-	{
-	  p position = 1.16744,0,-0.631888,0x25cb6818;
 	}
 }

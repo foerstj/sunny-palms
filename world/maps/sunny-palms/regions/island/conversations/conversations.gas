@@ -18,8 +18,29 @@
 {
 	[text*]
 	{
+		choice = more;
+	  i order = 0;
 		screen_text = "Welcome to the Three Saints Bar. It's named after the three saints statues here, of course.
-Fancy something to eat or drink? Have a look at the menu!";
+Fancy something to eat or drink?";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		choice = more;
+	  i order = 1;
+		screen_text = "On the menu today is grilled fish, fish coconut curry, coconut pie, some salad, and eggs.
+We also still have some dried bug meat from last bug season, if you want to try.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+	  i order = 2;
+		screen_text = "For drinks we have fresh water, homemade lemonade, coffee, wine, and our specialty Cocofenny schnapps.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "Welcome to the Three Saints Bar!";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -173,7 +194,7 @@ Then, about another month of dark nights. Then, new fireflies.";
 	}
 	[text*]
 	{
-		screen_text = "You should try the fish coconut curry, here, it's delicious!";
+		screen_text = "You should try the fish coconut curry here, it's delicious!";
 	  f scroll_rate = 10.000000;
 	}
 }
