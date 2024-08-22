@@ -1,5 +1,4 @@
-:: This script is supposed to be executed from your DS installation folder.
-:: TankCreator is expected to be in a sibling dir.
+:: This script requires environment variables DungeonSiege, TankCreator and GasPy to be set.
 
 :: map name, lowercase
 set map=sunny-palms

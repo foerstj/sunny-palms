@@ -1,4 +1,4 @@
-:: This script is supposed to be executed from your DS installation folder.
+:: This script requires environment variable DungeonSiege to be set.
 
 :: map name, case sensitive
 set map_cs=Sunny Palms
