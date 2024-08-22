@@ -14,6 +14,12 @@
 	0x0010050b = t_xxx_cnr_tee-04-08-12-r;
 	0x0010050c = t_xxx_cnr_tee-08-04-12-l;
 	0x0010050d = t_xxx_cnr_tee-08-04-12-r;
+	0x00100529 = t_xxx_dgn_deep_08x04;
+	0x0010052b = t_xxx_dgn_deep_ccav;
+	0x0010052c = t_xxx_dgn_deep_cnvx;
+	0x0010052e = t_xxx_dgn_deep_stair-l;
+	0x00100530 = t_xxx_dgn_deep_thick;
+	0x00100531 = t_xxx_dgn_deep_thin;
 	0x00100623 = t_xxx_flr_04x04-v0;
 	0x00100627 = t_xxx_flr_04x08-v0;
 	0x00100628 = t_xxx_flr_08x08-v0;

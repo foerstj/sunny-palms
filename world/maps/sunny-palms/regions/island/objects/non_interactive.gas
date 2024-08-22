@@ -1450,8 +1450,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.92125,0,-0.38897;
-	  p position = 1.99938,-7.45058e-009,1.47517,0x6ee5ebd9;
+	  q orientation = 0,0.38897,0,0.92125;
+	  p position = -0.550746,-4.47035e-007,-0.92205,0x2b3af5f3;
 	}
 }
 [t:flowers_grs_red,n:0x0010ce35]
@@ -1466,8 +1466,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-0.697812,0,0.716281;
-	  p position = 0.0457535,0,-0.325508,0x6ee5ebd9;
+	  q orientation = 0,0.716281,0,0.697812;
+	  p position = 1.40288,-4.76837e-007,0.878629,0x2b3af5f3;
 	}
 }
 [t:foliage_grs_01,n:0x0010e00f]
@@ -1755,7 +1755,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.34532,0,0.938485;
-	  p position = 0.420813,-5.00001,-7.5343,0xe7e6efa1;
+	  p position = 0.491959,-1.00136e-005,1.65723,0xde70c895;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e461]
@@ -35323,8 +35323,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-0.18496,0,0.982746;
-	  p position = 1.9884,0,1.12823,0x4fa3c07b;
+	  q orientation = 0,0.982746,0,0.18496;
+	  p position = -1.24686,4.76837e-007,1.20909,0x600e032c;
 	}
 }
 [t:butterfly_mp,n:0x00100241]
@@ -35335,24 +35335,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.994319,0,0.106439;
-	  p position = 2.16117,0,-1.56411,0x4fa3c07b;
-	}
-}
-[t:tree_glb_palm_sway_02,n:0x0010e386]
-{
-	[aspect]
-	{
-	  f scale_multiplier = 0.801047;
-	}
-	[common]
-	{
-		dev_instance_text = "gaspy sunny-palms";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.830955,0,-0.556339;
-	  p position = -2.79832,0,1.65943,0x4fa3c07b;
+	  q orientation = 0,0.627826,0,0.778354;
+	  p position = 1.37186,6.85453e-007,0.512552,0x9f0bcba9;
 	}
 }
 [t:flowers_grs_red,n:0x0010b170]
@@ -251212,5 +251196,21 @@
 	{
 	  q orientation = 0,0.789792,0,-0.613375;
 	  p position = -2.40471,0,-1.3433,0xaa05f65d;
+	}
+}
+[t:tree_glb_palm_sway_02,n:0x0010e386]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.801047;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.980965,0,0.194183;
+	  p position = 3.89608,1.16229e-006,0.93689,0x9f0bcba9;
 	}
 }
