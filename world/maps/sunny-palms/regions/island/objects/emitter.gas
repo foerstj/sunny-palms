@@ -4166,18 +4166,6 @@
 	  p position = 2.78957,0,-2.66951,0xba3d082a;
 	}
 }
-[t:emt_glowworms_nightly,n:0x001003fc]
-{
-	[common]
-	{
-		dev_instance_text = "gaspy sunny-palms";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.573272,0,0.819365;
-	  p position = -1.89958,0,-0.71237,0x266e1b2a;
-	}
-}
 [t:emt_sound_crickets_nightly,n:0x00100423]
 {
 	[common]
@@ -4824,5 +4812,17 @@
 	{
 	  q orientation = 0,0.318839,0,0.947809;
 	  p position = -3.30162,0,-0.552164,0x30aea30b;
+	}
+}
+[t:emt_glowworms_nightly,n:0x001003fc]
+{
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.573272,0,0.819365;
+	  p position = 1.63408,0,-0.717957,0x39795ba5;
 	}
 }
