@@ -32,6 +32,7 @@ if %errorlevel% neq 0 pause
 
 :: Compile resource file
 rmdir /S /Q "%tmp%\Bits"
+robocopy "%bits%\art" "%tmp%\Bits\art" /E
 robocopy "%bits%\world\ai" "%tmp%\Bits\world\ai" /E
 robocopy "%bits%\world\contentdb\components\minibits" "%tmp%\Bits\world\contentdb\components\minibits" /E
 robocopy "%bits%\world\contentdb\templates\%map%" "%tmp%\Bits\world\contentdb\templates\%map%" /E
