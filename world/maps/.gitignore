@@ -1,2 +1,4 @@
-/multiplayer_world
-/sunny-palms-test
+# ignore all subfolders...
+/*/
+# ...except sunny-palms
+!/sunny-palms/
