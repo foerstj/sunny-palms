@@ -946,7 +946,7 @@
 	[placement]
 	{
 	  q orientation = 0,1,0,-1.66939e-007;
-	  p position = -6.3761,-4.65,-4.19593,0xfed4d168;
+	  p position = -4.67918,-4.65,-4.89192,0x76048d97;
 	}
 }
 [t:gecko,n:0x00100493]

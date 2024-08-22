@@ -239830,8 +239830,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.884905,0,0.465771;
-	  p position = 1.77373,0,-1.67527,0xcf481468;
+	  q orientation = 0,0.955072,0,-0.296373;
+	  p position = 6.41104,-4.65,3.29625,0x76048d97;
 	}
 }
 [t:tree_glb_palm_sway_02,n:0x0010e7dc]
@@ -239846,8 +239846,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.628658,0,-0.777682;
-	  p position = -0.5898,0,-0.77507,0xcf481468;
+	  q orientation = 0,0.105376,0,0.994432;
+	  p position = 7.31124,-4.65,5.65977,0x76048d97;
 	}
 }
 [t:flowers_grs_red,n:0x0010bbeb]
