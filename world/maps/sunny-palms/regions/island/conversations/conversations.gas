@@ -10,7 +10,7 @@
 {
 	[text*]
 	{
-		screen_text = "I spent all morning crafting this seashell necklace. Isn’t it beautiful?";
+		screen_text = "I spent all morning crafting this seashell necklace. Isn't it beautiful?";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -41,6 +41,14 @@ We also still have some dried bug meat from last bug season, if you want to try.
 	[text*]
 	{
 		screen_text = "Welcome to the Three Saints Bar!";
+	  f scroll_rate = 10.000000;
+	}
+}
+[bug_season]
+{
+	[text*]
+	{
+		screen_text = "About once a year, all the fireflies on this island hatch into big, biting bugs. It's called Bug Season. We go out hunting, it's great fun - you should join us if you're still around!";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -78,12 +86,12 @@ We also still have some dried bug meat from last bug season, if you want to try.
 	[text*]
 	{
 	  i order = 0;
-		screen_text = "Thanks for stopping by! It’s always nice to see a new face on the island.";
+		screen_text = "Thanks for stopping by! It's always nice to see a new face on the island.";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]
 	{
-		screen_text = "I’m so glad you’re here. Life’s simple, but full of little joys.";
+		screen_text = "I'm so glad you're here. Life's simple, but full of little joys.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -140,14 +148,6 @@ Then, about another month of dark nights. Then, new fireflies.";
 	  f scroll_rate = 10.000000;
 	}
 }
-[bug_season]
-{
-	[text*]
-	{
-		screen_text = "About once a year, all the fireflies on this island hatch into big, biting bugs. It's called Bug Season. We go out hunting, it's great fun - you should join us if you're still around!";
-	  f scroll_rate = 10.000000;
-	}
-}
 [mountain]
 {
 	[text*]
@@ -166,6 +166,78 @@ Then, about another month of dark nights. Then, new fireflies.";
 	[text*]
 	{
 		screen_text = "Life on this island is so peaceful. I can't imagine living anywhere else.";
+	  f scroll_rate = 10.000000;
+	}
+}
+[pool1]
+{
+	[text*]
+	{
+		screen_text = "The water's perfect today! I could float here all afternoon.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "This pool is a hidden gem! The water's always so clear and inviting.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "The sun's out, the water's warm - what more could you ask for?";
+	  f scroll_rate = 10.000000;
+	}
+}
+[pool2]
+{
+	[text*]
+	{
+		screen_text = "I'm working on my tan. Just a few more minutes and I'll be golden!";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "I remember learning to swim right here in this pool. So many good memories.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "Such a beautiful day for a swim, don't you think?";
+	  f scroll_rate = 10.000000;
+	}
+}
+[pool_hammock]
+{
+	[text*]
+	{
+		screen_text = "The view from the pool is just stunning. The ocean looks so close, doesn't it?";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "I love how the palm trees sway in the breeze. It's like they're dancing just for us.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "Isn't it funny how time just seems to slow down when you're at the pool?";
+	  f scroll_rate = 10.000000;
+	}
+}
+[pool_reading]
+{
+	[text*]
+	{
+		screen_text = "Nothing beats lounging by the pool with a good book. Care to join me?";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "Nothing like a cold drink by the pool. Care for a taste?";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		screen_text = "I could listen to the sound of the water all day. It's so calming.";
 	  f scroll_rate = 10.000000;
 	}
 }
@@ -245,7 +317,7 @@ Then, about another month of dark nights. Then, new fireflies.";
 	[text*]
 	{
 	  i order = 1;
-		screen_text = "I've lived on this island my whole life. There’s no place I'd rather be.";
+		screen_text = "I've lived on this island my whole life. There's no place I'd rather be.";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]

@@ -1,5 +1,12 @@
 [t:sup_npc_fb_10,n:0x001004ef]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = pool2;
+		}
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
@@ -8,6 +15,13 @@
 }
 [t:sup_npc_fg_10,n:0x001004ff]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = pool1;
+		}
+	}
 	[placement]
 	{
 	  q orientation = 0,1,0,-6.46033e-009;
@@ -896,9 +910,17 @@
 }
 [t:sup_npc_fg_09,n:0x001004fa]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = pool_reading;
+		}
+	}
 	[mind]
 	{
 	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_player=false&talk_anim=;
 	}
 	[placement]
 	{
@@ -908,9 +930,17 @@
 }
 [t:sup_npc_fb_09,n:0x001004ea]
 {
+	[conversation]
+	{
+		[conversations]
+		{
+			* = pool_hammock;
+		}
+	}
 	[mind]
 	{
 	  b actor_auto_fidgets = false;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?face_player=false&talk_anim=;
 	}
 	[placement]
 	{
