@@ -1,5 +1,9 @@
 [t:sup_npc_fb_10,n:0x001004ef]
 {
+	[common]
+	{
+		screen_name = "Emmanuel";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -15,6 +19,10 @@
 }
 [t:sup_npc_fg_10,n:0x001004ff]
 {
+	[common]
+	{
+		screen_name = "Nazareth";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -51,6 +59,10 @@
 }
 [t:sup_npc_fg_03,n:0x001004b9]
 {
+	[common]
+	{
+		screen_name = "Aijalon";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -475,6 +487,10 @@
 }
 [t:sup_npc_fb_08,n:0x001004c1]
 {
+	[common]
+	{
+		screen_name = "Jonathan";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -590,6 +606,10 @@
 }
 [t:sup_npc_fg_05,n:0x001004bb]
 {
+	[common]
+	{
+		screen_name = "Adriel";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -610,6 +630,10 @@
 }
 [t:sup_npc_fg_06,n:0x001004bc]
 {
+	[common]
+	{
+		screen_name = "Pamphylia";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -630,6 +654,10 @@
 }
 [t:sup_npc_fb_05,n:0x001004bd]
 {
+	[common]
+	{
+		screen_name = "Laban";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -650,6 +678,10 @@
 }
 [t:sup_npc_fb_06,n:0x001004be]
 {
+	[common]
+	{
+		screen_name = "Jarmuth";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -697,6 +729,10 @@
 }
 [t:sup_npc_fg_07,n:0x001004bf]
 {
+	[common]
+	{
+		screen_name = "Elasah";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -782,6 +818,10 @@
 }
 [t:sup_npc_fb_07,n:0x001004c0]
 {
+	[common]
+	{
+		screen_name = "Pagiel";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -881,6 +921,10 @@
 }
 [t:sup_npc_fg_04,n:0x001004ba]
 {
+	[common]
+	{
+		screen_name = "Eliane";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -910,6 +954,10 @@
 }
 [t:sup_npc_fg_09,n:0x001004fa]
 {
+	[common]
+	{
+		screen_name = "Jarah";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -930,6 +978,10 @@
 }
 [t:sup_npc_fb_09,n:0x001004ea]
 {
+	[common]
+	{
+		screen_name = "Enan";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -956,6 +1008,10 @@
 }
 [t:sup_npc_fg_02,n:0x001004b6]
 {
+	[common]
+	{
+		screen_name = "Junia";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -971,6 +1027,10 @@
 }
 [t:sup_npc_fb_03,n:0x001004b7]
 {
+	[common]
+	{
+		screen_name = "Demas";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -991,6 +1051,10 @@
 }
 [t:sup_npc_fb_02,n:0x001004b8]
 {
+	[common]
+	{
+		screen_name = "Rufus";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -1011,6 +1075,10 @@
 }
 [t:sup_npc_fg_01,n:0x001004b4]
 {
+	[common]
+	{
+		screen_name = "Jada";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -1026,6 +1094,10 @@
 }
 [t:sup_npc_fb_01,n:0x001004b5]
 {
+	[common]
+	{
+		screen_name = "Reuben";
+	}
 	[conversation]
 	{
 		[conversations]
@@ -1118,6 +1190,10 @@
 }
 [t:sup_npc_fg_08,n:0x001004c2]
 {
+	[common]
+	{
+		screen_name = "Elia";
+	}
 	[conversation]
 	{
 		[conversations]

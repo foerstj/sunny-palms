@@ -1,5 +1,9 @@
 [t:sup_npc_fb_04,n:0x00200b91]
 {
+	[common]
+	{
+		screen_name = "Abiel";
+	}
 	[conversation]
 	{
 		[conversations]
