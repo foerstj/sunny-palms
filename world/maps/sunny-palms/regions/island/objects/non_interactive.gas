@@ -93939,6 +93939,13 @@
 	  p position = -2.0487,0,-1.30219,0xbe7b9a37;
 	}
 }
+[t:firepit_glb_03,n:0x00100525]
+{
+	[placement]
+	{
+	  p position = 3.21412,1.90735e-006,-1.30247,0xbe7b9a37;
+	}
+}
 [t:flowers_grs_red,n:0x0010b4ae]
 {
 	[aspect]
@@ -138054,6 +138061,25 @@
 	  p position = -2.84306,0,3.78749,0xc1ac8181;
 	}
 }
+[t:brazier_glb_brass_01,n:0x0010051e]
+{
+	[light_flicker_lightweight]
+	{
+	  f magnitude = 0.05;
+	  x siege_light = 0xA9B7A163;
+	}
+	[placement]
+	{
+	  p position = 0.346771,0,0.429611,0xc1ac8181;
+	}
+}
+[t:candlestand_csl_01,n:0x00100522]
+{
+	[placement]
+	{
+	  p position = -3.828,0.821244,0.100082,0xc1ac8181;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e423]
 {
 	[aspect]
@@ -138100,6 +138126,26 @@
 	  p position = 1.3658,0,2.96796,0xecfbd21f;
 	}
 }
+[t:brazier_glb_brass_01,n:0x0010051d]
+{
+	[light_flicker_lightweight]
+	{
+	  f magnitude = 0.05;
+	  x siege_light = 0xD95135B8;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -0.877365,0,-3.65677,0xecfbd21f;
+	}
+}
+[t:candlestand_csl_01,n:0x00100520]
+{
+	[placement]
+	{
+	  p position = 2.71289,0.819631,2.84572,0xecfbd21f;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010eb80]
 {
 	[aspect]
@@ -138129,6 +138175,49 @@
 	{
 	  q orientation = 0,1,0,-1.49012e-007;
 	  p position = -0.866562,-1.75,-5.99734,0x2db45ccb;
+	}
+}
+[t:candlestand_csl_01,n:0x00100521]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 5.63289,-0.927095,-5.83592,0x2db45ccb;
+	}
+}
+[t:candlestand_csl_03,n:0x00100523]
+{
+	[placement]
+	{
+	  p position = 3.16197,-0.269601,-2.72586,0x2db45ccb;
+	}
+}
+[t:candlestand_csl_03,n:0x00100524]
+{
+	[placement]
+	{
+	  p position = -2.90964,-0.234553,-2.77451,0x2db45ccb;
+	}
+}
+[t:furnace_glb,n:0x00100526]
+{
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -0.349579,-1.75,2.68764,0x2db45ccb;
+	}
+}
+[t:wood_glb_pile_fireplace_burnt,n:0x00100527]
+{
+	[light_flicker_lightweight]
+	{
+	  f magnitude = 0.05;
+	  x siege_light = 0x1805DC26;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 0.226563,-1.15968,3.14325,0x2db45ccb;
 	}
 }
 [t:flowers_grs_red,n:0x0010bac9]
