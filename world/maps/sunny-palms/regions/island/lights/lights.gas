@@ -21,6 +21,48 @@
 		  f z = -2.710358;
 		}
 	}
+	[t:point,n:light_0x1279d717]
+	{
+	  b active = true;
+	  b affects_actors = true;
+	  b affects_items = true;
+	  b affects_terrain = true;
+	  x color = 0xFFFFFFA8;
+	  b draw_shadow = false;
+	  f inner_radius = 0.000000;
+	  f intensity = 1.000000;
+	  b occlude_geometry = false;
+	  b on_timer = false;
+	  f outer_radius = 10.000000;
+		[position]
+		{
+		  x node = 0xBE7B9A37;
+		  f x = 3.195465;
+		  f y = 2.882483;
+		  f z = -0.877720;
+		}
+	}
+	[t:point,n:light_0x12eea3ac]
+	{
+	  b active = true;
+	  b affects_actors = true;
+	  b affects_items = true;
+	  b affects_terrain = true;
+	  x color = 0xFFFFFFA8;
+	  b draw_shadow = false;
+	  f inner_radius = 0.000000;
+	  f intensity = 1.000000;
+	  b occlude_geometry = false;
+	  b on_timer = false;
+	  f outer_radius = 5.000000;
+		[position]
+		{
+		  x node = 0xC16F5E36;
+		  f x = 2.040344;
+		  f y = -0.817938;
+		  f z = -4.100761;
+		}
+	}
 	[t:point,n:light_0x17669a36]
 	{
 	  b active = true;
@@ -187,6 +229,27 @@
 		  f x = 3.458304;
 		  f y = 0.443960;
 		  f z = 1.547222;
+		}
+	}
+	[t:point,n:light_0x66aeea14]
+	{
+	  b active = true;
+	  b affects_actors = true;
+	  b affects_items = true;
+	  b affects_terrain = true;
+	  x color = 0xFFFFFFA8;
+	  b draw_shadow = false;
+	  f inner_radius = 0.000000;
+	  f intensity = 1.000000;
+	  b occlude_geometry = false;
+	  b on_timer = false;
+	  f outer_radius = 5.000000;
+		[position]
+		{
+		  x node = 0x9D00DA23;
+		  f x = 2.023977;
+		  f y = -0.709882;
+		  f z = -3.760208;
 		}
 	}
 	[t:point,n:light_0x68eac0dc]
@@ -441,6 +504,27 @@
 		  f z = 0.117462;
 		}
 	}
+	[t:point,n:light_0xd88468da]
+	{
+	  b active = true;
+	  b affects_actors = true;
+	  b affects_items = true;
+	  b affects_terrain = true;
+	  x color = 0xFFFFFFA8;
+	  b draw_shadow = false;
+	  f inner_radius = 0.000000;
+	  f intensity = 1.000000;
+	  b occlude_geometry = false;
+	  b on_timer = false;
+	  f outer_radius = 5.000000;
+		[position]
+		{
+		  x node = 0xB498D3B9;
+		  f x = 1.904110;
+		  f y = -0.817938;
+		  f z = -3.755476;
+		}
+	}
 	[t:point,n:light_0xd95135b8]
 	{
 	  b active = true;
@@ -460,6 +544,48 @@
 		  f x = -0.643890;
 		  f y = 1.626707;
 		  f z = -3.641693;
+		}
+	}
+	[t:point,n:light_0xdfc9b92d]
+	{
+	  b active = true;
+	  b affects_actors = true;
+	  b affects_items = true;
+	  b affects_terrain = true;
+	  x color = 0xFFFFFFA8;
+	  b draw_shadow = false;
+	  f inner_radius = 0.000000;
+	  f intensity = 1.000000;
+	  b occlude_geometry = false;
+	  b on_timer = false;
+	  f outer_radius = 5.000000;
+		[position]
+		{
+		  x node = 0x5F8FE175;
+		  f x = 1.920162;
+		  f y = -0.817938;
+		  f z = -3.550301;
+		}
+	}
+	[t:point,n:light_0xe8ff8c8b]
+	{
+	  b active = true;
+	  b affects_actors = true;
+	  b affects_items = true;
+	  b affects_terrain = true;
+	  x color = 0xFFFFFFA8;
+	  b draw_shadow = false;
+	  f inner_radius = 0.000000;
+	  f intensity = 1.000000;
+	  b occlude_geometry = false;
+	  b on_timer = false;
+	  f outer_radius = 5.000000;
+		[position]
+		{
+		  x node = 0x76048D97;
+		  f x = -3.366917;
+		  f y = -0.511593;
+		  f z = -2.980743;
 		}
 	}
 	[t:point,n:light_0xebca4a4b]
@@ -504,6 +630,27 @@
 		  f z = 1.725243;
 		}
 	}
+	[t:point,n:light_0xf917273c]
+	{
+	  b active = true;
+	  b affects_actors = true;
+	  b affects_items = true;
+	  b affects_terrain = true;
+	  x color = 0xFFFFFFA8;
+	  b draw_shadow = false;
+	  f inner_radius = 0.000000;
+	  f intensity = 1.000000;
+	  b occlude_geometry = false;
+	  b on_timer = false;
+	  f outer_radius = 10.000000;
+		[position]
+		{
+		  x node = 0xB71354A4;
+		  f x = -1.981216;
+		  f y = 2.250357;
+		  f z = 0.100685;
+		}
+	}
 	[t:point,n:light_0xfb60a947]
 	{
 	  b active = true;
@@ -523,6 +670,27 @@
 		  f x = 3.562471;
 		  f y = 3.152925;
 		  f z = 0.072433;
+		}
+	}
+	[t:point,n:light_0xfbd2b927]
+	{
+	  b active = true;
+	  b affects_actors = true;
+	  b affects_items = true;
+	  b affects_terrain = true;
+	  x color = 0xFFFFFFA8;
+	  b draw_shadow = false;
+	  f inner_radius = 0.000000;
+	  f intensity = 1.000000;
+	  b occlude_geometry = false;
+	  b on_timer = false;
+	  f outer_radius = 5.000000;
+		[position]
+		{
+		  x node = 0x76048D97;
+		  f x = 1.958569;
+		  f y = -0.978140;
+		  f z = -5.018127;
 		}
 	}
 	[t:point,n:light_0xfc58dadb]
