@@ -3,10 +3,10 @@
 	[t:start_group,n:default]
 	{
 	  b default = true;
-		description = "This is the default group.";
+		description = "The peaceful island of Sunny Palms.";
 	  b dev_only = false;
 	  i id = 0;
-		screen_name = "";
+		screen_name = "Sunny Palms";
 		[start_position]
 		{
 		  i id = 1;
@@ -17,6 +17,90 @@
 			  f distance = 20.000000;
 			  f orbit = 0.000000;
 				position = 0.000000,0.450000,0.000000,0xAFCA8FF0;
+			}
+		}
+		[start_position]
+		{
+		  i id = 2;
+			position = -1.200000,0.450000,1.200000,0xAFCA8FF0;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -1.200000,0.450000,1.200000,0xAFCA8FF0;
+			}
+		}
+		[start_position]
+		{
+		  i id = 3;
+			position = 0.000000,0.450000,1.200000,0xAFCA8FF0;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 0.000000,0.450000,1.200000,0xAFCA8FF0;
+			}
+		}
+		[start_position]
+		{
+		  i id = 4;
+			position = 1.200000,0.450000,1.200000,0xAFCA8FF0;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 1.200000,0.450000,1.200000,0xAFCA8FF0;
+			}
+		}
+		[start_position]
+		{
+		  i id = 5;
+			position = -1.200000,0.450000,0.000000,0xAFCA8FF0;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -1.200000,0.450000,0.000000,0xAFCA8FF0;
+			}
+		}
+		[start_position]
+		{
+		  i id = 6;
+			position = 1.200000,0.450000,0.000000,0xAFCA8FF0;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 1.200000,0.450000,0.000000,0xAFCA8FF0;
+			}
+		}
+		[start_position]
+		{
+		  i id = 7;
+			position = -1.200000,0.450000,-1.200000,0xAFCA8FF0;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -1.200000,0.450000,-1.200000,0xAFCA8FF0;
+			}
+		}
+		[start_position]
+		{
+		  i id = 8;
+			position = 1.200000,0.450000,-1.200000,0xAFCA8FF0;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 1.200000,0.450000,-1.200000,0xAFCA8FF0;
 			}
 		}
 		[world_levels]
