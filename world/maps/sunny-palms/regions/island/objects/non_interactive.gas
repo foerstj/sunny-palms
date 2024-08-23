@@ -210133,6 +210133,29 @@
 	  p position = -1.24686,4.76837e-007,1.20909,0x600e032c;
 	}
 }
+[t:bed_glb_fort_02,n:0x00100501]
+{
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = -0.152458,0,0.78133,0x600e032c;
+	}
+}
+[t:bed_glb_fort_01,n:0x001004f9]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = -2.76173,0,0.241177,0x5cbaec4f;
+	}
+}
+[t:bed_glb_hammock,n:0x00100500]
+{
+	[placement]
+	{
+	  p position = 1.5955,0,-0.247723,0x5cbaec4f;
+	}
+}
 [t:tree_glb_palm_sway_02,n:0x0010e8a3]
 {
 	[aspect]

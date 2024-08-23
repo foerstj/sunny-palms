@@ -118,3 +118,27 @@
 		}
 	}
 }
+[t:template,n:sup_npc_fg_09]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_25;
+			1 = b_c_pos_a1_008;
+		}
+	}
+}
+[t:template,n:sup_npc_fg_10]
+{
+    specializes = sup_npc_fg_base;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_16;
+			1 = b_c_pos_a1_l023;
+		}
+	}
+}

@@ -63,6 +63,32 @@
 	  p position = -0.733281,-1.75,-4.94736,0x2db45ccb;
 	}
 }
+[t:cmd_animation_command,n:0x00100504]
+{
+	[cmd_animation_command]
+	{
+	  i animation = 1936290865;
+	  x client_scid = 0x001004FA;
+	  b initially_active = true;
+	}
+	[placement]
+	{
+	  p position = -1.15769,0,0.0911916,0x600e032c;
+	}
+}
+[t:cmd_animation_command,n:0x00100503]
+{
+	[cmd_animation_command]
+	{
+	  i animation = 1650811959;
+	  x client_scid = 0x001004EA;
+	  b initially_active = true;
+	}
+	[placement]
+	{
+	  p position = 1.4407,0,-1.80397,0x5cbaec4f;
+	}
+}
 [t:cmd_animation_command,n:0x001004f1]
 {
 	[cmd_animation_command]
