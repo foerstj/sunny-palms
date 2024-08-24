@@ -1,0 +1,36 @@
+[t:meat_bone,n:0x001005bc]
+{
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.172146,0,0.985072;
+	  p position = -0.702896,-1.17665,2.79892,0x2db45ccb;
+	}
+}
+[t:meat_bone,n:0x001005bd]
+{
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.170316,0,-0.985389;
+	  p position = -0.931915,-1.17665,2.57811,0x2db45ccb;
+	}
+}
+[t:meat_bone,n:0x001005be]
+{
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.132552,0,0.991176;
+	  p position = -1.23502,-1.17665,2.55209,0x2db45ccb;
+	}
+}
