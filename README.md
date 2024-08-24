@@ -9,7 +9,7 @@ This map does not contain any enemies, shops or loot. It's just a pretty little 
 
 It's also a demo map that allowed me to try out a few things.\
 Firstly, this island is a 2:1 scale replica of the Eastern Island from the Utraean Peninsula map.\
-And secondly, the plants are completely auto-generated, placed randomly using a Perlin distribution, on the hand-crafted terrain.\
+And secondly, the plants are completely auto-generated, placed randomly using a Perlin distribution, on the hand-crafted terrain.
 
 ## Installation & Compatibility
 - This map does not require LoA.
