@@ -142119,22 +142119,6 @@
 	  p position = 0.841586,0,1.90072,0xde82046d;
 	}
 }
-[t:flowers_grs_red,n:0x0010b2bb]
-{
-	[aspect]
-	{
-	  f scale_multiplier = 2.00716;
-	}
-	[common]
-	{
-		dev_instance_text = "gaspy sunny-palms";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.920226,0,-0.391387;
-	  p position = 0.11506,0,0.379622,0xde82046d;
-	}
-}
 [t:flowers_grs_red,n:0x0010b3dd]
 {
 	[aspect]
@@ -252162,6 +252146,22 @@
 	{
 	  q orientation = 0,0.924912,0,0.380182;
 	  p position = 2.19999,0,1.28164,0x76d4c4c7;
+	}
+}
+[t:flowers_grs_red,n:0x0010b2bb]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 2.00716;
+	}
+	[common]
+	{
+		dev_instance_text = "gaspy sunny-palms";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.927451,0,0.373946;
+	  p position = -1.61748,0,-0.163605,0xf1df8f60;
 	}
 }
 [t:foliage_grs_01,n:0x0010d9a7]
