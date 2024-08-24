@@ -20,3 +20,4 @@ And secondly, the plants are completely auto-generated, placed randomly using a 
 
 ## Attribution
 - The pool terrain was made by Sadowson.
+- Textures of the bathers are taken from GirlArmor and CutieGirl mods.
