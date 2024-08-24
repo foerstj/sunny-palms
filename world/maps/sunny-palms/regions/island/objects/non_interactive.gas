@@ -1,9 +1,13 @@
 [t:planter_csl_01,n:0x00100579]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
-	  q orientation = 0,-0.916167,0,0.400796;
-	  p position = 0.155684,0.45,-1.27947,0xafca8ff0;
+	  q orientation = 0,0.720889,0,0.69305;
+	  p position = -0.00146903,0.45,-1.08233,0xafca8ff0;
 	}
 }
 [t:flowers_grs_red,n:0x0010bf4e]
@@ -1525,6 +1529,10 @@
 }
 [t:planter_csl_02,n:0x001005de]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.995789,0,0.0916763;
@@ -1545,6 +1553,10 @@
 }
 [t:planter_csl_01,n:0x001005dd]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.102275,0,0.994756;
@@ -1553,6 +1565,10 @@
 }
 [t:planter_csl_02,n:0x001005df]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.993724,0,0.111857;
@@ -1561,6 +1577,10 @@
 }
 [t:planter_csl_02,n:0x001005e0]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.232952,0,0.972488;
@@ -1850,6 +1870,10 @@
 }
 [t:planter_csl_01,n:0x001005d7]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.471948,0,0.881626;
@@ -1858,6 +1882,10 @@
 }
 [t:planter_csl_01,n:0x001005d5]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.568224,0,0.822874;
@@ -1866,6 +1894,10 @@
 }
 [t:planter_csl_01,n:0x001005d6]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.509117,0,0.860697;
@@ -4459,6 +4491,10 @@
 }
 [t:planter_csl_01,n:0x001005db]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.627496,0,0.77862;
@@ -4467,6 +4503,10 @@
 }
 [t:planter_csl_01,n:0x001005ed]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.101532,0,0.994832;
@@ -4475,6 +4515,10 @@
 }
 [t:planter_csl_02,n:0x001005f4]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.592286,0,0.805727;
@@ -4483,6 +4527,10 @@
 }
 [t:planter_csl_02,n:0x001005f5]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.98973,0,0.142952;
@@ -4507,6 +4555,10 @@
 }
 [t:planter_csl_01,n:0x00100624]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.196144,0,0.980575;
@@ -4515,6 +4567,10 @@
 }
 [t:planter_csl_01,n:0x00100625]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.30445,0,0.952528;
@@ -4523,6 +4579,10 @@
 }
 [t:planter_csl_02,n:0x00100626]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.92555,0,0.378626;
@@ -6119,6 +6179,10 @@
 }
 [t:planter_csl_01,n:0x001005d4]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.0588228,0,0.998268;
@@ -6127,6 +6191,10 @@
 }
 [t:planter_csl_02,n:0x001005f2]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.541552,0,0.840667;
@@ -6135,6 +6203,10 @@
 }
 [t:planter_csl_02,n:0x001005f3]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.877149,0,0.480219;
@@ -6159,6 +6231,10 @@
 }
 [t:planter_csl_02,n:0x00100627]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.708425,0,0.705786;
@@ -6167,6 +6243,10 @@
 }
 [t:planter_csl_01,n:0x00100628]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.990981,0,0.134004;
@@ -26145,6 +26225,10 @@
 }
 [t:planter_csl_02,n:0x001005f6]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.891585,0,0.452854;
@@ -26153,6 +26237,10 @@
 }
 [t:planter_csl_02,n:0x001005f7]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.422496,0,0.906365;
@@ -26161,6 +26249,10 @@
 }
 [t:planter_csl_02,n:0x001005f8]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.387932,0,0.921688;
@@ -26169,6 +26261,10 @@
 }
 [t:planter_csl_02,n:0x001005f9]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.905613,0,0.424105;
@@ -26177,6 +26273,10 @@
 }
 [t:planter_csl_02,n:0x001005fa]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.125558,0,0.992086;
@@ -26185,6 +26285,10 @@
 }
 [t:planter_csl_02,n:0x001005fb]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.599979,0,0.800016;
@@ -26193,6 +26297,10 @@
 }
 [t:planter_csl_02,n:0x001005fc]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.427182,0,0.904166;
@@ -26201,6 +26309,10 @@
 }
 [t:planter_csl_02,n:0x001005fd]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.583693,0,0.811975;
@@ -26209,6 +26321,10 @@
 }
 [t:planter_csl_02,n:0x001005fe]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.237728,0,0.971332;
@@ -26233,6 +26349,10 @@
 }
 [t:planter_csl_02,n:0x00100621]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.909207,0,0.416344;
@@ -26241,6 +26361,10 @@
 }
 [t:planter_csl_02,n:0x00100622]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.986949,0,0.161031;
@@ -26249,6 +26373,10 @@
 }
 [t:planter_csl_01,n:0x00100623]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.988605,0,0.150533;
@@ -26289,6 +26417,10 @@
 }
 [t:planter_csl_02,n:0x001005ff]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.780817,0,0.62476;
@@ -26297,6 +26429,10 @@
 }
 [t:planter_csl_02,n:0x00100600]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.561343,0,0.827583;
@@ -90595,6 +90731,10 @@
 }
 [t:planter_csl_02,n:0x001005e8]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.280902,0,0.959736;
@@ -90619,6 +90759,10 @@
 }
 [t:planter_csl_02,n:0x001005e5]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.016797,0,0.999859;
@@ -90627,6 +90771,10 @@
 }
 [t:planter_csl_02,n:0x001005e9]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.849374,0,0.527791;
@@ -90635,6 +90783,10 @@
 }
 [t:planter_csl_02,n:0x001005e6]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.845822,0,0.533466;
@@ -90643,6 +90795,10 @@
 }
 [t:planter_csl_02,n:0x001005e7]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.555876,0,0.831265;
@@ -139307,40 +139463,36 @@
 	  p position = -3.65988,-0.251093,1.9577,0x2db45ccb;
 	}
 }
-[t:planter_csl_01,n:0x001005a7]
-{
-	[placement]
-	{
-	  q orientation = 0,-0.432859,0,0.901462;
-	  p position = 3.83495,-1.75,-4.00845,0x2db45ccb;
-	}
-}
 [t:planter_csl_01,n:0x001005a8]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.37623,0,0.926526;
-	  p position = 2.45667,-1.75,-3.88345,0x2db45ccb;
+	  p position = 3.11049,-1.75,-3.95328,0x2db45ccb;
 	}
 }
 [t:planter_csl_01,n:0x001005a9]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.113938,0,0.993488;
-	  p position = -2.4967,-1.75,-3.8289,0x2db45ccb;
-	}
-}
-[t:planter_csl_01,n:0x001005aa]
-{
-	[placement]
-	{
-	  q orientation = 0,-0.352466,0,0.935825;
-	  p position = -3.96478,-1.75,-4.0575,0x2db45ccb;
+	  p position = -3.3084,-1.75,-3.81798,0x2db45ccb;
 	}
 }
 [t:planter_csl_02,n:0x001005ab]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.667874,0,0.744275;
@@ -139349,6 +139501,10 @@
 }
 [t:planter_csl_02,n:0x001005ac]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.982498,0,0.186272;
@@ -139357,6 +139513,10 @@
 }
 [t:planter_csl_02,n:0x001005ad]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.630712,0,0.776017;
@@ -139365,6 +139525,10 @@
 }
 [t:planter_csl_02,n:0x001005ae]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.841361,0,0.540473;
@@ -145244,6 +145408,10 @@
 }
 [t:planter_csl_02,n:0x001005ea]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.134298,0,0.990941;
@@ -145252,6 +145420,10 @@
 }
 [t:planter_csl_02,n:0x001005eb]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.775403,0,0.631467;
@@ -145260,6 +145432,10 @@
 }
 [t:planter_csl_02,n:0x001005ec]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.282731,0,0.959199;
@@ -163844,6 +164020,10 @@
 }
 [t:planter_csl_01,n:0x001005f1]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.341339,0,0.93994;
@@ -163868,6 +164048,10 @@
 }
 [t:planter_csl_01,n:0x001005ee]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.469168,0,0.883109;
@@ -163876,6 +164060,10 @@
 }
 [t:planter_csl_01,n:0x001005ef]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.0436122,0,0.999049;
@@ -200519,6 +200707,10 @@
 }
 [t:planter_csl_01,n:0x00100603]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.894596,0,0.446876;
@@ -200527,6 +200719,10 @@
 }
 [t:planter_csl_01,n:0x00100604]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.646488,0,0.762924;
@@ -200535,6 +200731,10 @@
 }
 [t:planter_csl_01,n:0x00100605]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.837215,0,0.546874;
@@ -200543,6 +200743,10 @@
 }
 [t:planter_csl_01,n:0x00100606]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.0697896,0,0.997562;
@@ -200551,6 +200755,10 @@
 }
 [t:planter_csl_01,n:0x00100607]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.721967,0,0.691928;
@@ -200559,6 +200767,10 @@
 }
 [t:planter_csl_01,n:0x00100608]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.875452,0,0.483305;
@@ -200583,6 +200795,10 @@
 }
 [t:planter_csl_01,n:0x0010061b]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.965969,0,0.258657;
@@ -200591,6 +200807,10 @@
 }
 [t:planter_csl_01,n:0x0010061c]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.95751,0,0.288401;
@@ -200599,6 +200819,10 @@
 }
 [t:planter_csl_02,n:0x0010061e]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.179227,0,0.983808;
@@ -200815,6 +201039,10 @@
 }
 [t:planter_csl_01,n:0x00100609]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.870937,0,0.491395;
@@ -200823,6 +201051,10 @@
 }
 [t:planter_csl_01,n:0x0010060a]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.38394,0,0.923358;
@@ -200831,6 +201063,10 @@
 }
 [t:planter_csl_02,n:0x0010060b]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.276176,0,0.961107;
@@ -200839,6 +201075,10 @@
 }
 [t:planter_csl_02,n:0x0010060c]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.940213,0,0.340587;
@@ -200847,6 +201087,10 @@
 }
 [t:planter_csl_02,n:0x0010060d]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.493642,0,0.869665;
@@ -200855,6 +201099,10 @@
 }
 [t:planter_csl_02,n:0x0010060e]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.833003,0,0.553269;
@@ -200863,6 +201111,10 @@
 }
 [t:planter_csl_02,n:0x0010060f]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.185314,0,0.982679;
@@ -200871,6 +201123,10 @@
 }
 [t:planter_csl_02,n:0x00100610]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.719952,0,0.694024;
@@ -200895,6 +201151,10 @@
 }
 [t:planter_csl_01,n:0x0010061d]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.861872,0,0.507127;
@@ -200903,6 +201163,10 @@
 }
 [t:planter_csl_02,n:0x0010061f]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.993704,0,0.112036;
@@ -200911,6 +201175,10 @@
 }
 [t:planter_csl_02,n:0x00100620]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.667722,0,0.744411;
@@ -212049,6 +212317,10 @@
 }
 [t:planter_csl_01,n:0x001005d8]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.0956403,0,0.995416;
@@ -212057,6 +212329,10 @@
 }
 [t:planter_csl_01,n:0x001005da]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.738667,0,0.67407;
@@ -212065,6 +212341,10 @@
 }
 [t:planter_csl_01,n:0x001005dc]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.0219065,0,0.99976;
@@ -212073,6 +212353,10 @@
 }
 [t:planter_csl_01,n:0x001005d9]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.371345,0,0.928495;
@@ -212081,6 +212365,10 @@
 }
 [t:planter_csl_02,n:0x001005e1]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.0521531,0,0.998639;
@@ -212089,6 +212377,10 @@
 }
 [t:planter_csl_02,n:0x001005e2]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.166832,0,0.985985;
@@ -212097,6 +212389,10 @@
 }
 [t:planter_csl_02,n:0x001005e3]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.661987,0,0.749515;
@@ -218960,6 +219256,10 @@
 }
 [t:planter_csl_01,n:0x001005e4]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.970644,0,0.240519;
@@ -245938,6 +246238,10 @@
 }
 [t:planter_csl_01,n:0x001005f0]
 {
+	[aspect]
+	{
+	  b does_block_path = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.708744,0,0.705466;
