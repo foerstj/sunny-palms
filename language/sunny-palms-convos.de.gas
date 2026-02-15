@@ -229,4 +229,64 @@ Wir haben auch noch etwas getrocknetes Käferfleisch von der letzten Käferzeit,
 		from = "You should try the fish coconut curry here, it's delicious!";
 		to = "Du solltest hier das Fisch-Kokosnuss-Curry probieren, es ist köstlich!";
 	}
+
+	// mountain
+	[0x0000]
+	{
+		from = "Hey, found a way through that little thicket? Yeah the view is quite nice here, but you should continue upwards, you'll get to a great viewpoint above the South Beach!";
+		to = "Hey, hast du einen Weg durch dieses Dickicht gefunden? Ja, die Aussicht ist ganz hübsch hier, aber du solltest noch weiter hoch, da gibt es einen tollen Aussichtspunkt über dem Südstrand!";
+	}
+	[0x0000]
+	{
+		from = "Don't worry about the cows, they're the most peaceful of all animals. You should take the upper path to reach the top, though.";
+		to = "Keine Angst vor den Kühen, das sind die friedlichsten Tiere die's gibt. Zum Aussichtspunkt geht es allerdings weiter oben lang.";
+	}
+	[0x0000]
+	{
+		from = "Life on this island is so peaceful. I can't imagine living anywhere else.";
+		to = "Das Leben auf dieser Insel ist so friedlich. Ich kann mir nicht vorstellen irgendwo anders zu leben.";
+	}
+
+	// guardian
+	[0x0000]
+	{
+		from = "This giant stone head is called the Guardian, because it guards us from all the dangerous things that might come across the water. That's why this island is so safe and peaceful...";
+		to = "Dieser riesige Steinkopf heißt der Wächter, weil er uns vor allen Gefahren, die übers Wasser kommen könnten, bewahrt. Deswegen ist diese Insel so sicher und friedlich...";
+	}
+	[0x0000]
+	{
+		from = "There's a second one like this, just across this hill to the south, which is called the Dreamer. It dreams of peace and happiness, and these dreams radiate across the entire island.";
+		to = "Es gibt einen zweiten wie diesen, gerade über den Hügel in Richtung Süden, der der Träumer genannt wird. Er träumt von Frieden und Glück, und diese Träume strahlen über die gesamte Insel.";
+	}
+	[0x0000]
+	{
+		from = "Together, we call them the Giants.
+When the first settlers, our ancestors, arrived on this island, they found these Giants already here. They built temples around them to worship them, but the Giants apparently didn't like it, because one day there was an earthquake and the temples got destroyed...";
+		to = "Zusammen nennen wir sie die Riesen.
+Als die ersten Siedler, unsere Vorfahren, auf dieser Insel ankamen, fanden sie diese Riesen bereits hier vor. Sie haben Temple um sie herum erbaut um sie anzubeten, aber den Riesen gefiel das wohl nicht, denn eines Tages gab es ein Erdbeben und die Tempel waren zerstört...";
+	}
+	[0x0000]
+	{
+		from = "The Guardian and the Dreamer are the reasons why our lives on Sunny Palms are so full of happiness. They don't want temples built for them, but when we pass by them on strolls around the island, we all like to stop by for a moment and give a silent prayer of thanks.";
+		to = "Der Wächter und der Träumer sind der Grund für unsere glücklichen Leben hier auf Sunny Palms. Sie wollen keine Tempel haben, aber wenn wir auf Spaziergängen an ihnen vorbeikommen, halten wir alle gerne kurz an für ein kurzes stilles Dankgebet.";
+	}
+
+	// fishing
+	[0x0000]
+	{
+		from = "Mornin'! Nice day for fishin', ain't it!";
+		to = "Morgen! Toller Tag zum Angeln, oder!";
+	}
+	[0x0000]
+	{
+		from = "I was up early to catch the fish today. The waters have been bountiful this season.";
+		to = "Ich bin heute früh aufgestanden um Fisch zu fangen. Das Meer war voll von ihnen dieses Jahr.";
+	}
+
+	// crystals
+	[0x0000]
+	{
+		from = "Aren't these crystals just super awesome! I could spend hours just looking at them! Sometimes I do.";
+		to = "Sind diese Kristalle nicht der absolute Hammer! Ich könnte sie stundenlang anstarren! Manchmal mache ich das auch.";
+	}
 }
