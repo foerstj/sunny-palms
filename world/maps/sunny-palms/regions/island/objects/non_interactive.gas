@@ -99509,78 +99509,6 @@
 	  p position = 3.40509,0,-1.71039,0x87911c65;
 	}
 }
-[t:cow_brown_mp,n:0x001004c9]
-{
-	[common]
-	{
-		screen_name = "Margaret";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.714215,0,0.699926;
-	  p position = -1.02626,0,1.23447,0x77657054;
-	}
-}
-[t:cow_brown_mp,n:0x001004c4]
-{
-	[common]
-	{
-		screen_name = "Petunia";
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.812233,0,0.583334;
-	  p position = -0.856827,0,1.03444,0xc8dd8377;
-	}
-}
-[t:cow_brown_mp,n:0x001004c5]
-{
-	[common]
-	{
-		screen_name = "Barbara";
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.990074,0,0.140548;
-	  p position = -1.73312,0,-2.83324,0xc8dd8377;
-	}
-}
-[t:cow_brown_mp,n:0x001004c7]
-{
-	[common]
-	{
-		screen_name = "Bertha";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.918335,0,0.395804;
-	  p position = 0.35614,0,0.0727539,0xe0bb4199;
-	}
-}
-[t:cow_brown_mp,n:0x001004c3]
-{
-	[common]
-	{
-		screen_name = "Roswitha";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.966405,0,0.257025;
-	  p position = -0.773273,0,0.254957,0x90bd2b37;
-	}
-}
-[t:cow_brown_mp,n:0x001004c6]
-{
-	[common]
-	{
-		screen_name = "Agatha";
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.728205,0,0.685359;
-	  p position = -2.56685,0,-2.20414,0x0c50aa7d;
-	}
-}
 [t:flowers_grs_red,n:0x0010b3cf]
 {
 	[aspect]
@@ -157956,18 +157884,6 @@
 	{
 	  q orientation = 0,0.499174,0,0.866502;
 	  p position = 0.966457,0,-0.511752,0xb8ad79ea;
-	}
-}
-[t:cow_brown_mp,n:0x001004c8]
-{
-	[common]
-	{
-		screen_name = "Luisa";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.886036,0,0.463616;
-	  p position = -3.99267,0,-0.222191,0x3af7ce53;
 	}
 }
 [t:flowers_grs_red,n:0x0010cf45]

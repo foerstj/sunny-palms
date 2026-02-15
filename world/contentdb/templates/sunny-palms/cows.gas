@@ -1,0 +1,16 @@
+[t:template,n:cow_brown_base]  // = cow_brown
+{
+	category_name = "1W_ambients";
+	doc = "cow_brown";
+	specializes = base_cow;
+	[aspect]
+	{
+		[textures] { 0=b_c_na_cw; }
+	}
+}
+[t:template,n:sup_cow]
+{
+	specializes = cow_brown_base;
+	common:is_multi_player = true;
+	aspect:is_selectable = true;
+}
