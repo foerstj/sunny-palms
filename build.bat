@@ -43,7 +43,7 @@ popd
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Maps\%map_cs%.dsmap" -copyright "%copyright%" -title "%map_cs%" -author "%author%"
 if %errorlevel% neq 0 pause
 
-:: Compile resource file
+:: Compile main resource file
 rmdir /S /Q "%tmp%\Bits"
 robocopy "%bits%\art" "%tmp%\Bits\art" /E
 robocopy "%bits%\world\ai" "%tmp%\Bits\world\ai" /E
@@ -53,6 +53,12 @@ robocopy "%bits%\world\contentdb\templates\minibits" "%tmp%\Bits\world\contentdb
 robocopy "%bits%\world\global\moods\%map%" "%tmp%\Bits\world\global\moods\%map%" /E
 robocopy "%bits%\world\global\effects" "%tmp%\Bits\world\global\effects" minibits-*
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%map_cs%.dsres" -copyright "%copyright%" -title "%map_cs%" -author "%author%"
+if %errorlevel% neq 0 pause
+
+:: Compile German language resource file
+rmdir /S /Q "%tmp%\Bits"
+robocopy "%bits%\language" "%tmp%\Bits\language" %map%-*.de.gas /S
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\Resources\%map_cs%.de.dsres" -copyright "%copyright%" -title "%map_cs%" -author "%author%"
 if %errorlevel% neq 0 pause
 
 :: Cleanup

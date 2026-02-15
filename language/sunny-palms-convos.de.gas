@@ -1,0 +1,31 @@
+[t:0x0407,n:text]
+{
+    // welcome1
+	[0x0000]
+	{
+		from = "How nice to meet you, Visitor! Welcome to the Island of Sunny Palms!";
+		to = "Wie schön dich kennenzulernen, Besucher! Willkommen auf der Insel Sunny Palms!";
+	}
+	[0x0000]
+	{
+		from = "Is it your first time visiting Sunny Palms? You should go for a walk around the island to see all the places and meet everyone! Most people will be here in the village, or down at the South Beach.";
+		to = "Ist dies dein erster Besuch auf Sunny Palms? Du solltest um die Insel herumspazieren und dir alles anschauen und die Leute treffen! Die meisten Leute sind hier im Dorf, oder unten am Südstrand.";
+	}
+	[0x0000]
+	{
+		from = "This island is a haven of peace. It's the perfect place to escape from the world.";
+		to = "Diese Insel ist ein friedlicher Ort. Perfekt um der Welt zu entkommen.";
+	}
+
+    // welcome2
+	[0x0000]
+	{
+		from = "Welcome to our peaceful little island. Make yourself at home!";
+		to = "Willkommen auf unserer friedlichen kleinen Insel. Fühl dich wie zu Hause!";
+	}
+	[0x0000]
+	{
+		from = "I've lived on this island my whole life. There's no place I'd rather be.";
+		to = "Ich lebe schon mein ganzes Leben lang auf dieser Insel. Es gibt keinen Ort an den ich lieber will.";
+	}
+}
