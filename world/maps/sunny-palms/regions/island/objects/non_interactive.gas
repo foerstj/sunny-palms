@@ -26146,6 +26146,10 @@
 }
 [t:dog_sleeping_mp,n:0x001004ed]
 {
+	[common]
+	{
+		screen_name = "Waldo";
+	}
 	[placement]
 	{
 	  q orientation = 0,0.0705409,0,0.997509;
@@ -99519,6 +99523,10 @@
 }
 [t:cow_brown_mp,n:0x001004c9]
 {
+	[common]
+	{
+		screen_name = "Margaret";
+	}
 	[placement]
 	{
 	  q orientation = 0,0.714215,0,0.699926;
@@ -99527,6 +99535,10 @@
 }
 [t:cow_brown_mp,n:0x001004c4]
 {
+	[common]
+	{
+		screen_name = "Petunia";
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.812233,0,0.583334;
@@ -99535,6 +99547,10 @@
 }
 [t:cow_brown_mp,n:0x001004c5]
 {
+	[common]
+	{
+		screen_name = "Barbara";
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.990074,0,0.140548;
@@ -99543,6 +99559,10 @@
 }
 [t:cow_brown_mp,n:0x001004c7]
 {
+	[common]
+	{
+		screen_name = "Bertha";
+	}
 	[placement]
 	{
 	  q orientation = 0,0.918335,0,0.395804;
@@ -99551,6 +99571,10 @@
 }
 [t:cow_brown_mp,n:0x001004c3]
 {
+	[common]
+	{
+		screen_name = "Roswitha";
+	}
 	[placement]
 	{
 	  q orientation = 0,0.966405,0,0.257025;
@@ -99559,6 +99583,10 @@
 }
 [t:cow_brown_mp,n:0x001004c6]
 {
+	[common]
+	{
+		screen_name = "Agatha";
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.728205,0,0.685359;
@@ -138961,6 +138989,10 @@
 }
 [t:dog_sleeping_mp,n:0x001004ee]
 {
+	[common]
+	{
+		screen_name = "Schnuffi";
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.157562,0,0.987509;
@@ -157952,6 +157984,10 @@
 }
 [t:cow_brown_mp,n:0x001004c8]
 {
+	[common]
+	{
+		screen_name = "Luisa";
+	}
 	[placement]
 	{
 	  q orientation = 0,0.886036,0,0.463616;
@@ -219500,6 +219536,10 @@
 }
 [t:dog_mp,n:0x001004eb]
 {
+	[common]
+	{
+		screen_name = "Glungus";
+	}
 	[placement]
 	{
 	  q orientation = 0,0.146522,0,0.989207;
@@ -219952,6 +219992,10 @@
 }
 [t:dog_mp,n:0x001004ec]
 {
+	[common]
+	{
+		screen_name = "Fiffi";
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.103948,0,0.994583;
