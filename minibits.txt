@@ -1,4 +1,5 @@
 dev/generic-talk-skrits
 dev/npc-fg-talk
+dev/xmas-tree
 landscape/dgn-pool
 landscape/glowworms
