@@ -28,4 +28,84 @@
 		from = "I've lived on this island my whole life. There's no place I'd rather be.";
 		to = "Ich lebe schon mein ganzes Leben lang auf dieser Insel. Es gibt keinen Ort an den ich lieber will.";
 	}
+
+    // west_cliff
+	[0x0000]
+	{
+		from = "Nice view, huh? You should come here at sunset. The view is breathtaking!";
+		to = "Hübsche Aussicht, was? Du solltest zum Sonnenuntergang hierherkommen. Der Anblick verschlägt einem den Atem!";
+	}
+	[0x0000]
+	{
+		from = "The West Beach and the East Beach are not accessible. They are left alone for the birds and animals of the island. You can visit the North Beach and the South Beach, though. On the South Beach, there's the Three Saints Bar; the North Beach is more quiet.";
+		to = "Der Weststrand und der Oststrand sind nicht zugänglich. Sie werden den Vögeln und Tieren der Insel überlassen. Du kannst jedoch den Nordstrand und den Südstrand besuchen. Am Südstrand liegt die Drei-Heiligen-Bar; der Nordstrand ist ruhiger.";
+	}
+
+	// pool1
+	[0x0000]
+	{
+		from = "The water's perfect today! I could float here all afternoon.";
+		to = "Das Wasser heute ist perfekt! Ich könnte den ganzen Nachmittag hier herumdümpeln.";
+	}
+	[0x0000]
+	{
+		from = "This pool is a hidden gem! The water's always so clear and inviting.";
+		to = "Dieser Pool ist ein verstecktes Juwel! Das Wasser ist immer so klar und einladend.";
+	}
+	[0x0000]
+	{
+		from = "The sun's out, the water's warm - what more could you ask for?";
+		to = "Die Sonne ist draußen, das Wasser ist warm - was will man mehr?";
+	}
+
+	// pool2
+	[0x0000]
+	{
+		from = "I'm working on my tan. Just a few more minutes and I'll be golden!";
+		to = "Ich arbeite an meinem Tan. Noch ein paar Minuten und ich bin golden!";
+	}
+	[0x0000]
+	{
+		from = "I remember learning to swim right here in this pool. So many good memories.";
+		to = "Ich weiß noch wie ich hier in diesem Pool Schwimmen gelernt habe. So viele schöne Erinnerungen.";
+	}
+	[0x0000]
+	{
+		from = "Such a beautiful day for a swim, don't you think?";
+		to = "So ein schöner Tag um zu schwimmen, findest du nicht?";
+	}
+
+	// pool_hammock
+	[0x0000]
+	{
+		from = "The view from the pool is just stunning. The ocean looks so close, doesn't it?";
+		to = "Die Aussicht vom Pool ist der Hammer. Das Meer scheint so nah, oder?";
+	}
+	[0x0000]
+	{
+		from = "I love how the palm trees sway in the breeze. It's like they're dancing just for us.";
+		to = "Ich liebe das Schaukeln der Palmen im Wind. Es ist als würden sie nur für uns tanzen.";
+	}
+	[0x0000]
+	{
+		from = "Isn't it funny how time just seems to slow down when you're at the pool?";
+		to = "Ist es nicht seltsam wie die Zeit am Pool langsamer zu vergehen scheint?";
+	}
+
+	// pool_reading
+	[0x0000]
+	{
+		from = "Nothing beats lounging by the pool with a good book. Care to join me?";
+		to = "Es gibt nichts besseres als mit einem guten Buch am Pool zu sitzen. Magst du auch?";
+	}
+	[0x0000]
+	{
+		from = "Nothing like a cold drink by the pool. Care for a taste?";
+		to = "Nichts besseres als ein kühles Getränk am Pool. Magst du probieren?";
+	}
+	[0x0000]
+	{
+		from = "I could listen to the sound of the water all day. It's so calming.";
+		to = "Ich könnte den ganzen Tag dem Wasser zuhören. Es ist so entspannend.";
+	}
 }
