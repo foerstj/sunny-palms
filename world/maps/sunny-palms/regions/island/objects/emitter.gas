@@ -10,6 +10,20 @@
 	  p position = -1.08882,0,3.34349,0x88f9da57;
 	}
 }
+[t:emitter_glb_smoke_01,n:0x001005a7]
+{
+	[placement]
+	{
+	  p position = 4.0557,4.46729,2.09899,0xb498d3b9;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x001005aa]
+{
+	[placement]
+	{
+	  p position = 4.09196,4.23603,2.08928,0x5f8fe175;
+	}
+}
 [t:emt_glowworms_nightly,n:0x0010035c]
 {
 	[common]
@@ -359,6 +373,13 @@
 	{
 	  q orientation = 0,0.942082,0,0.335383;
 	  p position = 0.463947,0,1.50132,0x006eff16;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x00100633]
+{
+	[placement]
+	{
+	  p position = 4.07565,4.34727,2.06572,0x9d00da23;
 	}
 }
 [t:emt_glowworms_nightly,n:0x0010039d]
@@ -3885,6 +3906,20 @@
 	{
 	  q orientation = 0,0.50419,0,0.863593;
 	  p position = 2.08845,0,-1.66328,0x9e397b61;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x00100634]
+{
+	[placement]
+	{
+	  p position = -3.79038,3.81717,2.05811,0x76048d97;
+	}
+}
+[t:emitter_glb_smoke_01,n:0x00100635]
+{
+	[placement]
+	{
+	  p position = 4.08025,4.45371,2.01532,0xc16f5e36;
 	}
 }
 [t:emt_glowworms_nightly,n:0x001003fc]
