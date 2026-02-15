@@ -62,6 +62,7 @@
 {
 	specializes = dog_base;
 	common:is_multi_player = true;
+	aspect:is_selectable = true;
 }
 
 [t:template,n:dog_sleeping_base]  // = dog_sleeping
@@ -125,4 +126,5 @@
 {
 	specializes = dog_sleeping_base;
 	common:is_multi_player = true;
+	aspect:is_selectable = true;
 }
