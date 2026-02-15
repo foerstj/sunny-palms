@@ -26144,18 +26144,6 @@
 	  p position = 5.33043,-5,6.30462,0x9d00da23;
 	}
 }
-[t:dog_sleeping_mp,n:0x001004ed]
-{
-	[common]
-	{
-		screen_name = "Waldo";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.0705409,0,0.997509;
-	  p position = -2.10575,-3,-5.90506,0x9d00da23;
-	}
-}
 [t:lamp_csl_01,n:0x00100536]
 {
 	[placement]
@@ -138987,18 +138975,6 @@
 	  p position = 3.98031,0,-0.0910975,0xc1ac8181;
 	}
 }
-[t:dog_sleeping_mp,n:0x001004ee]
-{
-	[common]
-	{
-		screen_name = "Schnuffi";
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.157562,0,0.987509;
-	  p position = 3.72186,0,0.076931,0xecfbd21f;
-	}
-}
 [t:table_grs_round,n:0x001004f2]
 {
 	[placement]
@@ -219534,18 +219510,6 @@
 	  p position = -0.193888,-6.67572e-006,-1.06588,0xbc7d4541;
 	}
 }
-[t:dog_mp,n:0x001004eb]
-{
-	[common]
-	{
-		screen_name = "Glungus";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.146522,0,0.989207;
-	  p position = -0.0985355,0,1.44423,0xc22dbd31;
-	}
-}
 [t:tree_glb_palm_sway_02,n:0x0010e98a]
 {
 	[aspect]
@@ -219988,18 +219952,6 @@
 	{
 	  q orientation = 0,0.995792,0,0.09164;
 	  p position = -2.36631,-6.67572e-006,-2.47357,0x9c71217d;
-	}
-}
-[t:dog_mp,n:0x001004ec]
-{
-	[common]
-	{
-		screen_name = "Fiffi";
-	}
-	[placement]
-	{
-	  q orientation = 0,-0.103948,0,0.994583;
-	  p position = -0.584462,0,-0.782301,0x088be2c5;
 	}
 }
 [t:bucket_grs_01,n:0x00100602]

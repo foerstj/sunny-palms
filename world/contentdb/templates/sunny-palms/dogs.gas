@@ -1,0 +1,128 @@
+[t:template,n:dog_base]  // = dog
+{
+	category_name = "1W_ambients";
+	doc = "dog";
+	specializes = actor_ambient;
+	[actor]
+	{
+		alignment = aa_good;
+		race = other;
+	}
+	[aspect] { model=m_c_na_dg_pos_1; }
+	[body]
+	{
+		avg_move_velocity = 1.270000;
+		[bone_translator]
+		{
+			body_anterior = bone05;
+			body_mid = bone01;
+			body_posterior = bone09;
+			kill_bone = bone01;
+			shield_bone = bone01;
+			weapon_bone = bone05;
+		}
+		[chore_dictionary]
+		{
+			chore_prefix = a_c_na_dg_fs;
+			[chore_attack]
+			{
+				chore_stances = 0;
+				skrit = select_attack;
+				[anim_files] { 00=su; }
+			}
+			[chore_default]
+			{
+				chore_stances = 0;
+				skrit = infinite_loop;
+				[anim_files] { 00=ds; }
+			}
+			[chore_die]
+			{
+				chore_stances = 0;
+				skrit = select_transition;
+				[anim_files] { 00=sg; }
+			}
+			[chore_fidget]
+			{
+				chore_stances = 0;
+				skrit = select_fidget;
+				[anim_files] { 00=dsf; }
+			}
+			[chore_walk]
+			{
+				chore_stances = 0;
+				skrit = select_walk;
+				[anim_files] { 00=wl; }
+			}
+		}
+	}
+	[common] { screen_name="Dog"; }
+}
+[t:template,n:sup_dog]
+{
+	specializes = dog_base;
+	common:is_multi_player = true;
+}
+
+[t:template,n:dog_sleeping_base]  // = dog_sleeping
+{
+	category_name = "1W_ambients";
+	doc = "dog_sleeping";
+	specializes = actor_ambient;
+	[actor]
+	{
+		alignment = aa_good;
+		race = other;
+	}
+	[aspect] { model=m_c_na_dg2_pos_1; }
+	[body]
+	{
+		[bone_translator]
+		{
+			body_anterior = bone05;
+			body_mid = bone01;
+			body_posterior = bone09;
+			kill_bone = bone01;
+			shield_bone = bone01;
+			weapon_bone = bone05;
+		}
+		[chore_dictionary]
+		{
+			chore_prefix = a_c_na_dg2_fs;
+			[chore_default]
+			{
+				chore_stances = 0;
+				skrit = infinite_loop;
+				[anim_files] { 00=ds; }
+			}
+			[chore_fidget]
+			{
+				chore_stances = 0;
+				skrit = select_fidget;
+				[anim_files] { 00=dsf; }
+			}
+			[chore_misc]
+			{
+				chore_stances = ignore;
+				skrit = select_transition;
+				[anim_files]
+				{
+					look = a_c_na_dg2_fs0_dsf-02;
+				}
+			}
+		}
+	}
+	[common] { screen_name="Dog"; }
+	[mind]
+	{
+		jat_move          		= jat_none;
+		jat_attack_object       = jat_none;
+		jat_die          		= jat_none;
+		movement_orders			= mo_hold;
+	}
+}
+[t:template,n:sup_dog_sleeping]
+{
+	specializes = dog_sleeping_base;
+	common:is_multi_player = true;
+}

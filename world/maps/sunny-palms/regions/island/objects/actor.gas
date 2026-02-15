@@ -78,6 +78,18 @@
 	  p position = -0.574092,-3,-0.090332,0x9d00da23;
 	}
 }
+[t:sup_dog_sleeping,n:0x001004ed]
+{
+	[common]
+	{
+		screen_name = "Waldo";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.0705409,0,0.997509;
+	  p position = -2.10575,-3,-5.90506,0x9d00da23;
+	}
+}
 [t:gecko,n:0x00100498]
 {
 	[placement]
@@ -701,6 +713,18 @@
 	  p position = 2.79379,0,1.98827,0xecfbd21f;
 	}
 }
+[t:sup_dog_sleeping,n:0x001004ee]
+{
+	[common]
+	{
+		screen_name = "Schnuffi";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.157562,0,0.987509;
+	  p position = 3.72186,0,0.076931,0xecfbd21f;
+	}
+}
 [t:gecko,n:0x0010049c]
 {
 	[placement]
@@ -1075,6 +1099,18 @@
 	  p position = 0.422409,0,0.223476,0x24e943af;
 	}
 }
+[t:sup_dog,n:0x001004eb]
+{
+	[common]
+	{
+		screen_name = "Glungus";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.146522,0,0.989207;
+	  p position = -0.0985355,0,1.44423,0xc22dbd31;
+	}
+}
 [t:sup_npc_fg_01,n:0x001004b4]
 {
 	[common]
@@ -1111,6 +1147,18 @@
 	{
 	  q orientation = 0,-0.707107,0,0.707107;
 	  p position = 1.4455,0,0.900028,0x088be2c5;
+	}
+}
+[t:sup_dog,n:0x001004ec]
+{
+	[common]
+	{
+		screen_name = "Fiffi";
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.103948,0,0.994583;
+	  p position = -0.584462,0,-0.782301,0x088be2c5;
 	}
 }
 [t:gecko,n:0x00100497]
