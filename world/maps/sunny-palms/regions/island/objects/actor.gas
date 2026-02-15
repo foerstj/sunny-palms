@@ -181,15 +181,11 @@
 	  p position = 2.8485,0,0.0578651,0x482f12fb;
 	}
 }
-[t:chicken_red,n:0x001004d7]
+[t:sup_chicken,n:0x001004d7]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Tipsy";
 	}
 	[placement]
 	{
@@ -197,15 +193,11 @@
 	  p position = -3.17555,0,-3.09385,0x7769ed0b;
 	}
 }
-[t:chicken_red,n:0x001004d2]
+[t:sup_chicken,n:0x001004d2]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Denny";
 	}
 	[placement]
 	{
@@ -213,15 +205,11 @@
 	  p position = -0.160938,0,0.560219,0xb6b4e782;
 	}
 }
-[t:chicken_red,n:0x001004d6]
+[t:sup_chicken,n:0x001004d6]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Picky";
 	}
 	[placement]
 	{
@@ -229,15 +217,11 @@
 	  p position = -2.85129,0,-1.39966,0xb6b4e782;
 	}
 }
-[t:chicken_red,n:0x001004d8]
+[t:sup_chicken,n:0x001004d8]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Munchkin";
 	}
 	[placement]
 	{
@@ -245,15 +229,11 @@
 	  p position = -1.2205,-1.90735e-006,-2.96031,0xb6b4e782;
 	}
 }
-[t:chicken_red,n:0x001004ce]
+[t:sup_chicken,n:0x001004ce]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Sunny";
 	}
 	[placement]
 	{
@@ -261,15 +241,11 @@
 	  p position = 3.32831,0,-3.47112,0x6e2fe7d3;
 	}
 }
-[t:chicken_red,n:0x001004d0]
+[t:sup_chicken,n:0x001004d0]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Lotti";
 	}
 	[placement]
 	{
@@ -277,15 +253,11 @@
 	  p position = -1.92378,1.90735e-006,-2.64922,0x6e2fe7d3;
 	}
 }
-[t:chicken_red,n:0x001004d1]
+[t:sup_chicken,n:0x001004d1]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Wilma";
 	}
 	[placement]
 	{
@@ -293,15 +265,11 @@
 	  p position = 1.9129,0,0.836277,0x6e2fe7d3;
 	}
 }
-[t:chicken_red,n:0x001004db]
+[t:sup_chicken,n:0x001004db]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Silly";
 	}
 	[placement]
 	{
@@ -309,15 +277,11 @@
 	  p position = 3.42712,-2.3,-3.28142,0x2d736e23;
 	}
 }
-[t:chicken_red,n:0x001004cc]
+[t:sup_chicken,n:0x001004cc]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Spot";
 	}
 	[placement]
 	{
@@ -325,15 +289,11 @@
 	  p position = 1.42929,0,0.653131,0x7c4c108a;
 	}
 }
-[t:chicken_red,n:0x001004cf]
+[t:sup_chicken,n:0x001004cf]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Gackeline";
 	}
 	[placement]
 	{
@@ -341,15 +301,11 @@
 	  p position = -2.99921,0,1.33914,0x7c4c108a;
 	}
 }
-[t:chicken_red,n:0x001004dc]
+[t:sup_chicken,n:0x001004dc]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Coco";
 	}
 	[placement]
 	{
@@ -357,15 +313,11 @@
 	  p position = 2.51726,0,3.09191,0x7c4c108a;
 	}
 }
-[t:chicken_red,n:0x001004cd]
+[t:sup_chicken,n:0x001004cd]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Bokbok";
 	}
 	[placement]
 	{
@@ -373,15 +325,11 @@
 	  p position = -1.62325,0,2.83074,0x76fc59ff;
 	}
 }
-[t:chicken_red,n:0x001004ca]
+[t:sup_chicken,n:0x001004ca]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Tilda";
 	}
 	[placement]
 	{
@@ -389,15 +337,11 @@
 	  p position = -3.60703,-1.90735e-006,1.84825,0x972a3d24;
 	}
 }
-[t:chicken_red,n:0x001004cb]
+[t:sup_chicken,n:0x001004cb]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Henriette";
 	}
 	[placement]
 	{
@@ -405,15 +349,11 @@
 	  p position = -3.78901,0,-1.30974,0x972a3d24;
 	}
 }
-[t:chicken_red,n:0x001004d3]
+[t:sup_chicken,n:0x001004d3]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Nugget";
 	}
 	[placement]
 	{
@@ -421,15 +361,11 @@
 	  p position = -1.7507,0,-3.48373,0x972a3d24;
 	}
 }
-[t:chicken_red,n:0x001004da]
+[t:sup_chicken,n:0x001004da]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Pepper";
 	}
 	[placement]
 	{
@@ -437,15 +373,11 @@
 	  p position = -3.74721,0,3.61987,0x972a3d24;
 	}
 }
-[t:chicken_red,n:0x001004dd]
+[t:sup_chicken,n:0x001004dd]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Fluffy";
 	}
 	[placement]
 	{
@@ -453,15 +385,11 @@
 	  p position = -2.31656,0,3.51206,0x972a3d24;
 	}
 }
-[t:chicken_red,n:0x001004d9]
+[t:sup_chicken,n:0x001004d9]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Rascal";
 	}
 	[placement]
 	{
@@ -469,15 +397,11 @@
 	  p position = -3.14717,1.90735e-006,-3.75947,0x944bb878;
 	}
 }
-[t:chicken_red,n:0x001004d4]
+[t:sup_chicken,n:0x001004d4]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Goldie";
 	}
 	[placement]
 	{
@@ -667,15 +591,11 @@
 	  p position = -1.68331,-7.62939e-006,1.93668,0x5906dbb2;
 	}
 }
-[t:chicken_red,n:0x001004d5]
+[t:sup_chicken,n:0x001004d5]
 {
 	[common]
 	{
-	  b is_multi_player = true;
-	}
-	[mind]
-	{
-	  b on_enemy_entered_weapon_engage_range_attack = true;
+		screen_name = "Hennifer";
 	}
 	[placement]
 	{
