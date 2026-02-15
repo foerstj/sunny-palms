@@ -41,6 +41,20 @@
 		to = "Der Weststrand und der Oststrand sind nicht zugänglich. Sie werden den Vögeln und Tieren der Insel überlassen. Du kannst jedoch den Nordstrand und den Südstrand besuchen. Am Südstrand liegt die Drei-Heiligen-Bar; der Nordstrand ist ruhiger.";
 	}
 
+	// bug_season
+	[0x0000]
+	{
+		from = "About once a year, all the fireflies on this island hatch into big, biting bugs. It's called Bug Season. We go out hunting, it's great fun - you should join us if you're still around!";
+		to = "Etwa einmal im Jahr verwandeln sich die ganzen Glühwürmer dieser Insel in große, beißwütige Käfer. Es nennt sich Käferzeit. Wir gehen dann jagen, das ist ein Riesenspaß - du solltest mal mitkommen wenn du dann noch da bist!";
+	}
+
+	// flowers
+	[0x0000]
+	{
+		from = "The flowers bloom in a special way around here. Some say they have magical properties.";
+		to = "Die Blumen hier blühen ganz besonders. Manche sagen, sie haben magische Eigenschaften.";
+	}
+
 	// pool1
 	[0x0000]
 	{
@@ -107,5 +121,112 @@
 	{
 		from = "I could listen to the sound of the water all day. It's so calming.";
 		to = "Ich könnte den ganzen Tag dem Wasser zuhören. Es ist so entspannend.";
+	}
+
+	// gratitude
+	[0x0000]
+	{
+		from = "Thanks for stopping by! It's always nice to see a new face on the island.";
+		to = "Danke fürs reinschauen! Es ist immer schön, ein neues Gesicht auf der Insel zu sehen.";
+	}
+	[0x0000]
+	{
+		from = "I'm so glad you're here. Life's simple, but full of little joys.";
+		to = "Ich freue mich so dass du hier bist. Das Leben ist einfach, aber voller kleiner Freuden.";
+	}
+
+	// house_cave
+	[0x0000]
+	{
+		from = "Between the two Giants, there's a path leading up to a viewpoint over the South Beach. It's a perfect spot for a quiet moment.";
+		to = "Zwischen den beiden Riesen gibt es einen Pfad, der zu einem Aussichtspunkt über dem Südstrand führt. Es ist der perfekte Ort für einen ruhigen Moment.";
+	}
+	[0x0000]
+	{
+		from = "The nights on this island are beautiful. There are all these fireflies just floating in the air, and when you've drunk a little Cocofenny you feel like you're walking amid the stars...
+Except for about one month a year, when they hatch into nasty bugs! I'm not kidding, Bug Season is dangerous! The young men go out hunting, the rest of us just stays at home until it's over.
+Then, about another month of dark nights. Then, new fireflies.";
+		to = "Die Nächte auf dieser Insel sind wunderschön. Da sind so viele Glühwürmer, die in der Luft herumschweben, und wenn man ein bisschen Cocofenny getrunken hat, fühlt man sich, als würde man zwischen den Sternen spazieren...
+Außer etwa einen Monat im Jahr, wenn sie sich in fiese Käfer verwandeln! Ich mache keinen Spaß, die Käferzeit ist gefährlich! Die jungen Männer gehen raus zum jagen, der Rest von uns bleibt einfach im Haus bis es vorbei ist.
+Dann gibt es einen Monat dunkler Nächte. Dann neue Glühwürmer.";
+	}
+	[0x0000]
+	{
+		from = "The fish stew I made last night was a hit! I'll have to give you the recipe.";
+		to = "Die Fischsuppe die ich letzte Nacht gemacht habe war ein Hit! Ich muss dir unbedingt das Rezept geben.";
+	}
+
+	// south_beach
+	[0x0000]
+	{
+		from = "Ah, the sea breeze is so refreshing today, don't you think?";
+		to = "Ah, die Meeresbrise ist so erfrischend heute, findest du nicht?";
+	}
+	[0x0000]
+	{
+		from = "If you're looking to fish, the best spot is on the North Beach. The fish practically jump into your hands!";
+		to = "Wenn du angeln möchtest, ist der beste Platz dafür der Nordstrand. Die Fische springen dir praktisch in die Hände!";
+	}
+
+	// barkeep
+	[0x0000]
+	{
+		from = "Welcome to the Three Saints Bar. It's named after the three saints statues here, of course.
+Fancy something to eat or drink?";
+		to = "Willkommen in der Drei-Heiligen-Bar. Sie ist natürlich nach den drei Heiligenstatuen hier benannt.
+Hättest du gern etwas zu essen oder zu trinken?";
+	}
+	[0x0000]
+	{
+		from = "On the menu today is grilled fish, fish coconut curry, coconut pie, some salad, and eggs.
+We also still have some dried bug meat from last bug season, if you want to try.";
+		to = "Auf der Karte haben wir heute gegrillten Fisch, Fisch-Kokosnuss-Curry, Kokosnuss-Kuchen, etwas Salat, und Eier.
+Wir haben auch noch etwas getrocknetes Käferfleisch von der letzten Käferzeit, falls du probieren willst.";
+	}
+	[0x0000]
+	{
+		from = "For drinks we have fresh water, homemade lemonade, coffee, wine, and our specialty Cocofenny schnapps.";
+		to = "Zu trinken haben wir frisches Wasser, hausgemachte Limonade, Kaffee, Wein, und unsere Spezialität Cocofenny-Schnaps.";
+	}
+	[0x0000]
+	{
+		from = "Welcome to the Three Saints Bar!";
+		to = "Willkommen in der Drei-Heiligen-Bar!";
+	}
+
+	// bar1
+	[0x0000]
+	{
+		from = "Carving driftwood is a favorite pastime of mine. Each piece tells its own story.";
+		to = "Treibholz Schnitzen ist eins meiner Hobbys. Jedes Stück erzählt seine eigene Geschichte.";
+	}
+
+	// bar2
+	[0x0000]
+	{
+		from = "I spent all morning crafting this seashell necklace. Isn't it beautiful?";
+		to = "Ich hab den ganzen Vormittag lang diese Muschelkette gebastelt. Ist sie nicht schön?";
+	}
+
+	// saints
+	[0x0000]
+	{
+		from = "The Three Saints Bar is named after the three stone heads over here. We call them our saints.";
+		to = "Die Drei-Heiligen-Bar ist nach den drei Steinköpfen hier drüben benannt. Wir nennen sie unsere Heiligen.";
+	}
+	[0x0000]
+	{
+		from = "The saints were all built by our ancestors. The one on the mountain top is the newest one, it was built when I was a kid! There are sixteen saints altogether on Sunny Palms.";
+		to = "Die Heiligen wurden alle von unseren Vorfahren erstellt. Der auf dem Gipfel ist der neueste, er wurde gebaut als ich ein Kind war! Insgesamt gibt es sechzehn Heilige auf Sunny Palms.";
+	}
+	[0x0000]
+	{
+		from = "There are also two huge stone heads on this island, maybe you've seen them already? They are called the Guardian and the Dreamer. They were already there when our first ancestors arrived here. Naturally, a lot of legends are told about them, but it's all just stories.";
+		to = "Es gibt auch zwei riesige Steinköpfe auf dieser Insel, vielleicht hast du sie schon gesehen? Sie heißen der Wächter und der Träumer. Sie waren bereits hier, als unsere ersten Vorfahren hier ankamen. Natürlich werden viele Legenden über sie erzählt, aber das sind alles nur Geschichten.";
+	}
+	[0x0000]
+	{
+		from = "You should try the fish coconut curry here, it's delicious!";
+		to = "Du solltest hier das Fisch-Kokosnuss-Curry probieren, es ist köstlich!";
 	}
 }
