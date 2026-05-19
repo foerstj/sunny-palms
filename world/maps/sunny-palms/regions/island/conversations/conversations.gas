@@ -2,341 +2,438 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_island_bar1_1;
 		screen_text = "Carving driftwood is a favorite pastime of mine. Each piece tells its own story.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [bar2]
 {
 	[text*]
 	{
+		sample = s_v_xp_island_bar2_1;
 		screen_text = "I spent all morning crafting this seashell necklace. Isn't it beautiful?";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [barkeep]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_island_barkeep_1;
 		screen_text = "Welcome to the Three Saints Bar. It's named after the three saints statues here, of course.
 Fancy something to eat or drink?";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 		choice = more;
 	  i order = 1;
+		sample = s_v_xp_island_barkeep_2;
 		screen_text = "On the menu today is grilled fish, fish coconut curry, coconut pie, some salad, and eggs.
 We also still have some dried bug meat from last bug season, if you want to try.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 	  i order = 2;
+		sample = s_v_xp_island_barkeep_3;
 		screen_text = "For drinks we have fresh water, homemade lemonade, coffee, wine, and our specialty Cocofenny schnapps.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_barkeep_4;
 		screen_text = "Welcome to the Three Saints Bar!";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [bug_season]
 {
 	[text*]
 	{
+		sample = s_v_xp_island_bug_season_1;
 		screen_text = "About once a year, all the fireflies on this island hatch into big, biting bugs. It's called Bug Season. We go out hunting, it's great fun - you should join us if you're still around!";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [fishing]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_island_fishing_1;
 		screen_text = "Mornin'! Nice day for fishin', ain't it!";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 	  i order = 1;
+		sample = s_v_xp_island_fishing_2;
 		screen_text = "I was up early to catch the fish today. The waters have been bountiful this season.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_fishing_1;
 		screen_text = "Mornin'! Nice day for fishin', ain't it!";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [flowers]
 {
 	[text*]
 	{
+		sample = s_v_xp_island_flowers_1;
 		screen_text = "The flowers bloom in a special way around here. Some say they have magical properties.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [gratitude]
 {
 	[text*]
 	{
 	  i order = 0;
+		sample = s_v_xp_island_gratitude_1;
 		screen_text = "Thanks for stopping by! It's always nice to see a new face on the island.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_gratitude_2;
 		screen_text = "I'm so glad you're here. Life's simple, but full of little joys.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [guardian]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_island_guardian_1;
 		screen_text = "This giant stone head is called the Guardian, because it guards us from all the dangerous things that might come across the water. That's why this island is so safe and peaceful...";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 		choice = more;
 	  i order = 1;
+		sample = s_v_xp_island_guardian_2;
 		screen_text = "There's a second one like this, just across this hill to the south, which is called the Dreamer. It dreams of peace and happiness, and these dreams radiate across the entire island.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 	  i order = 2;
+		sample = s_v_xp_island_guardian_3;
 		screen_text = "Together, we call them the Giants.
 When the first settlers, our ancestors, arrived on this island, they found these Giants already here. They built temples around them to worship them, but the Giants apparently didn't like it, because one day there was an earthquake and the temples got destroyed...";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_guardian_4;
 		screen_text = "The Guardian and the Dreamer are the reasons why our lives on Sunny Palms are so full of happiness. They don't want temples built for them, but when we pass by them on strolls around the island, we all like to stop by for a moment and give a silent prayer of thanks.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [house_cave]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_island_house_cave_1;
 		screen_text = "Between the two Giants, there's a path leading up to a viewpoint over the South Beach. It's a perfect spot for a quiet moment.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 		choice = more;
 	  i order = 1;
+		sample = s_v_xp_island_house_cave_2;
 		screen_text = "The nights on this island are beautiful. There are all these fireflies just floating in the air, and when you've drunk a little Cocofenny you feel like you're walking amid the stars...
 Except for about one month a year, when they hatch into nasty bugs! I'm not kidding, Bug Season is dangerous! The young men go out hunting, the rest of us just stays at home until it's over.
 Then, about another month of dark nights. Then, new fireflies.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_house_cave_3;
 		screen_text = "The fish stew I made last night was a hit! I'll have to give you the recipe.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [mountain]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_island_mountain_1;
 		screen_text = "Hey, found a way through that little thicket? Yeah the view is quite nice here, but you should continue upwards, you'll get to a great viewpoint above the South Beach!";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 	  i order = 1;
+		sample = s_v_xp_island_mountain_2;
 		screen_text = "Don't worry about the cows, they're the most peaceful of all animals. You should take the upper path to reach the top, though.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_mountain_3;
 		screen_text = "Life on this island is so peaceful. I can't imagine living anywhere else.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [pool1]
 {
 	[text*]
 	{
+		sample = s_v_xp_island_pool1_1;
 		screen_text = "The water's perfect today! I could float here all afternoon.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_pool1_2;
 		screen_text = "This pool is a hidden gem! The water's always so clear and inviting.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_pool1_3;
 		screen_text = "The sun's out, the water's warm - what more could you ask for?";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [pool2]
 {
 	[text*]
 	{
+		sample = s_v_xp_island_pool2_1;
 		screen_text = "I'm working on my tan. Just a few more minutes and I'll be golden!";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_pool2_2;
 		screen_text = "I remember learning to swim right here in this pool. So many good memories.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_pool2_3;
 		screen_text = "Such a beautiful day for a swim, don't you think?";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [pool_hammock]
 {
 	[text*]
 	{
+		sample = s_v_xp_island_pool_hammock_1;
 		screen_text = "The view from the pool is just stunning. The ocean looks so close, doesn't it?";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_pool_hammock_2;
 		screen_text = "I love how the palm trees sway in the breeze. It's like they're dancing just for us.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_pool_hammock_3;
 		screen_text = "Isn't it funny how time just seems to slow down when you're at the pool?";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [pool_reading]
 {
 	[text*]
 	{
+		sample = s_v_xp_island_pool_reading_1;
 		screen_text = "Nothing beats lounging by the pool with a good book. Care to join me?";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_pool_reading_2;
 		screen_text = "Nothing like a cold drink by the pool. Care for a taste?";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_pool_reading_3;
 		screen_text = "I could listen to the sound of the water all day. It's so calming.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [saints]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_island_saints_1;
 		screen_text = "The Three Saints Bar is named after the three stone heads over here. We call them our saints.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 		choice = more;
 	  i order = 1;
+		sample = s_v_xp_island_saints_2;
 		screen_text = "The saints were all built by our ancestors. The one on the mountain top is the newest one, it was built when I was a kid! There are sixteen saints altogether on Sunny Palms.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 		choice = more;
 	  i order = 2;
+		sample = s_v_xp_island_saints_3;
 		screen_text = "There are also two huge stone heads on this island, maybe you've seen them already? They are called the Guardian and the Dreamer. They were already there when our first ancestors arrived here. Naturally, a lot of legends are told about them, but it's all just stories.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_saints_4;
 		screen_text = "You should try the fish coconut curry here, it's delicious!";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [south_beach]
 {
 	[text*]
 	{
+		sample = s_v_xp_island_south_beach_1;
 		screen_text = "Ah, the sea breeze is so refreshing today, don't you think?";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 	  i order = 1;
+		sample = s_v_xp_island_south_beach_2;
 		screen_text = "If you're looking to fish, the best spot is on the North Beach. The fish practically jump into your hands!";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [welcome1]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_island_welcome1_1;
 		screen_text = "How nice to meet you, Visitor! Welcome to the Island of Sunny Palms!";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 	  i order = 1;
+		sample = s_v_xp_island_welcome1_2;
 		screen_text = "Is it your first time visiting Sunny Palms? You should go for a walk around the island to see all the places and meet everyone! Most people will be here in the village, or down at the South Beach.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_welcome1_3;
 		screen_text = "This island is a haven of peace. It's the perfect place to escape from the world.";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [welcome2]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_island_welcome2_1;
 		screen_text = "Welcome to our peaceful little island. Make yourself at home!";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
 	  i order = 1;
+		sample = s_v_xp_island_welcome2_2;
 		screen_text = "I've lived on this island my whole life. There's no place I'd rather be.";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_welcome2_1;
 		screen_text = "Welcome to our peaceful little island. Make yourself at home!";
 	  f scroll_rate = 10.000000;
 	}
 }
+
 [west_cliff]
 {
 	[text*]
 	{
 		choice = more;
 	  i order = 0;
+		sample = s_v_xp_island_west_cliff_1;
 		screen_text = "Nice view, huh? You should come here at sunset. The view is breathtaking!";
 	  f scroll_rate = 10.000000;
 	}
+
 	[text*]
 	{
+		sample = s_v_xp_island_west_cliff_2;
 		screen_text = "The West Beach and the East Beach are not accessible. They are left alone for the birds and animals of the island. You can visit the North Beach and the South Beach, though. On the South Beach, there's the Three Saints Bar; the North Beach is more quiet.";
 	  f scroll_rate = 10.000000;
 	}

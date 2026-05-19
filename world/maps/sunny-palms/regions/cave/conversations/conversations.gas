@@ -2,6 +2,7 @@
 {
 	[text*]
 	{
+		sample = s_v_xp_island_crystals_1;
 		screen_text = "Aren't these crystals just super awesome! I could spend hours just looking at them! Sometimes I do.";
 	  f scroll_rate = 10.000000;
 	}
